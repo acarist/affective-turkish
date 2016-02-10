@@ -1531,7 +1531,7 @@ bediiyat,aesthetic,3.22,1.94,3.25,NN
 beğeni,delight,4.61,3.01,4.15,NN
 beğenilen,admirable,4,2.79,3.41,ADJ
 beğenilmeyen,crappy,1.68,3.13,2.46,ADJ
-beğenmek,unpack,3.15,1.95,3.23,VB
+paketi açmak,unpack,3.15,1.95,3.23,VB
 beğenmeme,dislike,2.13,2.64,3.41,NN
 behişt,heaven,4.25,2.62,3.11,NN
 bej,beige,3.13,1.8,3.03,ADJ
@@ -4454,6 +4454,7 @@ fihrist,contents,3.4,2.73,3.38,NN
 fiil,verb,3.14,2.3,3.28,NN
 fikir,idea,4.03,2.83,3.56,NN
 fikir birliği,consensus,3.37,2,3.19,NN
+fikir vermek,advise,3.22,2.19,3.71,VB
 fikrisabit,obsession,2.69,3.32,2.58,NN
 fikstür,fixture,3.03,1.95,3.25,NN
 fil,elephant,3.59,2.62,2.62,NN
@@ -5576,7 +5577,7 @@ hazım,digestion,2.75,2.43,3.11,NN
 hazımsızlık,indigestion,1.74,2.15,2.3,NN
 hazır,ready,3.82,2.45,3.53,ADJ
 hazır olma,readiness,3.62,2.46,3.5,NN
-hazır yemek,delicatessen,3.7,2.73,3.77,VB
+hazır yemek,delicatessen,3.7,2.73,3.77,NN
 hazırlamak,prepare,3.16,2.58,4.13,VB
 hazırlanmak,behave,3.63,2.36,4.03,VB
 hazırlanmış,shipshape,3.1,2.65,3.29,ADJ
@@ -5727,6 +5728,7 @@ hırs,ambition,4.14,2.93,3.68,NN
 hırsız,shoplifter,1.63,3.3,2.93,NN
 hırsızlık,burglary,1.63,3.67,1.93,NN
 hırsızlık etmek,steal,1.59,3.15,2,VB
+hırsızlık yapmak,steal,1.59,3.15,2,VB
 hırslı,ambitious,3.67,3.38,3.44,ADJ
 hışım,anger,1.75,3.47,3.07,NN
 hışırtı,rustle,2.58,2.44,3.31,NN
@@ -5784,7 +5786,8 @@ hoşgörülü,tolerant,3.45,2.05,3.5,ADJ
 hoşgörüsüz,intolerant,2.22,2.53,2.87,ADJ
 hoşgörüsüzlük,intolerance,1.98,3.18,2.44,NN
 hoşlanma,gratification,4.36,2.77,3.59,NN
-hoşlanmak,unwind,3.45,2.31,3.28,VB
+hoşuna gitmek,like,4.22,2.7,3.64,VB
+hoşlanmak,like,4.22,2.7,3.64,VB
 hoşlanmama,aversion,2.5,3.07,2.91,NN
 hoşluk,sweetness,4.19,2.69,3.46,NN
 hoşnut,delighted,4.37,3,3.61,ADJ
@@ -8586,7 +8589,6 @@ maharet,dexterity,3.68,2.13,3.54,NN
 maharetli,resourceful,4.13,2.5,3.74,ADJ
 mahbes,penitentiary,1.53,3.68,2.22,NN
 mahcubiyet,shyness,2.72,2,3.45,NN
-mahcup,bashful,3.28,2.68,2.87,ADJ
 mahçup,embarrassed,2.26,3.19,2.34,ADJ
 mahcup etmek,embarrass,2.19,3.24,2.61,VB
 mahcur,restricted,2.42,2.8,2.22,ADJ
@@ -9491,7 +9493,7 @@ müşterek bahisçi,bookmaker,3.3,2.05,3.45,NN
 müşteri,customer,3.43,2.2,3.58,NN
 müşteriler,clientele,3.05,2.37,3.45,NN
 müsteşar,undersecretary,2.86,1.93,2.74,NN
-müstesna,split,2.75,3.28,3.4,ADJ
+müstesna,exception,3.13,2.68,2.56,NN
 müstevi,flat,2.72,2.02,2.5,ADJ
 müstevli,epidemic,1.53,3.59,1.79,ADJ
 müsvedde,doodle,3.7,2.55,3.96,ADJ
@@ -11787,6 +11789,7 @@ sevkitabii,instinct,3.34,2.72,3.63,NN
 şevkli,peppy,3.6,3.05,3.41,ADJ
 sevkülceyş,strategy,3.48,2.58,3.84,NN
 sevmek,like,4.22,2.7,3.64,VB
+beğenmek,like,4.22,2.7,3.64,VB
 şey,stuff,3.43,2.26,2.92,NN
 seyahat,travel,4.45,3.28,3.91,NN
 şeyh,sheik,3.08,2.7,2.96,NN
@@ -13732,7 +13735,6 @@ ulaşılabilir,accessible,3.84,2.1,3.79,ADJ
 ulaşılamayan,unreachable,2,2.2,2.25,ADJ
 ulaşılamaz,unattainable,1.88,2.74,2.56,ADJ
 ulaşım,contact,3.59,2.17,3.39,NN
-ulaşmak,achieve,4.38,2.85,3.81,VB
 ulaştırmak,deploy,2.63,2.98,2.95,VB
 üleşmek,partake,3.4,2.65,3.9,VB
 ülger,maxim,3.37,2.55,3.32,NN
@@ -14044,7 +14046,6 @@ vanilya,vanilla,4.21,2.31,3.37,NN
 vantilatör,ventilator,2.45,2.53,3.06,NN
 vantrilok,ventriloquist,3.16,3,2.92,NN
 vapur,steamship,3.46,2.75,3.19,NN
-var,exist,3.45,2.5,3.53,VB
 var olmak,emerge,3.38,2.87,3.84,VB
 var olmayan,nonexistent,2.45,2.41,2.42,ADJ
 varak,leaf,3.58,2.03,3.27,NN
@@ -14057,7 +14058,7 @@ varış,arrival,3.84,2.3,3.77,NN
 varışlılık,lore,3.71,2.75,3.29,NN
 varlık,asset,4.13,2.72,3.5,NN
 varlıklı,wealthy,3.69,3.15,3.56,ADJ
-varmak,arrive,3.71,3,3.92,VB
+ulaşmak,arrive,3.71,3,3.92,VB
 varoluşsal,existential,3.43,2.64,3.53,ADJ
 varsanı,hallucination,2.48,3.48,2.18,NN
 varsayılan,default,2.58,2.79,2.85,ADJ
@@ -14445,6 +14446,7 @@ yaramak,avail,3.21,2.39,3.5,VB
 yaramaz,naughty,3.52,3.98,3.38,ADJ
 yaramazlık,mischief,2.89,3.39,2.99,NN
 yaramazlık etmek,misbehave,2.4,2.64,2.83,VB
+yaramazlık yapmak,misbehave,2.4,2.64,2.83,VB
 yarar,benefit,3.94,2.27,3.63,NN
 yararcı,pragmatic,2.79,2.19,3.23,ADJ
 yararlanamamak,abduct,1.71,3.45,1.88,VB
@@ -14515,7 +14517,6 @@ yarıyıl,period,2.17,2.6,3.5,NN
 yarlıgama,forgiveness,3.93,2.52,3.63,NN
 yarlık,writ,2.75,2.59,3.45,NN
 yarma,battering,1.88,2.84,2.68,ADJ
-yarmak,unpack,3.15,1.95,3.23,VB
 yas,mourning,1.36,2.45,2.32,NN
 yaş,age,3.39,2.36,2.84,ADJ
 yaş dönümü,menopause,1.45,2.28,2.66,NN
@@ -14883,7 +14884,7 @@ yoğunlaştırılmış,intensive,2.63,2.69,3.45,ADJ
 yoğunlaştırmak,concentrate,3.73,3.06,3.84,VB
 yoğunluk,intensity,3.1,4.03,3.17,NN
 yoğurt,yogurt,4,2.76,3.5,NN
-yok,unavailable,2.26,2.43,2.34,ADJ
+mevcut olmayan,unavailable,2.26,2.43,2.34,ADJ
 yok edici,exterminator,2.1,3.07,2.81,NN
 yok edilemez,indestructible,3.48,2.66,3.32,ADJ
 yok etme,disposal,2.5,2.71,2.55,NN
