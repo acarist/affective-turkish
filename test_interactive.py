@@ -20,6 +20,7 @@ normwords=get_input(AfDic)
 markedwords=get_input(AfDicMarked)  
 onlywords=[item[0] for item in normwords]
 normwords=remove_mekmak(normwords,mekmak)   
+markedwords=remove_mekmak(markedwords,mekmak) 
 affdic={item[0]:[float(item[2]),float(item[3]),float(item[4]),item[5]] for item in normwords}
 markeddic={item[0]:[float(item[2]),float(item[3]),float(item[4]),item[5]] for item in markedwords}        
 affdic=vowel_harmony(affdic, markeddic)
@@ -27,7 +28,9 @@ affdic=vowel_harmony(affdic, markeddic)
     
 while 1:   
 
-        inputtext = raw_input('Please enter text to see affective prediction: \n')        
+        inputtext = raw_input('Please enter text to see affective prediction: \n')   
+        inputtext=re.sub(r'\:([a-zA-Z])', r': \1', inputtext) #insert space after ":"
+        inputtext=re.sub(r'\.([a-zA-Z])', r'. \1', inputtext)   #insert space after "."
         testing=inputtext.split()                    
         affdic=negate_sizsuz(testing,affdic)                 
         affect={}       
@@ -39,13 +42,15 @@ while 1:
     
         testing=correction15000(dicc,testing)
         testing=remove_reps(testing,onlywords)
-        sen_cleaned=testing[:]               
+        sen_cleaned=testing[:]              
         emotion=check_emoticon(sentence)           
         affect=check_affect(affect,testing,affdic)
+        affect=check_stopwords(affect)
         affect=check_intensifiers(affect,sen_cleaned)
         affect,nene =check_negation(affect,sen_cleaned,affdic)
         polarity=check_polarity(affect)          
         valence,arousal,dominance=overall_average(affect,sen_cleaned,nene,emotion)
+        
         valence,arousal,dominance= check_interjections(affect, polarity,valence,arousal,dominance)      
         valence,arousal,dominance= other_features(valence, arousal, dominance,repp,upp, polarity)        
         valence,arousal,dominance= put_limit(valence, arousal, dominance)
