@@ -27,7 +27,7 @@ abrakadabra,abracadabra,3.06,3.14,2.98,NN
 absürt^,absurd,2.73,2.51,3.03,ADJ
 abuhava,climate,3.4,2.48,2.5,NN
 abuk subukluk^,absurdity,2.53,2.85,3.19,NN
-abuklamak,drool,2.14,1.85,2.68,VB
+abukla^mak,drool,2.14,1.85,2.68,VB
 abus,surly,2.45,2.4,2.98,ADJ
 aç,hungry,2.27,3.3,2.8,ADJ
 açacak^,opener,3.5,2,3.34,NN
@@ -69,7 +69,7 @@ açıkça,open,3.57,2.72,3.59,ADV
 açıkgöz,hardheaded,2.29,2.69,2.63,ADJ
 açıkhava,outdoor,4.17,2.28,3.1,NN
 açıklama,explanation,3.69,2.53,3.57,NN
-açıklamak,explain,3.21,2.5,3.61,VB
+açıkla>mak,explain,3.21,2.5,3.61,VB
 açıklamayan,inexplicable,2.78,3,2.72,ADJ
 açıklanamaz,unexplainable,3,2.47,2.38,ADJ
 açıklanmamış,unexplained,2.8,2.93,2.56,ADJ
@@ -91,8 +91,10 @@ acımasızlık^,cruelty,1.69,3.45,1.82,NN
 acımış,rancid,1.69,3.08,2.54,ADJ
 açımlama,dissection,2.06,2.66,2.96,NN
 acıtmak,sting,1.78,2.94,2.23,VB
+batmak,sting,1.78,2.94,2.23,VB
 açkı,key,3.61,2.45,3.88,NN
 açlık^,hunger,2.1,2.9,2.09,NN
+özle^mek,hunger,2.1,2.9,2.09,VB
 açlıktan ölen,famished,2.74,3.72,2.65,ADJ
 açlıktan ölme,starvation,1.36,3.23,2.41,NN
 açlıktan ölmek,starve,1.77,2.5,2.06,VB
@@ -117,7 +119,7 @@ adam,guy,3.78,2.86,3.06,NN
 adam kaçırma,kidnapping,1.53,3.18,1.74,NN
 adam kayırma,favoritism,2.91,3.08,2.92,NN
 adam öldürme,manslaughter,1.53,3.34,2.44,NN
-adamak,devote,3.27,2.53,4.03,VB
+ada>mak,devote,3.27,2.53,4.03,VB
 adamakıllı,beautiful,4.31,3.36,3.59,ADJ
 adamlık^,humanity,3.89,2.68,3.48,NN
 adaptasyon,adaptation,3.41,2.28,3.52,NN
@@ -156,7 +158,7 @@ afacan,urchin,2.87,2.5,2.84,ADJ
 afacan peri,poltergeist,2.7,3.28,2.53,NN
 afaki,objective,3.28,2.69,3.74,ADJ
 afet,stunner,3.38,2.75,3.43,NN
-affa uğramak,absolution,3.79,2.19,3.38,VB
+affa uğra^mak,absolution,3.79,2.19,3.38,VB
 affedilmek,absolution,3.79,2.19,3.38,VB
 affedilmez,unforgivable,1.67,3.63,2.28,ADJ
 affedilmiş,exempt,2.92,2.72,3.27,ADJ
@@ -207,7 +209,7 @@ ağız yoluyla,oral,2.98,2.67,2.78,ADJ
 ağızlık^,mouthpiece,2.83,2.31,2.81,NN
 ağızotu,bait,2.5,2.25,3.48,NN
 ağlak,weepy,2.03,2.5,2.43,ADJ
-ağlamak,cry,2.11,3.23,1.78,VB
+ağla>mak,cry,2.11,3.23,1.78,VB
 ağlamaklı,weepy,2.03,2.5,2.43,ADJ
 ağlamalı,weepy,2.03,2.5,2.43,ADJ
 ağlamsı,weepy,2.03,2.5,2.43,ADJ
@@ -215,15 +217,14 @@ ağlatı,tragedy,1.56,3.9,2.01,NN
 ağmak,alight,3.34,2.43,3.44,VB
 agreman,compatibility,3.75,3.16,3.25,NN
 agresif,aggressive,2.04,3.44,3.25,ADJ
-ağrı,ache,2.14,2.65,2.5,NN
+ağrımak,ache,2.14,2.65,2.5,VB
 ağrı kesici,painkiller,3.22,2.2,2.84,NN
 ağrı olmaksızın,painless,4.2,2.55,3.36,ADV
-ağrımak,engage,3.8,3.14,3.71,VB
 ağrısız,painless,4.2,2.55,3.36,ADJ
 aguş,bosom,3.72,2.85,3,NN
 ağzı,jaws,2.71,3.46,2.84,NN
 ağzına kadar dolu,brim,3.11,2.5,2.9,NN
-ağzında yuvarlamak,slur,1.95,2.24,2.74,VB
+ağzında yuvarla>mak,slur,1.95,2.24,2.74,VB
 ah<it^,covenant,3.11,2.5,3.18,NN
 aha,behold,3.74,2.44,3.8,UH
 ahacık,behold,3.74,2.44,3.8,UH
@@ -313,7 +314,7 @@ akışkan,fluid,3.03,2.52,3.38,ADJ
 akıtmak,pour,3.08,2.14,3.18,VB
 akkarınca,termite,2.04,2.62,2.27,NN
 aklama,laundering,3.15,2.36,2.42,NN
-aklamak,launder,3.08,2.29,3.18,VB
+akla>mak,launder,3.08,2.29,3.18,VB
 aklanma,acquittal,3.6,2.98,3.02,NN
 aklı başında,sane,3.87,2.41,3.55,ADJ
 aklını oynatmak,infuriate,1.82,3.45,2.74,VB
@@ -384,7 +385,7 @@ alakadar,concerned,2.81,2.48,2.81,ADJ
 alakalı,concerned,2.81,2.48,2.81,ADJ
 alakasız,irrelevant,2.18,2.36,2.84,ADJ
 alakasızlık^,apathy,2.34,2.4,3.08,NN
-alalamak,conceal,2.48,2.37,3.53,VB
+alala>mak,conceal,2.48,2.37,3.53,VB
 alamet,omen,2.39,2.76,2.3,NN
 alamet olmak,bode,2.86,2.5,2.95,VB
 alan,field,3.37,2.42,3.37,NN
@@ -417,7 +418,8 @@ aldatma,infidelity,1.55,3.35,2.43,NN
 aldatmaca,scam,1.77,2.82,2.37,NN
 aldatmak,deceive,1.98,3.45,2.79,VB
 aldırışsız,impervious,3.11,2.68,2.79,ADJ
-aldırmamak,ignore,2.17,2.4,2.92,VB
+aldırma>mak,ignore,2.17,2.4,2.92,VB
+göz ardı etmek,ignore,2.17,2.4,2.92,VB
 aldırmaz,irrelevant,2.18,2.36,2.84,ADJ
 aldırmazlık^,apathy,2.34,2.4,3.08,NN
 alelade,commonplace,3.24,2,3.24,ADJ
@@ -438,7 +440,7 @@ alfabe,alphabet,3.48,2.08,3.4,NN
 alfabetik^,alphabetical,3.66,2,3.57,ADJ
 algı,perception,3.53,2.29,3.6,NN
 algılama,grip,3.07,2.32,3.3,NN
-algılamak,perceive,3.41,2.72,3.5,VB
+algıla>mak,perceive,3.41,2.72,3.5,VB
 algılayıcı,sensor,2.8,2.24,3.03,ADJ
 algısal,perceptive,3.48,2.68,3.98,ADJ
 algoritma,algorithm,3.15,2.35,2.52,NN
@@ -476,7 +478,7 @@ alkan,paraffin,3.05,2.06,3.15,NN
 alkım,rainbow,4.15,2.47,3.56,NN
 alkış,applause,4.06,3.19,3.78,NN
 alkış yağmuru,ovation,3.11,3.16,4.03,NN
-alkışlamak,applaud,3.85,3.03,3.46,VB
+alkışla>mak,applaud,3.85,3.03,3.46,VB
 alkol,alcohol,2.56,3.09,2.5,NN
 alkolizm,alcoholism,1.5,3,2,NN
 alkollü,alcoholic,1.75,3.24,2.14,ADJ
@@ -487,7 +489,7 @@ Allahsız,godless,2.33,2.88,3.08,ADJ
 allık^,rouge,3.28,2.59,3.24,NN
 alma,transference,2.7,2.22,2.81,NN
 almac^,buyer,3.45,2.48,3.38,NN
-almak,receive,4.07,2.65,3.9,VB
+teslim almak,receive,4.07,2.65,3.9,VB
 Alman birası,lager,3.2,2.06,3.32,NN
 alman markı,deutschmark,2.71,2.12,2.63,NN
 almanak^,almanac,3.28,2.12,3.44,NN
@@ -624,7 +626,7 @@ anı,commemorative,3.42,2.65,3.2,ADJ
 anık^,ready,3.82,2.45,3.53,NN
 anılan,aforementioned,3.11,2.25,2.98,ADJ
 anımsama,recollection,3.15,2.28,3.25,NN
-anımsamak,recapture,2.95,3.16,3.31,VB
+anımsa>mak,recapture,2.95,3.16,3.31,VB
 anımsatıcı,reminder,3.5,2.24,3.67,ADJ
 anımsatmak,remind,2.91,2.6,3.74,VB
 anında,complete,3.75,1.79,4.09,ADV
@@ -638,7 +640,8 @@ ankesörlü telefon,payphone,3.06,1.8,3.5,NN
 anket,survey,3.28,2.34,3.97,NN
 anlam,meaning,3.73,2.53,3.77,NN
 anlama,comprehension,3.62,2.17,3.55,NN
-anlamak,understand,3.84,2.26,3.86,VB
+anla>mak,understand,3.84,2.26,3.86,VB
+anlam vermek,understand,3.84,2.26,3.86,VB
 anlamlı,eloquent,4.08,2.81,3.69,ADJ
 anlamsız,meaningless,1.98,2.03,2.29,ADJ
 anlaşılabilir,understandable,3.75,2.24,3.84,ADJ
@@ -734,15 +737,14 @@ araç kutusu,toolbox,2.85,2.53,3.71,NN
 aracı,middleman,2.62,2.46,3.17,ADJ
 aracısız,direct,3.38,2.65,3.69,ADJ
 arada,coexist,3.48,2.24,3.46,ADJ
-arada söylemek,interject,2.65,2.26,3.09,VB
+arada söyle^mek,interject,2.65,2.26,3.09,VB
 araf,purgatory,2.09,2.71,2.24,NN
 arakçılık^,burglary,1.63,3.67,1.93,NN
-araklamak,mooch,2.36,3.4,3.1,VB
+arakla>mak,mooch,2.36,3.4,3.1,VB
 aralık^,spacing,3.11,2.1,2.7,NN
 aralıklı,intermittent,2.83,2.3,2.89,ADJ
 aralıksız,incessant,2.11,2.86,2.28,ADJ
 arama,exploration,3.86,3,3.18,NN
-aramak,seek,3.63,2.45,3.58,VB
 aranjman,arrangement,3.36,2,3.25,NN
 arapsaçı,tangle,2.48,2.76,2.68,NN
 arasınav,midterm,2.57,2.91,2.64,NN
@@ -840,8 +842,9 @@ artrit,arthritis,1.66,2.64,1.82,NN
 arz,supply,3.06,2.14,3.12,NN
 arz derecesi,latitude,2.91,2.37,3.24,NN
 arzu,desire,4.03,3.6,3.54,NN
+iste>mek,desire,4.03,3.6,3.54,VB
 arzuhâl,petition,2.9,2.05,3.27,NN
-arzulamak,aspire,3.72,2.34,3.93,VB
+arzula^mak,aspire,3.72,2.34,3.93,VB
 arzulu,wishful,3.92,2.7,3.21,ADJ
 as,ace,3.69,2.82,3.81,ADJ
 aş,bread,3.76,2.43,3.53,NN
@@ -857,9 +860,9 @@ aşağilık^,fleabag,2.2,2.68,2.66,NN
 aşağı,inferior,2.22,2.78,2.18,NN
 aşağı mahalle,brothel,2.82,3.2,2.94,NN
 aşağılama,humiliation,1.64,3.22,2.13,NN
-aşağılamak,humiliate,1.8,3.03,2.48,VB
+aşağıla>mak,humiliate,1.8,3.03,2.48,VB
 aşağılayıcı,insulting,1.45,2.85,2.74,ADJ
-aşağılık^,vile,1.61,3.24,2.42,NN
+aşağılık^,vile,1.61,3.24,2.42,ADJ
 aşağıya doğru,downward,2.5,2.53,2.48,NN
 asal,prime,3.5,2.86,3.67,ADJ
 asalak^,parasitic,1.48,2.91,1.86,ADJ
@@ -931,7 +934,7 @@ asker kepi,pillbox,2.87,1.93,3.43,NN
 askeri,martial,3.2,2.62,2.8,ADJ
 askı,hanger,2.88,1.96,3.03,NN
 askılık^,cloakroom,2.98,1.98,3.23,NN
-aşkın,excess,2.65,3.21,3.15,ADJ
+aşan,excess,2.65,3.21,3.15,ADJ
 askısız,strapless,3.33,3.13,3.17,ADJ
 askıya almak,suspend,2.66,2.94,2.84,VB
 aslan,lion,3.42,3.15,2.93,NN
@@ -969,7 +972,7 @@ atak^,heady,3,2.26,3.14,ADJ
 ataklık^,audacity,3.1,2.55,3.17,NN
 atalardan kalma,ancestral,3.8,2.3,3.03,NN
 atama,assignment,3.2,2.73,3.5,NN
-atamak,appoint,3.48,2.63,3.33,VB
+ata>mak,appoint,3.48,2.63,3.33,VB
 atardamar,arterial,2.48,2.2,2.56,NN
 atasözü,proverb,3.48,2.28,3.57,NN
 ateist,atheist,2.82,2.88,3.21,NN
@@ -988,6 +991,7 @@ atik^,agile,3.48,2.98,3.55,ADJ
 atıcı,shooter,2.35,3.74,2.9,NN
 atık borusu,drainpipe,2.76,1.96,2.86,NN
 atık^,waste,1.81,2.52,2.79,ADJ
+heba,waste,1.81,2.52,2.79,ADJ
 atılan,waste,1.81,2.52,2.79,NN
 atılgan,brash,2.69,2.28,3.17,ADJ
 atılganlık^,courage,4.34,3,4.14,NN
@@ -1001,7 +1005,7 @@ atkı,woof,3.88,3.08,3.11,NN
 atlama,hop,3.45,2.36,3.02,NN
 atlama tepesi,skijump,3.06,3.25,3.18,NN
 atlamacı,jumper,2.78,2.38,3,NN
-atlamak,jump,3.72,3.07,3.36,VB
+atla>mak,jump,3.72,3.07,3.36,VB
 atlanmak,deduct,2.62,2.56,2.93,VB
 atlas,atlas,3.48,1.75,3.35,NN
 atlatmak,outwit,3.15,2.52,3.95,VB
@@ -1082,7 +1086,7 @@ ayaktakımı,rabble,2.89,2.07,3.09,NN
 ayakyolu,ajar,3,2.13,3.14,NN
 ayar damgası,hallmark,3.34,2,3.54,NN
 ayarlama,adjustment,3.27,2.8,2.77,NN
-ayarlamak,adjust,3.38,2,3.5,VB
+ayarla>mak,adjust,3.38,2,3.5,VB
 ayarlayıcı,adjuster,2.63,2.25,3.42,NN
 ayartan,seducer,2.42,3.67,3.29,ADJ
 ayartma,temptation,2.75,3.19,3.13,NN
@@ -1107,7 +1111,7 @@ ayı postu,bearskin,2.63,2.48,3.3,NN
 ayıklama,cleanup,2.93,2.02,3.8,NN
 ayıp^,disgraceful,1.68,2.54,1.9,ADJ
 ayıplama,condemnation,2.08,2.55,2.09,NN
-ayıplamak,condemn,1.81,3.17,2.59,VB
+ayıpla>mak,condemn,1.81,3.17,2.59,VB
 ayırdet^mek,discriminate,2.09,2.53,3.03,VB
 ayırma,separation,2.03,2.34,2.5,NN
 ayırmak,detach,2.75,2.1,3.25,VB
@@ -1156,14 +1160,14 @@ az miktar,modicum,2.98,2.17,3.09,NN
 az<im,perseverance,3.67,2.21,3.95,NN
 aza,member,3.48,2.24,3.95,NN
 azalma,reduction,3,2,3.13,NN
-azalmak,retire,3.7,1.96,3.36,VB
 azaltmak,diminish,2.53,2.44,3.03,VB
+azalmak,diminish,2.53,2.44,3.03,VB
 azamet,majesty,3.93,2.85,4.11,NN
 azametli,great,4.25,2.57,3.83,ADJ
 azami,maximum,2.85,3.03,3.31,ADJ
 azap^,torment,1.77,3.59,2.48,NN
 azar,earful,2.64,2.6,2.87,NN
-azarlamak,scold,1.89,2.6,2.8,VB
+azarla>mak,scold,1.89,2.6,2.8,VB
 azat etme,emancipation,3.79,2.33,2.87,NN
 azgın,raging,2.13,3.19,2.58,ADJ
 azgınlık^,rut,1.95,2.44,2.5,NN
@@ -1225,7 +1229,7 @@ bağışcı,fundraiser,3.34,2.65,3.14,NN
 bağışık^,immune,3.69,2.75,3.59,ADJ
 bağışıklık^,immunity,3.57,2.34,3.24,NN
 bağışlama,forgiveness,3.93,2.52,3.63,NN
-bağışlamak,donate,3.85,2.13,3.86,VB
+bağışla>mak,donate,3.85,2.13,3.86,VB
 bağışlanmak,absolution,3.79,2.19,3.38,VB
 bağışlanmış,exempt,2.92,2.72,3.27,ADJ
 bağışlayıcı,forgiving,3.87,2.48,3.73,ADJ
@@ -1233,7 +1237,7 @@ bağıt^,contract,3.05,2.48,3.92,NN
 bağlac^,conjunction,3.1,2.63,3.28,NN
 bağlam,context,3,2.09,3.3,NN
 bağlama,ligature,2.53,2.56,2.71,NN
-bağlamak,connect,3.81,2.24,3.48,VB
+bağla>mak,connect,3.81,2.24,3.48,VB
 bağlanak,connection,3.5,2.73,4.11,NN
 bağlanmak,adore,4.19,3.48,3.63,VB
 bağlanmış,haul,2.98,2.09,3.3,ADJ
@@ -1315,7 +1319,7 @@ balon,balloon,3.92,2.45,3.23,NN
 balon balığı,blowfish,2.81,2.48,2.75,NN
 balta,axe,2.24,3.32,3.28,NN
 baltalama,sabotage,1.5,3.08,2.32,NN
-baltalamak,undermine,2.03,2.61,2.8,VB
+baltala>mak,undermine,2.03,2.61,2.8,VB
 baltalayıcı,saboteur,2.5,2.43,2.93,ADJ
 balya,bale,2.95,1.89,2.96,NN
 balyoz,sledgehammer,2.29,2.72,2.71,NN
@@ -1384,7 +1388,7 @@ başarmak,accomplish,4.23,3.08,4.14,VB
 başbakan,premier,3.19,2.81,3.24,NN
 başeser,masterpiece,4.07,2.85,3.5,NN
 başhemşire,matron,2.9,2.3,3.34,NN
-basit,simple,4.09,1.86,3.75,ADJ
+basit,bare,3.25,2.83,3.29,ADJ
 basitçe,easy,4.24,2.41,3.9,ADJ
 basitleştirmek,simplify,3.68,2.05,3.71,VB
 basitlik^,simplicity,4.03,2.29,3.59,NN
@@ -1421,7 +1425,7 @@ baskın kadın,dominatrix,2.66,3.33,2.48,NN
 başkomiser,superintendent,2.93,2.12,3.08,NN
 başla,begin,3.72,1.93,3.36,VB
 başlama,kickoff,2.98,3,3.56,NN
-başlamak,commence,3.16,2.41,3.48,VB
+başla>mak,commence,3.16,2.41,3.48,VB
 başlangıc^,start,3.71,2.91,3.25,NN
 başlangıç noktası,doorstep,3.07,2.13,3.05,NN
 başlatma,initiation,3.05,2.65,2.84,NN
@@ -1429,7 +1433,6 @@ başlatmak,launch,3.7,3.13,3.88,VB
 başlıca,primal,2.9,3.19,2.76,ADJ
 başlık^,title,3.36,1.58,3.13,NN
 basmak,stomp,2.45,2.91,3.72,VB
-başmak^,footwear,3.72,2.5,3.09,VB
 başmakale,editorial,3.09,1.95,3.39,NN
 basmakalıp^,trite,2.64,2.7,3.06,ADJ
 başmal,capital,3.15,2.07,3.43,NN
@@ -1440,7 +1443,7 @@ başparmak izi,thumbprint,3.3,2.67,3.02,NN
 başparmak^,thumb,3.31,2.42,3.4,NN
 başpiskopos,primate,3.42,1.98,2.59,NN
 başpiskoposun yönetimindeki bölge,archdiocese,2.48,2.21,2.52,NN
-başsağlığı dilemek,sympathize,3.5,2.37,4.03,VB
+başsağlığı dile>mek,sympathize,3.5,2.37,4.03,VB
 başta,foremost,3.14,2.41,3.52,ADV
 baştan çıkaran kadın,temptress,2.84,3.22,2.71,NN
 baştan çıkarıcı,seductive,3.6,3.76,3.43,NN
@@ -1464,7 +1467,6 @@ bataklıklı kol,bayou,3.6,2.41,3.22,NN
 batarya,battery,2.63,2.48,2.68,NN
 bateri,drum,3.53,2.84,3.33,NN
 baterist,drummer,3.77,2.75,3.46,NN
-batı,west,3.36,2.03,2.97,ADJ
 batık^,sunken,2.71,2.48,2.5,NN
 batıl inanc^,superstition,2.92,3.57,3.23,NN
 batıl inançları olan,superstitious,2.88,3.48,2.95,ADJ
@@ -1473,7 +1475,6 @@ batırmak,submerge,2.74,2.57,2.91,VB
 batıya doğru,westbound,3.09,2.87,3.42,NN
 batkı,frustration,1.73,3.47,2.14,NN
 batkınlık^,bankruptcy,1.76,3.2,2.16,NN
-batmak,dine,3.8,2.5,3.53,VB
 batmış,mire,2.6,2.47,2.6,ADJ
 baton,baton,2.82,2.32,3.19,NN
 battaniye,blanket,4.03,1.62,3.88,NN
@@ -1544,7 +1545,7 @@ bekarlık^,celibacy,2.43,1.86,3.46,NN
 bekçi,caretaker,3.59,2.2,2.76,NN
 bekçi köpeği,watchdog,3.05,3.17,3.69,NN
 bekleme,standby,2.84,2.14,2.53,NN
-beklemek,wait,2.78,2.31,3.16,VB
+bekle>mek,wait,2.78,2.31,3.16,VB
 beklenmedik,unforeseen,2.75,2.5,2.04,ADJ
 beklenmeyen,unexpected,2.84,3.05,2.2,ADJ
 beklenti,expectation,3.55,2.75,3.03,NN
@@ -1573,7 +1574,7 @@ belgisiz,ambiguous,3.08,2.5,3.06,ADJ
 belik^,braid,3.39,2.45,3.3,NN
 belirgin,distinctive,3.66,2.39,3.59,ADJ
 belirleme,determination,4.29,3.26,4.03,NN
-belirlemek,determine,3.5,2.84,4.05,VB
+belirle>mek,determine,3.5,2.84,4.05,VB
 belirlenen,designated,3.05,2.43,3.07,ADJ
 belirlenmiş,localized,3.03,1.7,3.43,ADJ
 belirleyici,decisive,3.89,2.48,3.38,ADJ
@@ -1588,7 +1589,7 @@ belirtmek,specify,3.27,2.32,3.11,VB
 belkemiği,spinal,2.39,2.68,2.86,NN
 belle ilgili,lumbar,2.74,2.14,2.91,ADJ
 bellek^,memory,3.79,2.54,3.38,NN
-bellemek,learn,3.93,2.9,4,VB
+belle>mek,learn,3.93,2.9,4,VB
 belli,certain,3.56,2,3.89,ADJ
 belli başlı,basic,3.25,1.98,3.53,ADJ
 belli belirsiz,lightweight,3.45,2.03,3.18,ADJ
@@ -1600,14 +1601,14 @@ benekli,speckled,3.39,2.73,3.32,ADJ
 benekli,dotty,3.08,2.28,2.9,NN
 benekli at,pinto,2.53,2.15,3.19,NN
 benimseme,adoption,3.84,2.91,3.31,NN
-benimsemek,adopt,3.95,2.86,3.23,VB
+benimse>mek,adopt,3.95,2.86,3.23,VB
 benimsenilmeyen,impulsive,2.84,3.5,2.36,ADJ
 benimsenmek,sit,3.41,2.1,3.53,VB
 benimseyememe,indigestion,1.74,2.15,2.3,NN
 benlik^,flattered,3.66,3.07,3.48,NN
 benmerkezci,egomaniac,2.34,3.27,3.1,ADJ
 bent^,dike,2.61,2.93,2.96,NN
-benzemek,resemble,3.45,2.39,3.56,VB
+benze>mek,resemble,3.45,2.39,3.56,VB
 benzen,benzene,2.77,2.48,2.96,NN
 benzer,similar,3.43,2.22,3.4,ADJ
 benzeri,similar,3.43,2.22,3.4,ADJ
@@ -1646,7 +1647,7 @@ besili,fatty,1.69,2.18,2.25,ADJ
 besin,nutritional,3.92,2.2,3.34,NN
 beslek^,feed,3.98,2.78,3.9,NN
 besleme,feed,3.98,2.78,3.9,NN
-beslemek,cherish,3.88,2.57,4.16,VB
+besle>mek,cherish,3.88,2.57,4.16,VB
 beslenme,nourishment,4.22,2.05,3.5,NN
 besleyen,feeder,3.09,2.61,2.98,NN
 besleyici,nutritious,4.05,2.69,4.16,ADJ
@@ -1669,7 +1670,7 @@ beyefendi,gentleman,4.25,2.57,3.53,NN
 beygir gücü,horsepower,3.29,2.76,3.5,NN
 beyhude,futile,2.41,2.86,2.12,ADJ
 beyin cerrahı,neurosurgeon,2.84,2.93,3.17,NN
-beyin yıkamak,brainwash,2.06,3.45,1.94,VB
+beyin yıka>mak,brainwash,2.06,3.45,1.94,VB
 beyinsiz,brainless,2.29,2.48,2.56,ADJ
 beynelmilel,international,3.33,2.48,3.17,ADJ
 beysbol,baseball,3.4,2.08,3.53,NN
@@ -1681,10 +1682,10 @@ bezdirici,tiresome,2.43,1.76,2.87,ADJ
 bezdirmek,consume,3.24,2.5,3.59,VB
 beze,meringue,3.79,2.52,3.08,NN
 bezek^,trim,2.82,2.19,3.66,NN
-bezeklemek,decorate,3.63,2.67,3.98,VB
+bezekle>mek,decorate,3.63,2.67,3.98,VB
 bezelye,peas,3.55,1.98,3.36,NN
 bezeme,ornament,3.82,2.16,3.2,NN
-bezemek,decorate,3.63,2.67,3.98,VB
+beze>mek,decorate,3.63,2.67,3.98,VB
 bezmiş,blase,2.73,2.31,2.73,ADJ
 biber,pepper,3.32,2.65,3.38,NN
 biberiye,rosemary,3.69,2.3,3.6,NN
@@ -1717,7 +1718,7 @@ bildirişim,communication,3.87,2.58,3.72,NN
 bildirme,supply,3.06,2.14,3.12,NN
 bildirmek,advise,3.22,2.19,3.71,VB
 bilek^,wrist,3.03,2.14,3.13,NN
-bilemek,hone,3.21,2.38,3.24,VB
+bile>mek,hone,3.21,2.38,3.24,VB
 bileşen,ingredient,3.43,1.73,3.43,NN
 bileşik^,compound,3.31,2.25,3.23,NN
 bileşimli,synthetic,2.88,2.31,3.03,ADJ
@@ -1823,7 +1824,7 @@ bitler,lice,1.62,3.1,1.89,NN
 bitli,cheapskate,2.38,1.9,3.16,ADJ
 bitmek,emerge,3.38,2.87,3.84,VB
 bitmeme,continuance,3.13,2.29,3.07,NN
-bitmemek,remain,3.34,2.1,3.79,VB
+bitme>mek,remain,3.34,2.1,3.79,VB
 bitmemiş,unfinished,2.62,2.18,3,ADJ
 bitmeyen,endless,2.5,2.62,2.13,ADJ
 biyo,bio,3.1,2.07,3.53,NN
@@ -1876,7 +1877,7 @@ boğa kurbağası,bullfrog,3.03,1.94,3.03,NN
 boğak^,angina,1.93,2.86,2.5,NN
 boğaz,throttle,3.28,3.18,3.36,NN
 boğaz ağrısı,strep,1.89,2.61,2.24,NN
-boğazlamak,strangle,2,3.22,2.31,VB
+boğazla>mak,strangle,2,3.22,2.31,VB
 boğma,choke,1.71,3.15,2.37,NN
 boğmak,drown,1.67,3.18,1.83,VB
 boğuk^,hoarse,2.43,2.09,3.17,ADJ
@@ -2028,7 +2029,7 @@ budalaca,cockeyed,2.48,2.73,2.69,ADJ
 budalacasına,cockeyed,2.48,2.73,2.69,ADV
 budalalık^,idiocy,2.05,2.58,2.48,NN
 budama,pruning,3.22,1.92,3.53,NN
-budamak,prune,2.81,2.07,3.28,VB
+buda^mak,prune,2.81,2.07,3.28,VB
 budunsal,ethnic,3.18,2.28,3.03,ADJ
 Budweiser,Budweiser,2.81,2.55,2.89,NN
 büfe,buffet,3.53,2.98,3.44,NN
@@ -2117,7 +2118,6 @@ büst,bust,2.89,3.4,3.77,NN
 bütçe,budget,2.78,2.17,2.95,NN
 bütçe açığı,deficit,1.98,2.6,2.59,NN
 butik^,boutique,3.55,2.67,3.44,ADJ
-bütün,entire,3.34,1.93,3.03,ADJ
 bütüncül,holistic,3.67,2,2.95,ADJ
 bütünleşme,integration,3.15,2.69,3.44,NN
 bütünlük^,integrity,3.56,2.18,3.98,NN
@@ -2152,9 +2152,9 @@ büyüklenme,nasal,2.63,2.19,2.65,NN
 büyükler,genteel,3.05,1.69,3.5,NN
 büyüklüğünde,pending,2.4,2.78,3.2,ADJ
 büyüklük^,greatness,4.38,2.72,3.88,NN
-büyüklük taslamak,patronize,2.24,2.08,3.37,VB
+büyüklük tasla>mak,patronize,2.24,2.08,3.37,VB
 Büyükşehir,metropolitan,3.42,2.96,3.21,NN
-büyülemek,fascinate,4,3.55,3.66,VB
+büyüle^mek,fascinate,4,3.55,3.66,VB
 büyüleyici,ravishing,4.21,3.57,3.45,ADJ
 büyülü,magical,4.62,3.44,3.15,ADJ
 büyüme,growth,3.5,2.98,3.52,NN
@@ -2177,7 +2177,7 @@ buzlu yüz,frosting,4.17,2.7,3.37,NN
 buzul,glacier,3.25,2.44,2.78,NN
 buzyalağı,cirque,3.16,2.8,3.2,NN
 çaba,effort,3.74,2.56,3.82,NN
-çabalamak,strive,3.66,2.81,3.68,VB
+çabala>mak,strive,3.66,2.81,3.68,VB
 çabucak^,allegro,3,2.45,3.18,ADV
 çabuk^,snappy,3.28,3.03,3.34,ADV
 çabukça,allegro,3,2.45,3.18,ADV
@@ -2230,12 +2230,12 @@ cahil,uneducated,2,2.45,3.14,ADJ
 çalışkanlık^,diligence,3.34,2.82,3.93,NN
 çalışma,study,3.39,1.78,3.17,NN
 çalışmak,go,3.66,2.93,3.17,VB
-çalışmamak,dawdle,2.89,2.15,2.93,VB
+çalışma>mak,dawdle,2.89,2.15,2.93,VB
 çalıştıran,employer,3.15,2.53,2.15,NN
 çalıştırıcı,trainer,3.08,2.5,3.13,NN
 çalıştırmak,operate,3.19,2.81,3.39,VB
 çalkalama,agitation,1.92,2.88,2.15,NN
-çalkalamak,agitate,2.18,3.41,2.78,VB
+çalkala>mak,agitate,2.18,3.41,2.78,VB
 çalkantılı,turbulent,2.59,3.45,2.74,ADJ
 çalma,stealing,1.88,2.79,3.25,NN
 çalmak,steal,1.59,3.15,2,VB
@@ -2258,7 +2258,8 @@ can,life,3.84,3.3,3.45,NN
 can alıcı,reaper,2.21,3.03,2.62,NN
 can atan,aspiring,3.95,2.71,3.93,ADJ
 çan kulesi,steeple,3.31,2.02,2.95,NN
-can sıkıcı,annoying,2,3.28,2.14,NN
+can sıkıcı,annoying,2,3.28,2.14,ADJ
+sinir,annoying,2,3.28,2.14,NN
 can sıkıntısı,boredom,1.89,1.79,3.02,NN
 can vermek,die,1.34,3.95,2.14,VB
 çanak çömlek^,pottery,3.4,1.88,3.5,NN
@@ -2268,7 +2269,7 @@ canavar,monster,1.78,3.28,3,NN
 çancı,ringer,2.98,2.62,3.28,NN
 cani,assassin,1.56,3.41,2.18,ADJ
 canı tez,hasty,2.63,3.18,2.91,ADJ
-canım,sweetheart,4.42,3.2,3.88,UH
+canım,sweetheart,4.42,3.2,3.88,NN
 cankurtaran,lifesaver,4.12,2.96,3.6,NN
 canlandıran,uplifting,3.98,2.85,3.88,NN
 canlandırıcı,exhilarating,4.2,3.92,3.38,ADJ
@@ -2284,7 +2285,7 @@ cansız,lifeless,1.62,2.28,1.91,ADJ
 çap,diameter,2.88,2.52,3.14,NN
 çapa,anchor,3.08,2.16,3.15,NN
 çapak^,burr,2.67,1.98,2.92,NN
-çapalamak,hoe,2.9,3.2,3.48,VB
+çapala>mak,hoe,2.9,3.2,3.48,VB
 çapkın,lecherous,2.17,2.4,2.33,ADJ
 çapkınlık^,mischief,2.89,3.39,2.99,NN
 çapraşık^,devious,2.29,2.42,3.08,ADJ
@@ -2330,7 +2331,7 @@ casusluk^,espionage,2.53,3.25,2.75,NN
 çatkı,coffee table,3.43,2.36,3.15,NN
 çatlak^,crack,1.84,3.13,3.21,ADJ
 çatlama,deployment,2.16,3.48,2.36,NN
-çatlamak,chuck,3.03,2.48,3.02,VB
+çatla>mak,chuck,3.03,2.48,3.02,VB
 çavdar,rye,3.23,2.39,3.23,NN
 çavuş,sergeant,2.45,3.05,2.42,NN
 çay,tea,3.78,1.53,3.5,NN
@@ -2469,7 +2470,7 @@ cesur,courageous,4.53,3.25,4.19,ADJ
 cetvel,ruler,3,2.74,3.81,NN
 cevahirci,jeweler,3.48,2.37,3.37,NN
 cevap^,reply,3.58,2.22,3.9,NN
-cevaplamak,respond,3.36,2.05,3.5,VB
+cevapla>mak,respond,3.36,2.05,3.5,VB
 cevapsız,unanswered,2.05,2.36,2.4,ADJ
 çevgen,polo,3.11,2.48,2.8,NN
 cevher,ore,3.39,1.93,2.96,NN
@@ -2484,11 +2485,11 @@ cevher,ore,3.39,1.93,2.96,NN
 çevirmen,translator,3.03,2.5,2.88,NN
 ceviz,walnut,3.7,1.91,2.9,NN
 çevre,environment,3.85,2.23,2.81,NN
-çevrelemek,wrap,3.29,2.43,3.16,VB
+çevrele>mek,wrap,3.29,2.43,3.16,VB
 çevren,horizon,3.74,2.63,2.8,NN
 çevresel,environmental,3.25,3.53,3.34,ADJ
 çevri,swirl,3.73,2.79,3.06,NN
-çevrilemek,translate,3.34,1.88,3.28,VB
+çevrile>mek,translate,3.34,1.88,3.28,VB
 çevrilme,revolution,2.91,3.34,3.12,NN
 çevrilmemiş,unturned,2.96,2.42,3.1,ADJ
 çevrilmiş,flatbed,2.93,2.19,3.22,ADJ
@@ -2511,9 +2512,9 @@ chardonnay üzümü,chardonnay,3.55,2.29,2.95,NN
 cheeseburger,cheeseburger,4.1,2.79,3.6,NN
 cheesecake,cheesecake,4.34,2.22,3.61,NN
 çiçek buketi,corsage,3.65,2.2,3.28,NN
-çiçek^,smallpox,1.51,2.95,2.17,NN
 çiçekçi,florist,3.78,2.1,3.41,NN
 çiçeklenme,blooming,4.1,2.02,3,NN
+çiçek,flowery,4.24,2.41,3.29,ADJ
 çiçekli,flowery,4.24,2.41,3.29,ADJ
 cicili bicili,tinsel,3.35,2.53,3.08,ADJ
 cidar,membrane,2.98,2.12,2.67,NN
@@ -2533,7 +2534,7 @@ ciddiyet,seriousness,2.67,2.45,3.21,NN
 çiftteker,bicycle,3.86,2.48,3.6,ADJ
 çifttekerci,biker,3.16,2.52,2.84,NN
 çiğ,raw,2.69,3.07,2.9,ADJ
-çiğnemek,trample,2.37,3,2.88,VB
+çiğne>mek,trample,2.37,3,2.88,VB
 cihan,universe,3.91,2.46,2.35,NN
 cihannüma,tower,3.12,2.43,3.23,NN
 cihanşümul,universal,3.8,2.94,3.27,ADJ
@@ -2653,7 +2654,7 @@ cımbız,tweezers,2.82,2.82,3.59,NN
 çıngırak^,rattle,2.74,2.74,2.91,NN
 çıngıraklı yılan,rattlesnake,2.19,3.17,2.47,NN
 çıngıraklıyılan,rattler,2.2,3.65,3.02,NN
-çıngırdamak,tinkle,3.28,2.38,3.11,VB
+çıngırda>mak,tinkle,3.28,2.38,3.11,VB
 çınlama,clang,2.55,2.81,3.18,NN
 çınlayan,tinkling,3.17,3.2,3.46,ADJ
 çıpa,iron,3.02,2.12,3.26,NN
@@ -2718,15 +2719,12 @@ coğrafya,geography,3.2,1.78,2.73,NN
 çok beğenilen,admired,4.13,3.48,3.97,ADJ
 çok çalışmış,overworked,1.45,2.71,2.68,ADJ
 çok çalıştıran işyeri,sweatshop,1.77,3.48,2.2,NN
-çok görmek,begrudge,2.48,2.74,3.17,VB
-çok güzel,adorable,4.2,2.83,3.92,ADJ
 çok hevesli,overzealous,3.08,3.45,3.1,ADJ
 çok memnun,overjoyed,4.09,3.29,3.89,ADJ
 çok önemli,crucial,3.08,2.57,2.96,ADJ
 çok satan,bestseller,3.91,3.45,3.57,ADJ
 çok sayıda,numerous,3.18,2.2,3.63,ADJ
 çok sevilen,idol,3.2,2.69,3.88,ADJ
-çok tehlikeli,dodgy,2.9,2.78,2.81,ADJ
 çok uluslu,multinational,3.15,2.47,3.17,NN
 çok yetenekli,hotshot,2.69,2.42,3.2,ADJ
 çok yönlü,versatile,3.5,2.3,3.67,NN
@@ -2761,7 +2759,7 @@ cop,nightstick,2.4,2.91,2.66,NN
 çöp sepeti,wastebasket,2.84,2.58,3.07,NN
 çöpçatan,matchmaker,3.32,2.5,3.2,ADJ
 çöpçü,scavenger,2.43,3.07,2.65,NN
-coplamak,blackjack,3,3.03,3,VB
+copla^mak,blackjack,3,3.03,3,VB
 çöplük^,dump,2.37,2.34,2.75,NN
 çorak^,barren,2.4,2.3,2.35,ADJ
 çorap^,sock,2.72,2.05,3.07,NN
@@ -2780,7 +2778,7 @@ courtside,courtside,3.5,2.62,3.5,NN
 çözüm,solution,3.65,2.65,3.77,NN
 çözüm yolu,remedy,3.81,2.67,3.91,NN
 çözümleme,analysis,3.13,2.37,3.48,NN
-çözümlemek,analyze,3.33,2.55,3.48,VB
+çözümle^mek,analyze,3.33,2.55,3.48,VB
 çözümlemeli,analytical,3.5,2.57,3.72,ADJ
 çözümlenmemiş,unresolved,2.03,2.81,2.16,ADJ
 çözümler,analyzer,2.81,2.24,3.44,NN
@@ -2842,10 +2840,11 @@ dağlık^,highland,3.45,2.98,3.25,NN
 dağsıçanı,groundhog,3.1,2.06,3.16,NN
 daha ağır gelmek,outweigh,2.6,2.48,3.17,VB
 daha önemli olmak,outrank,2.7,2.57,3.37,VB
-daha uzun yaşamak,outlive,3.26,2.7,3.08,VB
+uzun yaşa>mak,outlive,3.26,2.7,3.08,VB
 dâhi,genius,4.26,3.6,4.19,ADJ
 dâhilik^,genius,4.26,3.6,4.19,NN
 daima,continuous,3.17,2.14,3.39,ADV
+sık sık,continuous,3.17,2.14,3.39,ADV
 daimî,continuous,3.17,2.14,3.39,ADJ
 daire,circle,3.38,2.17,3.19,NN
 daireler,apartments,3,2.14,3.09,NN
@@ -2952,7 +2951,6 @@ dayanıklı olmak,withstand,3.48,2.61,3.8,VB
 dayanıklılık^,endurance,3.93,3.3,3.52,NN
 dayanılmaz,unbearable,1.55,3.38,2.19,ADJ
 dayanışma,solidarity,3.36,2.5,3.64,NN
-dayanma,resistance,2.37,3.12,2.46,NN
 dayanma gücü,stamina,3.78,2.81,3.67,NN
 dayanmak,withstand,3.48,2.61,3.8,VB
 dayı,cousin,3.56,1.8,3.14,NN
@@ -3054,7 +3052,7 @@ delirtmek,madden,2.88,3.09,3.17,VB
 delk,friction,2.5,3.03,2.62,NN
 delmek,dine,3.8,2.5,3.53,VB
 delta,delta,3.15,2.16,3.58,NN
-demek istemek,remark,3.03,2,3.65,VB
+de>mek iste>mek,remark,3.03,2,3.65,VB
 demet,bundle,3.05,2.24,3.06,NN
 demevi,bloodshot,1.93,2.86,2.52,NN
 demir,iron,3.02,2.12,3.26,NN
@@ -3066,7 +3064,7 @@ demirî,gray,2.34,1.91,2.89,ADJ
 demirleme,anchorage,3.05,2.41,3.4,NN
 demiryolu,railroad,3.34,2.48,3.15,NN
 Demleme,brewing,3.81,3.43,3.1,NN
-demlemek,brew,3.21,2.25,3.36,VB
+demle>mek,brew,3.21,2.25,3.36,VB
 demlik^,teapot,3.5,2.2,3.34,NN
 demo,demo,3.33,2.46,3.29,NN
 demografik^,demographic,2.71,2.37,3.38,ADJ
@@ -3076,23 +3074,24 @@ demokratik^,democratic,3.35,2.67,3.81,ADJ
 demokratlık^,democracy,3.58,3.03,3.29,NN
 demonstrasyon,demo,3.33,2.46,3.29,NN
 deneme,trial,2.14,3.03,2.45,NN
-denemek,try,3.32,2.5,3.47,VB
+dene>mek,try,3.32,2.5,3.47,VB
 deneştirme,correlation,3.05,2.12,3.13,NN
 denetçi,auditor,2.13,2.35,3.1,NN
 denetim,audit,1.91,3.39,2.34,NN
 denetimsiz,unsupervised,3.28,2.68,3.48,ADJ
 denetleme,supervision,2.63,3.03,2.78,NN
-denetlemek,oversee,3.34,2.33,3.21,VB
+denetle>mek,oversee,3.34,2.33,3.21,VB
 denetmen,overseer,2.86,3.15,3.06,NN
 deney,experiment,3.53,2.93,3.35,NN
 deney şişesi,beaker,3.25,2.4,3.5,NN
 deneyim,experience,3.95,2.36,3.97,NN
+tecrübe,experience,3.95,2.36,3.97,NN
 deneyimsiz,inexperienced,2.25,2.34,2.32,ADJ
 deneyimsizlik^,adolescence,3.5,3.05,2.72,NN
 deneyli,empirical,2.84,2.57,3.15,ADJ
 deneysel,experimental,3.33,3.29,2.81,ADJ
 denge,balance,3.92,2.57,3.24,NN
-dengelemek,stabilize,3.43,2.44,3.31,VB
+dengele>mek,stabilize,3.43,2.44,3.31,VB
 dengeleyici,stabilizer,3.34,2.05,3.22,NN
 dengeli,steady,3.84,2,3.71,ADJ
 dengesiz,unbalanced,2.05,2.87,2.11,ADJ
@@ -3152,7 +3151,7 @@ derinlemesine,lengthy,2.7,2.2,3.12,ADV
 derinlik^,depth,3.4,2.68,3.12,NN
 derişim,concentration,3.23,2.5,3.82,NN
 derlem,collection,3.45,2.72,3.95,NN
-derlemek,compile,3.11,2.38,3.41,VB
+derle>mek,compile,3.11,2.38,3.41,VB
 dermatolog^,dermatologist,3.5,2.31,2.77,NN
 derme çatma,crap,2.22,2.81,2.56,NN
 dernek^,association,3.25,2.34,3.57,NN
@@ -3163,7 +3162,7 @@ ders dışı,extracurricular,3.55,2.67,3.89,NN
 ders kitabı,textbook,3,1.97,3.09,NN
 dershane,class,3.37,2.72,3.12,NN
 derslik^,class,3.37,2.72,3.12,NN
-dert^,humpback,3.05,2.32,2.58,NN
+dert,trouble,1.94,3.3,2.68,NN
 dertli,heartbroken,1.48,3.8,2.33,ADJ
 dertsiz,painless,4.2,2.55,3.36,ADJ
 deruhte et^mek,assume,2.71,2.6,3.61,VB
@@ -3179,7 +3178,7 @@ deste,ligament,2.6,2.08,2.95,NN
 destek^,support,3.95,2.03,3.56,NN
 destekçi,promoter,3.15,2.68,3.13,NN
 destekleme,containment,2.69,3.27,2.59,NN
-desteklemek,promote,3.78,2.85,3.54,VB
+destekle>mek,promote,3.78,2.85,3.54,VB
 destekleyici,supportive,3.98,2.42,3.79,NN
 detay,detail,3.34,2.41,4.07,NN
 detaylı,detailed,3.55,2.68,3.24,ADJ
@@ -3246,7 +3245,7 @@ dikilmek,stand,3.14,2.05,3.45,VB
 dikiş,suture,2.68,2.82,2.83,NN
 dikiz et^mek,peep,2.71,2.65,2.98,VB
 dikizci,peeper,1.95,3.21,2.71,NN
-dikizlemek,peep,2.71,2.65,2.98,VB
+dikizle>mek,peep,2.71,2.65,2.98,VB
 dikkatli ol,beware,2.15,3.12,3.16,NN
 dikkat,beware,2.15,3.12,3.16,NN
 dikkat çekici,remarkable,4.09,2.65,3.32,NN
@@ -3277,7 +3276,6 @@ dilek^,wish,4.07,2.19,3.75,NN
 dilekçe,petition,2.9,2.05,3.27,NN
 dilekçe sahibi,petitioner,3.28,2.42,3.62,NN
 dileme,demand,2.55,3.43,3.07,NN
-dilemek,solicit,2.3,2.84,2.98,VB
 dilemma,dilemma,2.62,3.1,1.98,NN
 dilenci,beggar,1.96,2.65,2.58,NN
 dilenmek,beg,2.36,2.83,2.09,VB
@@ -3301,7 +3299,7 @@ dingo,dingo,3.33,2.63,2.9,NN
 dini,religious,3.1,2.82,3.62,NN
 dini gün ile ilgili,sabbatical,3.5,1.88,3.38,ADJ
 dinleme,wiretap,1.98,3.12,1.86,NN
-dinlemek,listen,3.96,2.38,3.28,VB
+dinle>mek,listen,3.96,2.38,3.28,VB
 dinlenme,rest,4.43,1.65,3.39,NN
 dinlenme tesisi,roadhouse,3.31,2.31,3.03,NN
 dinlenmek,relax,4.41,1.69,3.97,VB
@@ -3386,7 +3384,7 @@ dizge,sentence,3.07,2.05,3.77,NN
 dizgeli,methodical,3.06,2.38,3.22,ADJ
 dizgi,getup,3.27,2.68,3.34,NN
 dizginleme,rein,2.9,1.89,2.55,NN
-dizginlemek,restrain,2.71,2.85,2.72,VB
+dizginle>mek,restrain,2.71,2.85,2.72,VB
 dizginler,reins,3.06,2.1,3.4,NN
 dizginsiz,unbridled,2.82,2.73,3,ADJ
 dizi,array,3.45,2.36,3.31,NN
@@ -3401,7 +3399,7 @@ dışa vurum,expression,3.58,2.67,3.94,NN
 dışarlık^,backwoods,3,1.79,3.11,NN
 dışık^,slag,1.82,2.45,2.46,NN
 dışkı,excrement,1.5,2.82,2.19,NN
-dışlamak,exclude,2.28,2.91,2.84,VB
+dışla>mak,exclude,2.28,2.91,2.84,VB
 dıştan,outboard,3.08,2.22,3.13,NN
 dodo,dodo,2.46,2.5,2.98,NN
 doğa,nature,3.94,2.5,3,NN
@@ -3418,14 +3416,14 @@ doğmak,commence,3.16,2.41,3.48,VB
 doğmamış,unborn,2.93,3.14,2.48,ADJ
 doğmuş,born,4.17,2.45,2.39,ADJ
 doğrama işleri,woodwork,3.57,2.28,3.21,NN
-doğramak,chop,2.8,2.72,3.38,VB
+doğra^mak,chop,2.8,2.72,3.38,VB
 doğrayıcı,chopper,3.03,2.28,3.22,NN
 doğru,TRUE,4.26,2.99,4,ADJ
 doğruca,direct,3.38,2.65,3.69,ADJ
 doğrucu,truthful,4.24,2.36,3.88,ADJ
 doğrudan doğruya,direct,3.38,2.65,3.69,ADV
 doğrulama,affirmation,3.48,2.48,3.77,NN
-doğrulamak,corroborate,3.25,2.44,3.21,VB
+doğrula^mak,corroborate,3.25,2.44,3.21,VB
 doğrulanmamış,unconfirmed,2.86,2.72,2.19,ADJ
 doğruluk^,accuracy,3.66,2.17,3.87,NN
 doğrusal,linear,3.03,2.1,3.5,ADJ
@@ -3502,7 +3500,7 @@ doldurucu,filler,2.95,2.45,3.43,NN
 dolgu malzemesi,padding,3.13,1.88,2.94,NN
 dolgun,fleshy,2.95,3.15,2.48,ADJ
 dolgunluk^,fullness,3.6,2.1,3.64,NN
-döllemek,fertilize,3.23,2.64,3.76,VB
+dölle^mek,fertilize,3.23,2.64,3.76,VB
 dolu,fraught,1.97,2.66,2.53,ADJ
 doluşmak,crowd,2.74,3.08,3.11,VB
 dölüt,fetal,2.48,2.68,2.59,NN
@@ -3603,7 +3601,7 @@ düet,duo,3.73,2.38,3.38,NN
 düğme,button,3.24,2.55,3.77,NN
 düğmelerini açmak,unbutton,3,3.48,3.24,VB
 düğüm,knot,2.79,2.42,3.52,NN
-düğümlemek,bind,2.91,2.77,2.62,VB
+düğümle^mek,bind,2.91,2.77,2.62,VB
 düğün,wedding,4.18,3.16,3.04,NN
 düğünçiçeği,buttercup,3.92,2.12,3.61,NN
 düğürcük^,bagel,3.66,2.3,3.09,NN
@@ -3627,7 +3625,7 @@ dur,stop,2.87,2.57,3.03,VB
 duraç,pedestal,3.41,2.09,3.13,NN
 durağan,immobile,1.95,2.69,2.32,ADJ
 duraksama,hesitation,2.34,2.31,2.56,NN
-duraksamak,hover,3.25,2.59,3.02,VB
+duraksa>mak,hover,3.25,2.59,3.02,VB
 duraksız,direct,3.38,2.65,3.69,ADJ
 dürbün,binoculars,3.29,1.79,3.55,NN
 durdurma,interception,3.21,2.62,2.75,NN
@@ -3718,7 +3716,7 @@ duyum yitimi,anesthesia,2.92,2.32,1.98,NN
 duyumsal,sensuous,3.4,3.43,3.31,ADJ
 duyurma,bombardment,2.07,3.24,2,NN
 duyurmak,announce,3.26,2.33,3.24,VB
-duyurmamak,stash,3.12,2.82,3.39,VB
+duyurma>mak,stash,3.12,2.82,3.39,VB
 duyuru,announcement,3.41,2.65,3.03,NN
 duyurulan,broadcast,2.95,2.71,2.96,ADJ
 duyurulmayan,clandestine,3.34,2.48,2.67,ADJ
@@ -3738,7 +3736,7 @@ düzenbaz,shyster,2.34,2.5,2.18,ADJ
 düzenci,coyote,2.53,3.28,2.69,NN
 düzenek^,contraption,3.06,2.66,3.34,NN
 düzenleme,regulation,2.58,2.23,2.62,NN
-düzenlemek,organize,3.88,2.53,3.98,VB
+düzenle>mek,organize,3.88,2.53,3.98,VB
 düzenleniş,getup,3.27,2.68,3.34,NN
 düzenleyici,organizer,3.68,2.09,3.98,NN
 düzenli,orderly,3.68,3.03,3.69,ADJ
@@ -3865,7 +3863,7 @@ ekip çalışması,teamwork,3.63,2.82,3.27,NN
 ekip^,bunch,3.42,1.91,2.78,NN
 ekipman,equipment,3.31,2.02,3.1,NN
 eklektik^,eclectic,3.45,2.75,3.38,ADJ
-eklemek,add,3.62,2.5,3.9,VB
+ekle>mek,add,3.62,2.5,3.9,VB
 eklemli,articulate,3.78,2.64,3.95,ADJ
 eklenmek,ride,3.64,3.05,3.14,VB
 eklenmiş,additional,3.58,2.31,2.98,ADJ
@@ -3887,7 +3885,7 @@ ekşi,sour,2.48,2.98,2.67,ADJ
 eksibe,dune,3.18,1.88,3.08,NN
 eksik beyan,understatement,3.21,2.81,2.92,NN
 eksik^,incomplete,2.28,2.56,2.48,ADJ
-eksikleri tamamlamak,restock,2.92,2.14,2.87,VB
+eksikleri tamamla>mak,restock,2.92,2.14,2.87,VB
 eksiklik^,deficiency,1.87,2.6,2.58,NN
 eksiksiz,fabulous,4.42,3.08,4.13,ADJ
 eksilme,reduction,3,2,3.13,NN
@@ -3948,7 +3946,7 @@ elektroşok cihazı,shocker,2.68,2.81,2.46,NN
 elem,bitter,2.32,2.82,2.79,NN
 eleman,element,3.29,2.45,3,NN
 eleme,elimination,2.43,2.18,2.67,NN
-elemek,sift,3.05,2.34,3.22,VB
+ele>mek,sift,3.05,2.34,3.22,VB
 eleştiri,criticism,2.42,3.48,2.59,NN
 eleştirmeci,critic,2.55,2.63,2.93,NN
 eleştirmek,criticize,1.71,3.14,2.85,VB
@@ -4042,7 +4040,7 @@ engebe,breakdown,2.24,2.87,2.31,NN
 engel,obstruction,2.38,2.34,2.24,NN
 engel olmak,detain,2,2.63,2.93,VB
 engelleme,inhibition,2.48,2.65,2.74,NN
-engellemek,hinder,2.45,2.22,2.84,VB
+engelle>mek,hinder,2.45,2.22,2.84,VB
 engelleyen,breaker,2.46,2.88,3.26,ADJ
 engelli,retarded,1.63,3.22,2.58,ADJ
 engelsiz,open,3.57,2.72,3.59,ADJ
@@ -4129,7 +4127,7 @@ erotik konulu eserler,erotica,3.55,3.76,3.28,NN
 erotik^,erotic,3.42,4.14,3.45,ADJ
 erozyon,erosion,2.4,3.43,2.46,NN
 erteleme,postponement,2.5,2.68,3.19,NN
-ertelemek,postpone,2.66,1.97,2.88,VB
+ertele>mek,postpone,2.66,1.97,2.88,VB
 ertelenmek,remain,3.34,2.1,3.79,VB
 eş,spouse,4.22,3.38,2.87,NN
 eşanlamlı,synonymous,3.12,2.21,3.24,ADJ
@@ -4147,10 +4145,10 @@ eşek herif,jackass,2.53,3.79,2.8,NN
 eşek^,donkey,3.65,1.95,3.06,NN
 eşekarısı,wasp,1.86,3.17,2.4,NN
 eşekçe,asinine,3.03,2.82,2.91,ADV
-eşelemek,poke,2.57,3.21,3.87,VB
+eşele>mek,poke,2.57,3.21,3.87,VB
 esen,good,4.45,2.33,3.71,NN
 esenleme,salute,3.61,2.69,3.7,NN
-esenlemek,greet,3.63,2.43,3.77,VB
+esenle>mek,greet,3.63,2.43,3.77,VB
 esenlik^,favor,3.84,2.81,3.62,NN
 eser,birthmark,2.8,2,2.62,NN
 eşey,gender,3.03,2.53,3.21,NN
@@ -4164,11 +4162,11 @@ esintili,breezy,3.63,2.6,3.38,ADJ
 esir,captive,2.14,2.94,2.15,NN
 esir et^mek,enslave,1.84,3.18,2.54,VB
 esirgeme,uterus,2.9,2.91,3.12,NN
-esirgemek,conserve,3.45,2.38,3.43,VB
-esirgememek,hack,2.48,3.24,2.54,VB
+esirge>mek,conserve,3.45,2.38,3.43,VB
+esirgeme>mek,hack,2.48,3.24,2.54,VB
 esirlik^,bondage,2.69,3.33,2.64,NN
 eşit,equal,3.74,2.26,3.82,ADJ
-eşitlemek,equate,3.58,2.42,3.07,VB
+eşitle>mek,equate,3.58,2.42,3.07,VB
 eşitlik^,equality,3.88,2.87,3.5,NN
 eşkal,format,3.1,1.87,2.91,NN
 eski,ex,1.85,2.9,2.5,ADJ
@@ -4184,7 +4182,7 @@ esmerleştirmek,darken,2.73,2.43,3.38,VB
 esnek^,flexible,3.87,2.73,3.84,ADJ
 esneklik^,flexibility,3.95,2.75,3.87,NN
 esneme,stretch,3,2.87,3.62,NN
-esnemek,yawn,3.31,1.92,2.84,VB
+esne>mek,yawn,3.31,1.92,2.84,VB
 espas,ajar,3,2.13,3.14,NN
 espaslı,intermittent,2.83,2.3,2.89,ADJ
 espiyonaj,espionage,2.53,3.25,2.75,NN
@@ -4201,7 +4199,7 @@ esriklik^,drunkenness,2.21,3.53,2.49,NN
 eşsiz,incomparable,2.86,2,2.59,ADJ
 estetik^,aesthetic,3.22,1.94,3.25,ADJ
 eşya,belongings,3.55,2.48,3.59,NN
-eşzamanlamak,sync,3.61,2.48,3.57,VB
+eşzamanla>mak,sync,3.61,2.48,3.57,VB
 eşzamanlı,simultaneous,3.29,2.24,3.3,ADJ
 et,meat,3.81,2.65,3.29,VB
 et kafalı,dupe,2.5,2.37,2.43,ADJ
@@ -4220,7 +4218,7 @@ etine dolgun,chubby,2.67,2.94,3.06,ADJ
 etken,active,3.74,3.31,3.66,ADJ
 etki,effectiveness,3.95,2.98,3.6,NN
 etki et^mek,effect,3.25,2.54,3.44,VB
-etkilemek,impress,3.63,2.91,3.81,VB
+etkile>mek,impress,3.63,2.91,3.81,VB
 etkilenmemiş,unaffected,2.92,2.16,3.73,ADJ
 etkilenmiş,impressed,3.83,2.95,3.69,ADJ
 etkileşim,interaction,3.31,2.68,3.03,NN
@@ -4247,7 +4245,6 @@ etrafı çevrili,corral,2.75,2.36,3.18,ADJ
 etüt^,negotiation,3.53,2.88,3.59,NN
 etyemez,vegetarian,3.13,2.23,3.5,NN
 euro,euro,3.18,2.29,3,NN
-ev,home,4.24,2.39,3.89,NN
 ev gibi,homey,3.34,2.21,3.65,NN
 ev idaresi,housekeeping,3.28,2.22,3.32,NN
 ev işi,housework,2.47,2.3,2.88,NN
@@ -4298,7 +4295,7 @@ eylemci,activist,3.62,3.13,3.43,NN
 ezber et^mek,memorize,3.35,2.45,3.33,VB
 ezberden okuma,recitation,2.78,2.17,3.17,NN
 ezberden okumak,recite,3.23,2.15,3.16,VB
-ezberlemek,memorize,3.35,2.45,3.33,VB
+ezberle>mek,memorize,3.35,2.45,3.33,VB
 ezgi,gratification,4.36,2.77,3.59,NN
 ezici,overwhelming,2.45,2.93,1.81,ADJ
 ezik^,meek,2.96,2.07,3.03,ADJ
@@ -4407,7 +4404,7 @@ fenomen,phenomenon,3.9,3,3.03,NN
 feragat,waiver,3.3,1.98,3.23,NN
 feragat et^mek,desist,2.64,2.42,2.72,VB
 ferah,roomy,3.8,2.2,3.82,ADJ
-ferahlamak,unfold,2.62,2.44,3.32,VB
+ferahla>mak,unfold,2.62,2.44,3.32,VB
 ferahlatıcı,refreshing,4.03,2.5,3.65,ADJ
 ferahlatmak,relieve,4.13,2.45,3.81,VB
 feraset,savvy,3.7,2.62,3.72,NN
@@ -4423,7 +4420,7 @@ ferman,writ,2.75,2.59,3.45,NN
 fermejüp,popper,3.03,2.62,2.96,NN
 ferment,yeast,2.79,2.13,2.9,NN
 fermuar,zipper,3.06,2.37,3.09,NN
-fermuarlamak,zip,3.03,2.62,2.84,VB
+fermuarla>mak,zip,3.03,2.62,2.84,VB
 feromon,pheromone,3.25,2.98,2.66,NN
 feryat^,wail,2.26,3.41,2.42,NN
 feshet^mek,rescind,2.41,2.44,2.91,VB
@@ -4509,7 +4506,7 @@ fıkra,clause,2.95,2.16,2.9,NN
 fındık kabuğu,nutshell,3.03,2.48,3.37,NN
 fındıkkıran,nutcracker,3.23,2.92,3.53,NN
 fırça,brush,3.24,2.09,3.59,NN
-fırçalamak,whisk,3.37,2.74,3.1,VB
+fırçala>mak,whisk,3.37,2.74,3.1,VB
 fırfır,ruffle,3.1,2.32,3.16,NN
 fırıldak^,windmill,3.59,2.26,3.58,NN
 fırın,bakery,3.9,2.43,3.37,NN
@@ -4547,7 +4544,7 @@ floş,flush,2.84,2.68,3.31,NN
 flüt,flute,3.65,2.36,3.42,NN
 fobi,phobia,2.34,3.79,2.33,NN
 fokstrot,foxtrot,3.42,3,3.27,NN
-fokurdamak,scalding,2.01,3.11,2.46,VB
+fokurda^mak,scalding,2.01,3.11,2.46,VB
 folk,folk,3.59,1.73,3.5,NN
 folklor,folklore,3.66,2.55,2.93,NN
 folyo,foil,2.79,2.35,3.02,NN
@@ -4590,7 +4587,7 @@ fransız boynuz,french horn,3.48,2.53,3.42,NN
 frekans,frequency,3.1,2.94,3.31,NN
 fren,brake,2.95,2.41,3.34,NN
 frengi,pox,1.81,2.7,2.18,NN
-frenlemek,curb,2.83,2.3,3.24,VB
+frenle>mek,curb,2.83,2.3,3.24,VB
 frenleyici,restraining,2.27,2.84,3.16,ADJ
 frigorifik^,cooler,3.55,2.42,3.46,ADJ
 frijider,fridge,3.65,2.8,3.35,NN
@@ -4617,7 +4614,7 @@ gafil,remiss,2.65,2,3.2,ADJ
 gaflet,sleep,4.11,2.3,3.15,NN
 gaga,beak,2.95,1.91,2.64,NN
 gagalayan,pecker,2.91,2.75,2.91,ADJ
-gaklamak,croak,2.15,2.76,2.29,VB
+gakla>mak,croak,2.15,2.76,2.29,VB
 gal,gal,3.14,2.72,3.27,NN
 gala,premiere,3.74,3.15,3.23,NN
 galaksi,galaxy,3.48,3.31,2.88,NN
@@ -4687,7 +4684,7 @@ gebelik^,pregnancy,2.9,3,2.78,NN
 geberotu,caper,2.95,2.45,3.09,NN
 gebertmek,zap,3.2,2.71,2.94,VB
 gec^,late,2.16,3.29,2.61,ADJ
-gece,night,3.84,2.29,3.11,ADV
+gece,night,3.84,2.29,3.11,NN
 gece hayatı,nightlife,3.48,3.68,3.55,NN
 gece kulübü,nightclub,3.16,3.04,3.29,NN
 gece nöbeti,vigil,3.18,2.05,3.16,NN
@@ -4755,7 +4752,7 @@ gemi bölmesi,bulkhead,2.84,2.33,2.94,NN
 gemi enkazı,shipwreck,2.42,3.93,2.24,NN
 gemi mutfağı,caboose,3.47,2.03,2.66,NN
 gemilik^,shipyard,3.03,2.26,2.83,NN
-gemlemek,curb,2.83,2.3,3.24,VB
+gemle>mek,curb,2.83,2.3,3.24,VB
 genç erkek^,child,4.1,3.17,3.1,NN
 genç yıldız,starlet,3.63,2.59,3.31,NN
 genc^,young,3.66,2.55,3.3,ADJ
@@ -4770,7 +4767,7 @@ genelleşmek,ramble,2.66,3,3.45,VB
 genetik^,genetics,2.92,2.64,2.15,ADJ
 geniş,spacious,3.67,2.35,3.46,ADJ
 genişleme,enlargement,2.83,2.43,3.2,NN
-genişlemek,unfold,2.62,2.44,3.32,VB
+genişle>mek,unfold,2.62,2.44,3.32,VB
 genişlet^mek,broaden,3.7,2.08,3.3,VB
 genişliğinde,pending,2.4,2.78,3.2,NN
 genişlik^,width,3.22,2.37,3.18,NN
@@ -4784,13 +4781,11 @@ gerçek^,truth,4.1,2.44,3.98,ADJ
 gerçekçi,realistic,3.45,2.55,3.89,ADJ
 gerçekçi olmayan,unrealistic,2.28,2.7,2.46,ADJ
 gerçekçilik^,realism,3.62,2.64,3.56,NN
-gerçeklemek,corroborate,3.25,2.44,3.21,VB
+gerçekle>mek,corroborate,3.25,2.44,3.21,VB
 gerçekleşme,realization,3.71,2.34,3.34,NN
 gerçekleşmek,emerge,3.38,2.87,3.84,VB
-gerçekleştiren,executor,2.48,3.05,3.27,NN
 gerçekleştirmek,realize,3.72,2.12,3.97,VB
 gerçeklik^,reality,3.37,2.55,4.13,NN
-gerçekten,menial,2.4,2.43,3.16,ADJ
 gerçeküstü,surreal,3.83,3.06,3.06,ADJ
 gerec^,cordless,3.73,2.53,3.45,NN
 gereğinden fazla,excess,2.65,3.21,3.15,ADJ
@@ -4821,7 +4816,7 @@ geri dönüşüm,recycling,3.63,2.26,3.8,NN
 geri dönüşümlü,recycled,3.13,2.34,3.13,NN
 geri gitmek,revert,2.98,2.28,3.13,VB
 geri ödeme,refund,4,2.98,3.73,NN
-geri ödemek,reimburse,3.62,3.15,3.43,VB
+geri öde^mek,reimburse,3.62,3.15,3.43,VB
 geri sarma,rewind,3.29,2.57,3.29,NN
 geri tepme,recoil,2.9,2.82,2.66,NN
 geri zekalı gibi,moronic,2.13,2.41,2.1,NN
@@ -4844,7 +4839,7 @@ gevher,ore,3.39,1.93,2.96,NN
 gevrek^,crunchy,3.43,2.73,3.26,ADJ
 gevşek^,limp,1.91,2,2.73,ADJ
 gevşeme,relaxation,4.5,2.08,4.06,NN
-gevşemek,unwind,3.45,2.31,3.28,VB
+gevşe>mek,unwind,3.45,2.31,3.28,VB
 gevşet^mek,loosen,3,2.5,3.5,VB
 geyik eti,venison,2.98,2.42,3.03,NN
 geyik yavrusu,fawn,3.58,2.46,3.37,NN
@@ -4902,7 +4897,7 @@ gizemli,mysterious,3.53,3.23,2.88,ADJ
 gizemsel,mystic,3.56,2.76,2.85,ADJ
 gizil,potential,3.93,2.55,3.74,ADJ
 gizleme,cloaking,2.98,2.41,3.11,NN
-gizlemek,conceal,2.48,2.37,3.53,VB
+gizle>mek,conceal,2.48,2.37,3.53,VB
 gizlenme,concealment,2.61,2.73,3.05,NN
 gizlenmek,lurk,2.24,2.72,3,VB
 gizli,occult,2.25,2.82,2.82,ADJ
@@ -4917,7 +4912,7 @@ gıcırtı,creak,2.84,2.7,2.81,NN
 gıcırtılı,squeaky,2.82,2.61,2.94,ADJ
 gıda,food,4.26,2.85,3.54,NN
 gıdaklama,cluck,2.88,2.45,2.91,NN
-gıdıklamak,tickle,3.57,3.43,3.14,VB
+gıdıkla>mak,tickle,3.57,3.43,3.14,VB
 gıpta et^mek,covet,2.74,2.52,3,VB
 gıpta ile bakılan,coveted,3.48,2.94,2.7,ADJ
 gırtlak^,gullet,2.68,3.13,2.73,NN
@@ -5008,7 +5003,6 @@ görgüsüz,simple,4.09,1.86,3.75,ADJ
 goril,gorilla,2.63,2.98,2.94,NN
 görkem,splendor,3.98,2.5,3.54,NN
 görkemli,majestic,4.07,2.58,3.82,ADJ
-görme,sight,4.06,2.1,3.47,NN
 görme yeteneği,eyesight,3.57,2.26,3.64,NN
 görmek,see,3.64,2.45,3.5,VB
 görsel,visual,3.5,2.72,3.39,ADJ
@@ -5089,7 +5083,7 @@ gözetim,surveillance,2.18,2.93,3.24,NN
 gözetleme,peek,3.19,2.65,3.29,NN
 gözetleme deliği,peephole,2.65,3.2,2.91,NN
 gözetleme kulesi,watchtower,2.84,2.35,2.95,NN
-gözetlemek,pry,2.29,3.15,2.93,VB
+gözetle>mek,pry,2.29,3.15,2.93,VB
 gözetleyici,peeper,1.95,3.21,2.71,NN
 gözetme,enrollment,3.6,2.38,3.53,NN
 gözet^mek,look,3.48,2.38,3.44,VB
@@ -5098,7 +5092,7 @@ gözgü,mirror,3.45,2.78,3.25,NN
 gözlem,observation,3.31,2.12,3.52,NN
 gözlemci,observer,3,2.75,3.54,NN
 gözleme,waffle,3.88,2.75,3.65,NN
-gözlemek,observe,3.15,2.63,3.46,VB
+gözle>mek,observe,3.15,2.63,3.46,VB
 gözlemevi,observatory,3.18,2.81,3.48,NN
 gözlemleme,recon,2.84,2.86,3.15,NN
 gözler,eyes,3.79,2.09,3.47,ADJ
@@ -5161,7 +5155,7 @@ güdü,motive,3.16,2.93,3.6,NN
 güdücü,drive,3.75,2.6,3.34,NN
 güdük^,stubby,2.75,2.57,3.15,ADJ
 güdüleme,motivation,3.62,2.87,3.68,NN
-güdülemek,motivate,3.53,3.05,4.11,VB
+güdüle^mek,motivate,3.53,3.05,4.11,VB
 gufran,forgiveness,3.93,2.52,3.63,NN
 güfte,promise,3.82,2.45,3.74,NN
 guguk^,cuckoo,2.9,2.79,2.77,NN
@@ -5205,7 +5199,7 @@ güneş koruyucu,sunscreen,3.39,2.48,3.45,NN
 güneş saati,sundial,3.48,2.11,3.1,NN
 güneş şemsiyesi,parasol,3.29,2.25,2.96,NN
 güneş yanığı,sunburn,1.88,2.73,2.56,NN
-güneşlemek,bask,3.69,2.43,3.59,VB
+güneşle>mek,bask,3.69,2.43,3.59,VB
 güneşlenmek,bask,3.69,2.43,3.59,VB
 güneşletici,solarium,3.55,3.1,3.39,NN
 güneşli,sunny,4.48,3.19,3.06,ADJ
@@ -5216,14 +5210,14 @@ güneydoğu,southeast,3.4,2.3,3.1,NN
 güneye giden,southbound,3.07,2.34,3.57,ADJ
 günlük^,diary,3.5,2.37,3.93,ADJ
 günücü,envious,2.26,3.05,2.43,ADJ
-günülemek,begrudge,2.48,2.74,3.17,VB
+günüle^mek,begrudge,2.48,2.74,3.17,VB
 gür,bushy,2.77,2.48,2.88,ADJ
 güreş,wrestling,2.81,2.62,3.06,NN
 güreşçi,wrestler,2.63,2.66,3.19,NN
 güreşçi köprüsü,bridge,3.22,2.24,2.89,NN
 güreşmek,wrestle,2.77,2.78,3.41,VB
 gurk,incubation,2.73,2.07,2.87,NN
-gürlemek,rumble,3,2.75,2.97,VB
+gürle^mek,rumble,3,2.75,2.97,VB
 gurme,gourmet,4.13,3.5,3.27,NN
 guru,guru,3.38,2.38,3.71,NN
 gürültü,noise,2.18,3.38,3.24,NN
@@ -5389,7 +5383,7 @@ hapaz,handful,3.23,2.42,3.37,NN
 hapis,jail,1.46,2.74,2.46,NN
 hapishane,penitentiary,1.53,3.68,2.22,NN
 hapishane kuşu,jailbird,1.69,2.74,2.09,NN
-hapır hupur yemek^,munch,3.66,2.31,3.57,VB
+hapır hupur ye>mek,munch,3.66,2.31,3.57,VB
 hapsedilme,incarceration,1.53,3.13,2.2,NN
 hapset^mek,imprison,1.74,2.85,2.21,VB
 hapşırmak,sneeze,2.5,2.91,2.1,VB
@@ -5403,7 +5397,7 @@ hararetli,dark,3.04,2.55,2.81,ADJ
 harbe,ramrod,2.79,2.31,3.09,NN
 harbi,ramrod,2.79,2.31,3.09,NN
 harç,mortar,2.57,2.69,2.97,NN
-harcamak,spend,3.46,2.74,3.44,VB
+harca>mak,spend,3.46,2.74,3.44,VB
 harcanabilir,expendable,2.43,3.06,2.5,ADJ
 harcanmak,go,3.66,2.93,3.17,VB
 harcıâlem,trite,2.64,2.7,3.06,NN
@@ -5469,12 +5463,12 @@ hatalı,faulty,2.24,2.84,2.71,ADJ
 hatasız,smooth,3.71,1.88,3.63,ADJ
 hatip^,speaker,3.16,2.68,3.24,NN
 hatır,sake,3.14,2.1,3.09,NN
-hatır hutur yemek^,munch,3.66,2.31,3.57,VB
+hatır hutur ye>mek,munch,3.66,2.31,3.57,VB
 hatıra,souvenir,3.95,3.07,3.58,NN
 hatıralar,memories,4,2.6,3.56,NN
 hatırlama,remembrance,3.29,2.68,3.69,NN
-hatırlamak,remember,3.75,2.07,3.66,VB
-hatırlamamak,forget,2.37,2.72,2.25,VB
+hatırla>mak,remember,3.75,2.07,3.66,VB
+hatırlama>mak,forget,2.37,2.72,2.25,VB
 hatırlanmaya değer şeyler,memorabilia,3.78,2.39,3.53,NN
 hatırlatan,reminiscent,3.56,2.31,3.52,NN
 hatırlatıcı,reminder,3.5,2.24,3.67,NN
@@ -5547,7 +5541,7 @@ hayatta kalma,survival,4.03,3.2,3.43,NN
 hayatta kalmak,survive,3.95,2.77,3.61,VB
 haydut^,thug,1.76,3.24,2.27,NN
 hayır sahibi,benefactor,3.5,1.98,2.75,NN
-hayırlı,auspicious,2.88,2.2,3.25,ADJ
+hayırlı,good,4.45,2.33,3.71,ADJ
 hayırperver,benefactor,3.5,1.98,2.75,ADJ
 hayırsever,charitable,4.17,2.25,3.78,ADJ
 hayırseverlik^,benevolence,3.65,2.68,3.22,NN
@@ -5578,7 +5572,7 @@ hazımsızlık^,indigestion,1.74,2.15,2.3,NN
 hazır,ready,3.82,2.45,3.53,ADJ
 hazır olma,readiness,3.62,2.46,3.5,NN
 hazır yemek^,delicatessen,3.7,2.73,3.77,NN
-hazırlamak,prepare,3.16,2.58,4.13,VB
+hazırla>mak,prepare,3.16,2.58,4.13,VB
 hazırlanmak,behave,3.63,2.36,4.03,VB
 hazırlanmış,shipshape,3.1,2.65,3.29,ADJ
 hazırlık öğrencisi,prep,3.15,2.1,3.73,NN
@@ -5621,7 +5615,7 @@ hesap makinesi,calculator,3.43,2.74,3.74,NN
 hesap pusulası,account,3.2,2.38,3.03,NN
 hesap^,calculus,2.5,1.87,2.71,NN
 hesaplama,calculation,3.17,2.74,3.55,NN
-hesaplamak,compute,3.37,2.23,3.84,VB
+hesapla>mak,compute,3.37,2.23,3.84,VB
 hesaplanamayan,unaccounted,2.55,2.61,2.77,ADJ
 hesaplaşma,reckoning,2.95,3.11,3.23,NN
 hesaplı,affordable,4.26,2.56,3.58,ADJ
@@ -5674,7 +5668,7 @@ hileci,helmsman,3.1,2,3.17,ADJ
 hilekar,deceitful,1.8,3.09,2.56,ADJ
 hileli,tricky,2.89,2.93,3.15,ADJ
 hilesiz,ramrod,2.79,2.31,3.09,ADJ
-hilkat garibesi,freak,2.37,3.65,3.06,NN
+hilkat garibesi,freak,2.37,3.65,3.06,ADJ
 himaye,oversight,2.3,2.73,3.16,NN
 himaye et^mek,conserve,3.45,2.38,3.43,VB
 himayeci,protector,4.19,2.62,3.61,NN
@@ -5714,7 +5708,7 @@ hiyerarşi,hierarchy,2.98,2.56,2.42,NN
 hiyeroglif yazılar,hieroglyphics,3.57,2.17,2.88,NN
 hiz<ip^,faction,3.06,2.55,2.76,NN
 hiza,alignment,3.5,2.46,3.66,NN
-hizalamak,align,3.48,2.16,3.48,VB
+hizala>mak,align,3.48,2.16,3.48,VB
 hizmet,service,3.92,1.98,3.17,NN
 hizmetçi,servant,2.5,2.39,2.86,NN
 hıçkırık^,sob,1.83,2.95,2.15,NN
@@ -5861,6 +5855,11 @@ huysuzluk^,mishap,2.25,2.81,2.13,NN
 hüz<ün,blues,2.22,2.31,3.22,NN
 huzur,tranquility,4.43,2.32,4.31,NN
 huzur içinde yatsın,rip,2.14,3.13,2.56,UH
+Allah rahmet eylesin,rip,2.14,3.13,2.56,UH
+Allah rahmet etsin,rip,2.14,3.13,2.56,UH
+başınız sağolsun,rip,2.14,3.13,2.56,UH
+başımız sağolsun,rip,2.14,3.13,2.56,UH
+başın sağolsun,rip,2.14,3.13,2.56,UH
 huzurlu,peaceful,4.5,2.69,3.92,ADJ
 huzursuz,uneasy,1.93,2.74,2.41,ADJ
 huzursuzluk^,unrest,1.82,2.96,2.27,NN
@@ -6018,7 +6017,6 @@ ikametgah,abode,3.14,1.95,3.03,NN
 ikametgâh,condo,3.74,2.4,3.38,NN
 ikaz,notice,3.47,2.19,3.06,NN
 ikaz et^mek,jog,3.41,2.22,3.68,VB
-iki,two,3.65,2.17,3.03,NN
 iki aşamalı,two step,3.48,2.28,3,ADJ
 iki başlı kas,biceps,3.48,2.71,3.73,NN
 iki hafta,fortnight,3.25,2.03,3.28,NN
@@ -6055,7 +6053,7 @@ il,province,3.07,2.17,3.09,NN
 il<im,science,3.66,3.13,3.87,NN
 ilaç,medication,2.33,2.78,3.61,NN
 İlac^,pharmaceutical,2.84,2.18,3,ADJ
-ilaçlamak,medicate,2.58,2.57,3.44,VB
+ilaçla>mak,medicate,2.58,2.57,3.44,VB
 ilaçlar,drugs,2.43,3.39,2.66,NN
 ilahe,goddess,3.82,2.78,3.38,NN
 ilahi,divine,4.08,2.03,3.48,ADJ
@@ -6073,7 +6071,7 @@ ilenme,woe,2.19,2.86,2.46,NN
 ileri karakol,outpost,2.84,2.03,3.53,NN
 ilerici,progressive,3.63,2.69,3.81,NN
 ilerleme,advancement,4.24,3.41,3.69,NN
-ilerlemek,advance,3.56,2.81,3.56,VB
+ilerle>mek,advance,3.56,2.81,3.56,VB
 ilerleyen,continuum,3.08,2.48,3.18,NN
 ilerleyiş,navigational,3.05,2.5,3.71,NN
 ileti,message,3.59,2.41,3.89,NN
@@ -6086,7 +6084,6 @@ ilgi,involvement,3.41,1.98,3.71,NN
 ilgi çekici,intriguing,3.77,3.22,3.27,NN
 ilgilendiren,belong,3.75,1.95,3.22,NN
 ilgilenmek,look,3.48,2.38,3.44,VB
-ilgilenmemek,exclude,2.28,2.91,2.84,VB
 ilgili,interested,3.92,2.73,3.92,ADJ
 ilginc^,interesting,3.89,3.05,3.92,ADJ
 ilginçlik^,kink,3.15,2.9,2.91,NN
@@ -6183,7 +6180,7 @@ inç,inch,3.2,2.15,2.73,NN
 ince,slim,3.82,2.63,2.74,ADJ
 ince ruhlu,tactful,3.59,2.31,3.66,NN
 inceleme,examination,3.03,2.75,3.03,NN
-incelemek,dissect,2.48,3.22,3.08,VB
+incele>mek,dissect,2.48,3.22,3.08,VB
 incelik^,delicacy,4,3,3.26,NN
 incelmemiş,crude,2.12,2.76,2.18,ADJ
 incelmiş,refined,3.56,2.48,3.84,ADJ
@@ -6202,7 +6199,7 @@ indie,indie,3.29,2.55,3.42,NN
 indifa,spout,3.15,2.07,3.06,NN
 indikatör,indicator,3.24,1.93,3.02,NN
 indir,download,3.5,2.3,3.63,VB
-indirgemek,degrade,1.81,2.98,2.7,VB
+indirge>mek,degrade,1.81,2.98,2.7,VB
 indirim,discount,3.39,2.81,3.43,NN
 indirmek,shatter,2.22,3.15,2.79,VB
 indüksiyon,induction,3.16,2.55,2.96,NN
@@ -6343,7 +6340,7 @@ işçilik^,workmanship,3.23,2.57,4.08,NN
 işe alım,recruitment,2.91,2.5,2.75,NN
 işe yaramaz,useless,1.9,2.7,2.83,ADJ
 işeme,urination,2.31,2.7,3,NN
-işemek,piss,1.87,2.87,3.32,VB
+işe>mek,piss,1.87,2.87,3.32,VB
 işgal,occupation,2.89,2.67,3.24,NN
 işgal et^mek,occupy,2.93,2.64,3.15,VB
 işgücü,manpower,3.5,2.66,3.46,NN
@@ -6377,7 +6374,7 @@ işlek^,limber,3.73,2.21,3.54,ADJ
 işlem,transaction,3.13,2.37,3.29,NN
 işlemci,processor,3.13,2.25,3.05,NN
 işleme,processing,3.27,2.2,3.5,NN
-işlemek,commit,3.43,2.25,3.82,VB
+işle>mek,commit,3.43,2.25,3.82,VB
 işlemeyen,pathological,1.86,2.25,2.5,NN
 işlemez olmak,stand,3.14,2.05,3.45,VB
 işler tıkırında,copacetic,2.78,2.23,3.75,NN
@@ -6393,7 +6390,7 @@ işleyim,industry,3.04,2.63,2.83,NN
 işleyiş,contraption,3.06,2.66,3.34,NN
 işlik^,workshop,3.68,2.29,3.54,NN
 ispat et^mek,attest,3.05,2.34,3.63,VB
-ispatlamak,prove,3.5,2.13,3.39,VB
+ispatla>mak,prove,3.5,2.13,3.39,VB
 ispinoz,finch,2.87,2.26,3,NN
 ispit,rim,2.8,2.36,3.02,NN
 ispiyon,sneak,2.67,3.23,3.18,NN
@@ -6423,8 +6420,7 @@ isteksizce,indisposed,2.76,2.8,2.66,ADJ
 isteksizlik^,reluctance,2.53,2.71,2.66,NN
 istem,demand,2.55,3.43,3.07,NN
 isteme,consensual,3.65,3.12,3.77,NN
-istemek,solicit,2.3,2.84,2.98,VB
-istememek,jib,3.27,2.79,2.92,VB
+isteme>mek,jib,3.27,2.79,2.92,VB
 istemsiz,involuntary,2.53,2.38,2.57,ADJ
 işten çıkarma,severance,2.45,2.16,2.34,NN
 istenç,will,3.16,1.95,3.81,NN
@@ -6528,6 +6524,7 @@ iye,owner,3.69,2.86,3.8,NN
 iyelik^,possessive,2.13,2.93,3.13,NN
 iyesiz,derelict,2.39,2.7,2.61,ADJ
 iyi,good,4.45,2.33,3.71,ADJ
+iyi gelmek,benefit,3.94,2.27,3.63,VB
 iyi huylu,benign,3.43,2.13,3.5,NN
 iyi niyet,goodwill,3.74,2.98,3.95,NN
 iyice,strict,2.33,2.75,3.14,NN
@@ -6565,10 +6562,10 @@ izinsiz girmek,intrude,2.05,3.1,2.46,VB
 izlem,strategy,3.48,2.58,3.84,NN
 izlemci,strategist,3.15,3.08,3.38,NN
 takip et^mek,follow,2.91,2.38,2.91,NN
-izlemek,watch,3.23,2.19,3.78,VB
+izle>mek,watch,3.23,2.19,3.78,VB
+seyret^mek,watch,3.23,2.19,3.78,VB
 izlemsel,strategic,3.79,2.66,3.65,ADJ
 izlence,program,3.25,2.45,3.77,NN
-izlenebilir,traceable,2.82,2.31,3.12,ADJ
 izlenemez,untraceable,2.93,2.31,3.08,ADJ
 izlenim,impression,3.5,2.43,3.22,NN
 izlev,function,3.28,2.55,3.59,NN
@@ -6833,7 +6830,7 @@ kaldır,remove,2.61,2.06,2.78,VB
 kaldırac^,lever,2.75,1.78,3.65,NN
 kaldırıcı,forklift,2.87,2.59,3,NN
 kaldırım,sidewalk,3.34,2.33,3.6,NN
-kaldırım döşemek,pave,3.31,1.87,3.02,VB
+kaldırım döşe^mek,pave,3.31,1.87,3.02,VB
 kaldırma,hoist,3,2.9,2.84,NN
 kaldırmak,fetch,3.16,2.53,3.3,VB
 kale,castle,3.71,2.86,3.68,NN
@@ -6929,11 +6926,12 @@ kanguru,kangaroo,3.73,2.64,3.19,NN
 kaniş,poodle,3.55,2.3,3.69,NN
 kanı,intellect,3.81,2.71,3.85,ADJ
 kanıt,proof,3.69,2.58,4.03,NN
-kanıtlamak,prove,3.5,2.13,3.39,VB
+kanıtla>mak,prove,3.5,2.13,3.39,VB
 kanka,buddy,4.21,2.79,3.62,NN
 kanlı,gory,1.79,3.05,2.66,ADJ
 kanlı ishal,dysentery,2,2.38,2.03,NN
-kanmak,swallow,3.29,2.39,3.36,VB
+kanmak,err,2.29,2.34,2.91,VB
+yanılmak,err,2.29,2.34,2.91,VB
 kano,canoe,3.38,2.35,3.58,NN
 kanon,canon,2.95,3.43,2.9,NN
 kanser,cancer,1.45,3.07,1.95,NN
@@ -6955,10 +6953,10 @@ kap^,utensil,3.18,1.98,3.81,NN
 kapak^,flap,3.37,2.23,2.79,NN
 kapalı,indoor,3.65,1.93,3.77,ADJ
 kapama,mistress,2.43,3.48,3.17,NN
-kapamak,shut,2.75,2.53,3.31,VB
+kapa>mak,shut,2.75,2.53,3.31,VB
 kapanlevrek,snapper,2.72,2.91,3.08,NN
 kapanma,shutdown,2.29,1.96,3.18,NN
-kapanmamak,commit,3.43,2.25,3.82,VB
+kapanma>mak,commit,3.43,2.25,3.82,VB
 kapasite,capacity,3.07,2.34,3.54,NN
 kapatma,closure,3.11,2.1,3.35,NN
 kapatmak,abolish,2.42,2.59,2.83,VB
@@ -6973,16 +6971,15 @@ kapıcı,doorman,3.23,2.18,3.34,NN
 kapılmak,deduct,2.62,2.56,2.93,VB
 kaplam,scope,3.09,2.24,2.92,NN
 kaplama,overlay,2.79,2.09,2.77,ADJ
-kaplamak,recap,3.17,2.13,3.08,VB
+kapla>mak,recap,3.17,2.13,3.08,VB
 kaplan,tiger,3.5,3.28,2.7,NN
 kaplumbağa,turtle,3.58,1.76,3.41,NN
-kapmak,grab,3.22,2.75,3.14,VB
 kappa,kappa,3.33,1.9,2.8,NN
-kapris,whim,3.58,2.53,3.43,NN
-kaprisli,whimsical,3.83,2.89,3.16,ADJ
+kapris,freak,2.36,3.06,2.93,NN
+kaprisli,freakish,2.36,3.06,2.93,ADJ
 kapsam,scope,3.09,2.24,2.92,NN
 kapsama,coverage,3.39,2.1,3.48,NN
-kapsamak,involve,3.22,2.3,3.14,VB
+kapsa>mak,involve,3.22,2.3,3.14,VB
 kapsamlı,comprehensive,3.9,2.3,3.54,ADJ
 kapsül,capsule,3.3,2.23,3.28,NN
 kaptan,captain,3.36,2.43,3,NN
@@ -7015,7 +7012,7 @@ karakteristik^,characteristic,3.29,2.62,3.19,ADJ
 karakulak^,herald,2.95,2.43,3.23,NN
 karakurbağası,toad,3.5,2.31,2.92,NN
 karalama,doodle,3.7,2.55,3.96,NN
-karalamak,blacken,2.55,2.48,2.87,VB
+karala>mak,blacken,2.55,2.48,2.87,VB
 karamel,caramel,3.84,2.65,3.53,NN
 karamela,butterscotch,3.78,2.24,3.34,NN
 karamsar,moody,2.36,3,2.63,ADJ
@@ -7110,7 +7107,8 @@ karşı çıkmak,oppose,2.61,3.09,3.37,VB
 karşı durmak,withstand,3.48,2.61,3.8,VB
 karşı koymak,fend,2.91,2.87,3.43,VB
 karşılama,welcome,4.14,2.38,3.62,NN
-karşılamak,satisfy,4.05,3.27,3.67,VB
+tatmin et^mek,satisfy,4.05,3.27,3.67,VB
+mutlu et^mek,satisfy,4.05,3.27,3.67,VB
 karşılaşma,encounter,3.08,2.84,3.15,NN
 karşılaşmak,see,3.64,2.45,3.5,VB
 karşılaştırılabilir,comparable,3.2,2.5,3.48,ADJ
@@ -7193,16 +7191,16 @@ katılaştırmak,consolidate,2.9,2.53,2.87,VB
 katılım,participation,3.58,2.28,3.65,NN
 katılımcı,participant,3.16,2.15,3.72,NN
 katılmak,join,3.42,2.45,2.97,VB
-katılmamak,disagree,1.92,2.95,3.23,VB
+katılma>mak,disagree,1.92,2.95,3.23,VB
 katılmış,additional,3.58,2.31,2.98,ADJ
 katır,mule,2.63,1.89,2.75,NN
-katır kutur yemek^,munch,3.66,2.31,3.57,VB
+katır kutur ye>mek,munch,3.66,2.31,3.57,VB
 katışık^,hybrid,3.24,2.41,3.2,ADJ
 katışıksız,bee,2.34,3.33,3.16,ADJ
 katkı,contribution,3.79,2.09,4,NN
 katkıda bulunmak,contribute,3.58,2.29,3.98,VB
 katkısız,mere,2.84,2.36,3.11,ADJ
-katlamak,wring,2.98,2.45,3.24,VB
+katla>mak,wring,2.98,2.45,3.24,VB
 katlanamama,indigestion,1.74,2.15,2.3,NN
 katlanılamaz,intolerable,2.07,3.21,2.58,ADJ
 katlanılır,bearable,3.36,2.29,3.24,ADJ
@@ -7213,7 +7211,7 @@ katmak,cherish,3.88,2.57,4.16,VB
 katman,fold,3.1,2,3.84,NN
 katran,tar,2.45,2.33,3.05,NN
 katranlı,tarry,2.84,2.05,2.78,ADJ
-katur kutur yemek^,munch,3.66,2.31,3.57,VB
+katur kutur yemek,munch,3.66,2.31,3.57,VB
 kauçuk^,rubber,2.69,2.57,3.19,NN
 kav<il,promise,3.82,2.45,3.74,NN
 kaval kemiği,tibia,2.71,2.26,3.28,NN
@@ -7227,7 +7225,7 @@ kavlıç,hernia,1.74,3.21,1.98,NN
 kavmî,ethnic,3.18,2.28,3.03,ADJ
 kavram,notion,3.43,2.63,3.21,NN
 kavrama,insight,3.88,2.48,3.65,NN
-kavramak,comprehend,3.79,2.47,3.87,VB
+kavra>mak,comprehend,3.79,2.47,3.87,VB
 kavrayış,horizon,3.74,2.63,2.8,NN
 kavrayışsız,unsympathetic,2.18,2.65,2.97,ADJ
 kavrulmuş,parched,2.15,2.96,2.69,ADJ
@@ -7304,7 +7302,7 @@ kazayağı,crowbar,2.91,2.31,3.23,ADJ
 kaziye,proposition,3.42,2.93,3.59,NN
 kazı,workings,3.25,1.98,3.28,NN
 kazık^,picket,2.69,2,3.23,NN
-kazıklamak,carve,3.05,2.57,3.66,VB
+kazıkla>mak,carve,3.05,2.57,3.66,VB
 kazıklı humma,tetanus,2.17,3.26,2.6,NN
 kazıma,abortion,1.79,3.22,2.87,NN
 kazmak,dig,3.14,2.34,2.84,VB
@@ -7376,7 +7374,7 @@ kendini beğenmiş,cocky,2.23,3.4,3.14,ADJ
 kendini kaybet^mek,unglued,2.55,2.56,2.48,VB
 kene,tick,2.03,2.41,2.31,NN
 kenef,latrine,2.5,2.41,3.28,NN
-kenetlemek,lock,2.78,2,2.56,VB
+kenetle>mek,lock,2.78,2,2.56,VB
 kenevir,cannabis,3.53,3.43,3,NN
 kent,civic,3.37,2.25,3.25,NN
 kentet,quintet,3.3,2.17,2.87,NN
@@ -7473,7 +7471,7 @@ kilidini açmak,unlock,3.28,2.1,3.87,VB
 kilim,rug,3,2.12,3.34,NN
 kilise,parish,2.5,2.23,3.29,NN
 kilise sırası,pew,3.19,1.71,3.22,NN
-kilitlemek,lock,2.78,2,2.56,VB
+kilitle>mek,lock,2.78,2,2.56,VB
 kilitli dolap^,locker,2.9,2.18,3.68,NN
 kilo,kilo,2.65,2.13,3.1,NN
 kilo almak,collect,3.45,2.07,3.24,VB
@@ -7515,6 +7513,7 @@ kiriş,beam,3.37,2.3,3.77,NN
 kirlenme,pollution,1.5,3.1,2.58,NN
 kirlet^mek,pollute,1.44,2.96,2.74,VB
 kirli,unclean,1.98,2.56,2.6,ADJ
+cenabet,unclean,1.98,2.56,2.6,ADJ
 kirmen,spindle,2.72,2.28,3.11,NN
 kirpi,porcupine,3.69,2.98,2.95,NN
 kirpik^,eyelash,3.23,1.81,3.03,NN
@@ -7561,16 +7560,16 @@ kılkoparan,amber,3.58,2.18,3.61,NN
 kıllı,hairy,2.4,2.25,3.11,ADJ
 kılmak,render,2.93,2.58,3.18,VB
 kılükal,gossip,2.25,2.46,2.47,NN
-kımıldamak,shove,2.05,2.42,2.71,VB
+kımılda>mak,shove,2.05,2.42,2.71,VB
 kımıldamayan,hushed,3.11,2.38,2.41,ADJ
 kımıldatma,incite,2.88,2.89,3.34,NN
 kımıldayan,frisky,3.79,3.53,3.62,ADJ
 kınama,reprimand,1.84,2.93,2.16,NN
-kınamak,condemn,1.81,3.17,2.59,VB
+kına>mak,condemn,1.81,3.17,2.59,VB
 kınanması gereken,reprehensible,2.72,2.48,2.25,ADJ
 kınnap^,string,3.13,2.4,3.31,NN
 kıpırdak^,mobile,3.41,2.38,3.45,ADJ
-kıpırdamak,shove,2.05,2.42,2.71,VB
+kıpırda>mak,shove,2.05,2.42,2.71,VB
 kıpırdanmak,shove,2.05,2.42,2.71,VB
 kıpırdatmak,wiggle,3.29,3.02,3.19,VB
 kıpkırmızı,aglow,3.42,2.92,3.3,ADJ
@@ -7631,7 +7630,7 @@ kısırlaştırmak,castrate,1.6,3.15,2.22,VB
 kısırlık^,infertility,2,2.9,1.81,NN
 kısıt,restraint,2.24,2.53,2.73,NN
 kısıtlama,restraint,2.24,2.53,2.73,NN
-kısıtlamak,restrict,2.24,2.68,2.26,VB
+kısıtla>mak,restrict,2.24,2.68,2.26,VB
 kısıtlanmış,restricted,2.42,2.8,2.22,ADJ
 kısıtlayıcı,oppressive,2.03,3.62,2.22,ADJ
 kısıtlı,restricted,2.42,2.8,2.22,ADJ
@@ -7682,7 +7681,7 @@ kıymetlendirmek,evaluate,3.05,2.39,3.6,VB
 kıymetli,precious,3.92,2.32,3.38,ADJ
 kıymetsiz,trashy,1.88,3.38,2.87,ADJ
 kıymık^,splinter,2.08,2.75,3.34,NN
-kız,girl,4.08,3.12,3.14,NN
+kız çocuğu,girl,4.08,3.12,3.14,NN
 kız arkadaş,girlfriend,4.28,3.03,3,NN
 kız gibi,girly,3.16,2.73,3.33,NN
 kız kurusu,spinster,2.57,2.5,2.86,NN
@@ -7800,7 +7799,7 @@ kolesterin,cholesterol,2.38,2.03,3.48,NN
 kolesterol,cholesterol,2.38,2.03,3.48,NN
 kolik^,colic,1.98,1.95,1.98,NN
 kollajen,collagen,2.63,2.4,2.9,NN
-kollamak,bide,2.75,2.31,3.21,VB
+kolla>mak,bide,2.75,2.31,3.21,VB
 kollayıcı,protective,3.77,2.48,3.81,ADJ
 kolluk^,cuff,2.91,2.28,2.58,NN
 kollukçu,cop,2.75,2.95,1.92,NN
@@ -7812,7 +7811,7 @@ kolordu,corps,2.62,2.26,2.85,NN
 koltuk altı,armpit,2.55,2.29,3.12,NN
 koltuk değneği,crutch,2.32,2.34,2.54,NN
 koltuk^,armchair,3.34,1.88,3.4,NN
-koltuklamak,flatter,3.55,2.81,3.5,VB
+koltukla^mak,flatter,3.55,2.81,3.5,VB
 kolun ön kısmı,forearm,3.29,2.38,3.68,NN
 kolye,necklace,3.93,2.26,3.32,NN
 kolza,rape,1.27,4.12,1.74,NN
@@ -7859,7 +7858,7 @@ komütatör,key,3.61,2.45,3.88,NN
 konak^,mansion,3.81,2.92,3.75,NN
 konakçı,mansion,3.81,2.92,3.75,NN
 konaklama,accommodation,3.88,2.86,3.5,NN
-konaklamak,alight,3.34,2.43,3.44,VB
+konakla>mak,alight,3.34,2.43,3.44,VB
 konaklar,mansions,3.61,2.98,3.4,NN
 konçerto,concerto,3.35,2.07,3.34,NN
 kondu,shanty,2.07,2.78,2.75,NN
@@ -7938,7 +7937,6 @@ köpek yavrusu,puppy,4.43,3.42,3.62,NN
 köpek^,dog,4,3.22,3.37,NN
 köpekbalığı,shark,2.51,3.14,2.94,NN
 kopma,rupture,2.11,3.13,2.16,NN
-kopmak,emerge,3.38,2.87,3.84,VB
 köprü,bridge,3.22,2.24,2.89,NN
 köprücük kemiği,collarbone,3.05,1.93,3.21,NN
 köprüleme,bypass,2.48,2.21,3.3,NN
@@ -8030,18 +8028,19 @@ kot^,jean,3.53,1.71,3.1,NN
 kota,quota,2.55,2.55,3.45,NN
 kötek^,rubdown,3.76,2.62,3.03,NN
 kötü,evil,1.67,3.34,2.3,ADJ
+fen,evil,1.67,3.34,2.3,ADJ
 kötü adam,villain,2,2.96,2.23,NN
 kötü davranış,misconduct,2.28,2.8,3.08,NN
 kötü huylu,wanton,3.12,2.08,2.57,ADJ
 kötü niyetli,malicious,1.66,2.98,2.89,ADJ
 kötü şöhret,notoriety,3.34,3.12,3.39,NN
-kötülemek,disparage,2,2.48,2.26,VB
+kötüle^mek,disparage,2,2.48,2.26,VB
 kötüleşen,deteriorating,1.82,3.26,2.59,ADJ
 kötülük^,malice,1.91,2.91,2.78,NN
 kötümser,pessimistic,2.45,2.74,2.5,ADJ
 kötüye kullanma,misuse,2.13,2.74,2.95,NN
 kova,pail,2.75,1.62,3.04,NN
-kovalamak,chase,2.39,3.8,2.84,VB
+kovala>mak,chase,2.39,3.8,2.84,VB
 kovalayan,chaser,2.86,2.95,3.17,ADJ
 kovan,hive,2.5,2.64,3.36,NN
 kovboy,buckaroo,3.27,2.65,2.85,NN
@@ -8110,7 +8109,7 @@ kuartet,quart,2.95,2.37,3.46,NN
 kubbe,dome,3.48,2.71,3.27,NN
 kübik^,cubic,2.85,2,3.3,ADJ
 kucak^,bosom,3.72,2.85,3,NN
-kucaklamak,cuddle,4.3,2.42,3.83,VB
+kucakla>mak,cuddle,4.3,2.42,3.83,VB
 küçücük^,diminutive,2.71,2.25,2.81,ADJ
 küçük abdest,urine,1.95,2.69,2.78,NN
 küçük adam,pipsqueak,2.57,2.72,2.68,NN
@@ -8128,7 +8127,7 @@ küçük^,little,3.46,2.6,3.09,ADJ
 küçültmek,shrink,2.5,2.21,2.35,VB
 küçültücü,demeaning,1.81,2.37,2.59,NN
 küçümseme,scorn,2.04,2.77,2.53,NN
-küçümsemek,belittle,1.85,2.53,1.96,VB
+küçümse^mek,belittle,1.85,2.53,1.96,VB
 küçümsenen,despicable,1.88,2.93,2.12,NN
 küçümsenmiş,underrated,3.27,2.82,3.19,ADJ
 küçümseyen,scornful,1.75,2.86,3.02,NN
@@ -8136,8 +8135,9 @@ küçümseyici,jeering,1.76,3.29,2.66,ADJ
 kuduz,rabies,1.59,3.5,2.24,ADJ
 küf,mildew,1.81,2.57,2.6,NN
 küf<ür,blasphemy,1.98,3.33,2.8,NN
+küfret^mek,abuse,1.27,3.61,1.95,VB
+küfür et^mek,abuse,1.27,3.61,1.95,VB
 küflü,moldy,1.48,2.68,2.65,ADJ
-küfret^mek,read,3.87,2.35,3.56,VB
 küfürlü,abusive,1.53,3.14,2.29,ADJ
 kuintet,quintet,3.3,2.17,2.87,NN
 kukla,dummy,2.33,2.4,2.36,NN
@@ -8164,7 +8164,7 @@ kullanıcı,user,2.34,2.11,3.28,NN
 kullanılabilir,usable,3.29,2.22,3.56,ADJ
 kullanılabilirlik^,availability,3.34,2.69,3.25,NN
 kullanılır olmak,avail,3.21,2.39,3.5,VB
-kullanılmamak,die,1.34,3.95,2.14,VB
+kullanılma>mak,die,1.34,3.95,2.14,VB
 kullanılmamış,zilch,2.45,2.53,2.63,ADJ
 kullanılmayan,unused,2.88,2,3.16,ADJ
 kullanım,usage,3.05,1.75,3.52,NN
@@ -8200,7 +8200,7 @@ kuma,spousal,3.5,2.71,3.61,NN
 kumanda,command,2.6,2.83,4.11,NN
 kumandan,commandant,3.08,2.48,2.69,NN
 kumar,gambling,1.95,3.46,2.56,NN
-kumar oynamak,punt,2.81,2.5,3.16,VB
+kumar oyna>mak,punt,2.81,2.5,3.16,VB
 kumarbaz,gambler,2.58,3.4,2.72,NN
 kumarcı,gambler,2.58,3.4,2.72,NN
 kumarhane,casino,2.84,3.53,2.92,NN
@@ -8244,7 +8244,7 @@ kurbağa,frog,3.42,2.54,3.25,NN
 kurbağa adam,diver,3.33,3.21,3.45,NN
 kurbağa gibi,froggy,3.36,2.18,2.89,ADJ
 kurban,victim,1.53,3.19,1.89,NN
-kurcalamak,tamper,2.17,3.28,2.82,VB
+kurcala>mak,tamper,2.17,3.28,2.82,VB
 kürdan,toothpick,2.95,2.17,3.48,NN
 küre,sphere,3.61,2.5,3.3,ADJ
 küre kuşağı,sash,3.24,2.5,3.25,NN
@@ -8283,7 +8283,7 @@ kuru sümük^,booger,2.13,2.4,2.67,NN
 kuru üzüm,raisin,3.53,2.33,3.37,NN
 kurucu,founder,3.23,2.48,3.35,NN
 kurul,posse,2.76,2.71,3.39,NN
-kurulamak,dab,3,2.06,3.31,VB
+kurula>mak,dab,3,2.06,3.31,VB
 kurultay,congress,2.28,2.31,2.24,NN
 kurulum,setup,2.68,2.83,2.86,NN
 kuruluş,enterprise,3.5,2.5,3.33,NN
@@ -8334,7 +8334,7 @@ kut,bliss,4.31,2.57,3.68,NN
 kut<up^,pole,3.3,2.03,2.8,NN
 kut<ur,diameter,2.88,2.52,3.14,NN
 kutlama,celebration,4.27,3.45,4,NN
-kutlamak,celebrate,4.42,3.87,3.56,VB
+kutla^mak,celebrate,4.42,3.87,3.56,VB
 kütle,mass,3.08,2.28,3.24,NN
 kutlu,blessed,4.25,2.28,3.16,ADJ
 kutsal,sacred,3.98,3,3.06,ADJ
@@ -8344,7 +8344,7 @@ kutsal şeye saygısızlık^,sacrilege,2.32,2.93,2.86,NN
 kutsal yer,sanctum,3.05,2.37,3.61,NN
 kutsallaştırmak,bless,4,2.79,3.63,VB
 kutsallık^,sanctity,3.22,2.4,3.32,NN
-kutsamak,bless,4,2.79,3.63,VB
+kutsa^mak,bless,4,2.79,3.63,VB
 kutsanan,consecrated,2.91,2.35,2.98,ADJ
 kutsi,hallowed,3.23,2.23,2.98,ADJ
 kutsiyet,holiness,3.09,2.24,3,NN
@@ -8408,7 +8408,7 @@ lanet,curse,1.95,3.1,3.08,ADJ
 lanet et^mek,darn,2.41,2.09,3.28,VB
 lanet olası,drat,2.63,2.2,2.74,NN
 lanetleme,flipping,3.17,2.48,3,NN
-lanetlemek,darn,2.41,2.09,3.28,VB
+lanetle>mek,darn,2.41,2.09,3.28,VB
 lanetlenmiş,flipping,3.17,2.48,3,ADJ
 lanetli,accursed,2.11,3.17,2.57,ADJ
 langırt,pinball,3.55,2.98,3.54,NN
@@ -8444,7 +8444,7 @@ lehim lambası,blowtorch,3.11,3.38,2.87,NN
 lehtar,beneficiary,3.6,2.73,3.75,NN
 lejyon,legion,3.16,2.59,2.94,NN
 leke,stain,2,2.64,2.81,NN
-lekelemek,contaminate,2.27,3.34,2.63,VB
+lekele>mek,contaminate,2.27,3.34,2.63,VB
 lekeli,clean,4.05,2.29,3.56,ADJ
 lekesiz,spotless,3.53,2.25,3.37,ADJ
 lektör,lecturer,2.71,2.24,2.94,NN
@@ -8591,6 +8591,7 @@ mahbes,penitentiary,1.53,3.68,2.22,NN
 mahcubiyet,shyness,2.72,2,3.45,NN
 mahçup^,embarrassed,2.26,3.19,2.34,ADJ
 mahcup et^mek,embarrass,2.19,3.24,2.61,VB
+utanmak,embarrass,2.19,3.24,2.61,VB
 mahcup^,bashful,3.28,2.68,2.87,ADJ
 mahcur,restricted,2.42,2.8,2.22,ADJ
 mahi mahi,mahi mahi,3.26,3.08,3.43,NN
@@ -8654,6 +8655,7 @@ makul,reasonable,3.92,2,3.44,ADJ
 makyaj,makeover,3.38,3.07,3.25,NN
 mal,merchandise,3.11,2.39,2.88,NN
 mal mülk,fortune,4.12,3.4,3.84,NN
+kısmet,fortune,4.12,3.4,3.84,NN
 mal olmak,emerge,3.38,2.87,3.84,VB
 mal sahibi,proprietor,3.24,2.5,3.25,NN
 malarya,malaria,1.67,3.04,2.16,NN
@@ -9165,7 +9167,7 @@ mınçuka,nunchucks,3.35,2.85,3.38,NN
 mıntıka,precinct,2.93,2.48,2.94,NN
 mırıldanmak,coo,3.45,2.59,3.04,VB
 mırıltı,mumble,2.7,2.1,2.34,NN
-mırlamak,purr,3.72,2.42,3.77,VB
+mırla>mak,purr,3.72,2.42,3.77,VB
 mısır,corn,3.48,2.22,3.33,NN
 mısır ekmeği,cornbread,3.74,2.25,3.54,NN
 mısır gevreği,cornflakes,3.69,2.15,3.35,NN
@@ -9177,7 +9179,7 @@ mızraklı süvari,lancer,2.79,2.13,2.81,NN
 mobilet,scooter,3.21,2.36,3.18,NN
 mobilize,mobile,3.41,2.38,3.45,NN
 mobilya,furnishings,3.63,2.11,3.72,NN
-mobilya döşemek,furnish,3.33,2.43,3.71,VB
+mobilya döşe^mek,furnish,3.33,2.43,3.71,VB
 möble,furnishings,3.63,2.11,3.72,NN
 moda,vogue,3.31,2.46,2.77,NN
 modası geçmiş,outdated,2.32,2.38,2.5,ADJ
@@ -9265,7 +9267,6 @@ mücadele,tussle,2.5,3,2.94,NN
 mücadele et^mek,scramble,3.11,2.93,3,VB
 mücavir,neighbor,3.3,2.36,3.06,NN
 mücbir,compelling,3.5,3.07,3.5,ADJ
-mücevher,jewel,3.84,2.42,3.05,NN
 mücevherci,jeweler,3.48,2.37,3.37,NN
 mucit^,inventor,3.61,2.81,3.08,NN
 mucize,miracle,4.15,3.26,3.13,NN
@@ -9598,7 +9599,7 @@ nakil,exodus,2.82,2.73,3.31,NN
 nakisa,deficiency,1.87,2.6,2.58,NN
 nakış,embroidery,3.77,1.93,3.53,NN
 nakısa,defect,1.95,2.57,2.19,NN
-nakışlamak,commit,3.43,2.25,3.82,VB
+nakışla>mak,commit,3.43,2.25,3.82,VB
 naklet^mek,recount,2.95,2.55,3.11,VB
 nakliyat,transportation,3.55,1.69,3.19,NN
 nakliye,shipping,3.3,2.71,3.54,NN
@@ -9630,7 +9631,7 @@ narkotik^,narcotic,2.26,2.69,2.23,ADJ
 narsisistik,narcissistic,2,3,2.97,ADJ
 narsist,narcissist,2.06,3.41,2.52,NN
 narsizm,narcissism,2.13,3.03,2.58,NN
-nasip^,fatality,1.93,3.53,2.35,NN
+nasip^,fortune,4.12,3.4,3.84,NN
 naşir,publisher,3.03,2.2,3.27,NN
 natamam,deficient,2.32,2.28,2.44,ADJ
 natür,nature,3.94,2.5,3,NN
@@ -9720,7 +9721,7 @@ nihai,ultimate,3.37,3.05,3.38,ADJ
 nihan,clandestine,3.34,2.48,2.67,ADJ
 nihayet,end,2.87,2.48,2.71,ADJ
 nikah,nuptials,3.32,2.78,3.36,NN
-nikah tazelemek,remarry,3.26,2.79,3.35,VB
+nikah tazele>mek,remarry,3.26,2.79,3.35,VB
 nikap^,veil,3.21,2.42,2.97,NN
 nikbin,optimistic,4.23,2.6,4,ADJ
 nikbinlik^,optimism,4.11,2.98,3.95,NN
@@ -9746,7 +9747,7 @@ nişanlar,insignia,3.29,1.92,3.22,NN
 nişanlı,fiancee,4.07,3.02,3.53,ADJ
 nişasta,starch,2.98,2.45,3.76,NN
 nispet,defiance,2.58,3.43,3.22,NN
-nitelemek,qualify,3.89,3.53,3.74,VB
+nitele>mek,qualify,3.89,3.53,3.74,VB
 nitelendirmek,characterize,3.25,2.12,3.66,VB
 nitelik^,attribute,3.34,2.56,3.5,NN
 nitelikler,qualifications,3.19,2.88,3.6,NN
@@ -9832,8 +9833,8 @@ odak^,focus,3.74,2.73,3.92,NN
 odalar,rooms,3.33,2.24,3.08,NN
 ödem,edema,2.43,2.14,2.71,NN
 ödeme,payout,3.79,3.42,3.53,NN
-ödemek,repay,3.09,2.33,3.47,VB
-ödememek,dine,3.8,2.5,3.53,VB
+öde^mek,repay,3.09,2.33,3.47,VB
+ödeme>mek,dine,3.8,2.5,3.53,VB
 ödence,compensation,3.78,2.87,3.82,NN
 ödenecek,payable,3.88,2.48,3.58,ADJ
 ödenek^,allowance,3.87,2.53,3.35,NN
@@ -9887,7 +9888,7 @@ okaliptüs,eucalyptus,3.53,2.05,3.29,NN
 okazyon,occasion,3.73,2.9,3.26,NN
 ökçe,heel,2.82,2.78,3.21,NN
 okçuluk^,archery,3.13,2.7,3.37,NN
-okşamak,caress,3.91,2.8,3.69,VB
+okşa>mak,caress,3.91,2.8,3.69,VB
 ökseotu,mistletoe,4.05,2.89,3.79,NN
 oksijen,oxygen,4.13,2.95,3.35,NN
 oksit^,oxide,3.27,1.96,2.7,NN
@@ -9924,7 +9925,7 @@ olası,contingent,2.93,2.45,3.04,ADJ
 olası olmayan,unlikely,2.43,2.41,2.91,ADJ
 olasılı,contingent,2.93,2.45,3.04,ADJ
 olasılık^,possibility,3.78,2.93,3.39,NN
-olay,event,3.61,3.05,3,NN
+olay,case,3.09,2.57,3.56,NN
 olaysız,uneventful,2.79,1.78,2.88,ADJ
 ölçek^,scale,3.03,2.4,3.09,NN
 ölçme bandı,measuring tape,3.22,1.58,3.93,NN
@@ -10013,9 +10014,9 @@ onarma,mend,3.77,2.38,3.42,NN
 onarmak,fix,3.56,2.3,3.86,VB
 onay,approval,3.88,2.26,3.82,NN
 onaylama,validation,3.35,2.6,3.72,NN
-onaylamak,approve,4,2.55,4.13,VB
+onayla>mak,approve,4,2.55,4.13,VB
 onaylamama,disapproval,2.2,2.62,3.13,NN
-onaylamamak,disapprove,2.28,2.41,3.11,VB
+onaylama>mak,disapprove,2.28,2.41,3.11,VB
 onaylı,certified,3.53,2.79,3.76,ADJ
 onbaşı,corporal,2.82,2.25,2.95,NN
 önbellek^,cache,2.98,2.57,3.53,NN
@@ -10034,8 +10035,8 @@ ondalık^,decimal,2.84,2.18,3.26,ADJ
 önem,importance,3.7,2.58,3.4,NN
 önemli,important,3.91,2.86,3.7,ADJ
 önemli adam,mogul,3.21,2.24,3.06,NN
-önemsemek,count,3.45,1.65,3.09,VB
-önemsememek,trifle,2.9,2.53,2.63,VB
+önemse>mek,count,3.45,1.65,3.09,VB
+önemseme>mek,trifle,2.9,2.53,2.63,VB
 önemsemeyen,pneumatic,2.75,2.45,2.84,ADJ
 önemsiz,insignificant,2.32,2.35,2.82,ADJ
 önemsiz şey,bauble,3.36,2.42,2.84,ADJ
@@ -10055,7 +10056,7 @@ onkoloji,oncology,2.16,3.4,2.64,NN
 onkuruş,sixpence,2.81,2.26,3.11,NN
 önlem,precaution,2.79,2.5,3.56,NN
 önleme,prevention,3.37,2.07,3.08,NN
-önlemek,avoid,2.55,2.46,2.91,VB
+önle^mek,avoid,2.55,2.46,2.91,VB
 önleyici,inhibitor,2.72,3.23,2.72,NN
 önlük^,apron,3.4,1.95,3.14,NN
 onma,healing,4.32,2.34,3.61,NN
@@ -10096,7 +10097,7 @@ oral seks,blowjob,3.58,3.75,3.54,NN
 oran,rate,3.34,2.59,3,NN
 orangutan,orangutan,3.37,2.94,2.5,NN
 oranlama,account,3.2,2.38,3.03,NN
-oranlamak,estimate,3.48,2.21,3.22,VB
+oranla>mak,estimate,3.48,2.21,3.22,VB
 oranlı,advisable,3.31,2.68,3.43,ADJ
 orantı,medial,2.83,2.28,2.98,NN
 orantılı,advisable,3.31,2.68,3.43,ADJ
@@ -10131,7 +10132,7 @@ ormanlık^,woodland,3.72,1.73,3.08,NN
 örme,knit,3.43,2.18,3.72,NN
 örnek^,sample,3.38,1.94,3.36,NN
 örnekleme,illustration,3.69,2.5,3.63,NN
-örneklemek,illustrate,3.62,2.39,3.37,VB
+örnekle>mek,illustrate,3.62,2.39,3.37,VB
 örnekseme,analogy,3.12,2.48,3.17,NN
 orospu,bitch,1.78,3.48,2.33,ADJ
 orospu çocuğu,motherfucker,1.31,4.17,1.78,NN
@@ -10234,7 +10235,7 @@ oy,vote,3.12,3.03,3.9,NN
 oy pusulası,ballot,3.15,2.58,3.23,NN
 oya işi,needlepoint,3.28,2.1,3.21,NN
 oyalama,distraction,2.53,2.47,2.5,NN
-oyalamak,cuckold,2.3,2.39,2.59,VB
+oyala>mak,cuckold,2.3,2.39,2.59,VB
 oyalanmak,linger,2.71,2.53,3.2,VB
 oyalayıcı,diversionary,2.71,2.26,2.93,ADJ
 oybirliği,unanimous,3.28,2.62,2.85,NN
@@ -10246,7 +10247,7 @@ oylum,volume,3.13,3,3.5,NN
 oyma,engraving,3.59,2.03,3.22,NN
 oymak^,gouge,2.07,2.88,2.81,NN
 oynak^,playful,4.32,3.45,3.91,ADJ
-oynamak,mix,3.36,1.93,3.28,VB
+oyna>mak,mix,3.36,1.93,3.28,VB
 oyuk^,niche,3.38,2.22,3.09,ADJ
 oyun,play,4.28,2.41,3.65,NN
 oyun alanı,playground,4.07,2.84,3.66,NN
@@ -10286,7 +10287,7 @@ ozan,bard,2.73,1.97,3.16,NN
 özenti,wannabe,2.13,3.03,2.74,ADJ
 özerklik^,autonomy,3.03,2.55,3.6,NN
 özet,epitome,3.34,2.62,3.57,NN
-özetlemek,summarize,2.95,1.9,3.7,VB
+özetle>mek,summarize,2.95,1.9,3.7,VB
 özezer,masochist,2.2,2.89,2.73,NN
 özgeçmiş,resume,2.95,2.34,3.02,NN
 özgün,original,4.25,2.7,4.08,ADJ
@@ -10295,7 +10296,6 @@ ozan,bard,2.73,1.97,3.16,NN
 özgürleştirici,liberating,4.38,3.15,4.16,ADJ
 özgürlük^,freedom,4.36,3.34,4.19,NN
 özlem,aspiration,3.63,3,3.47,NN
-özlemek,yearn,3.48,2.37,3.09,VB
 özleştirme,cleanup,2.93,2.02,3.8,NN
 bayık,sappy,2.72,2.15,2.56,ADJ
 özne,doer,3.32,2.69,3.98,NN
@@ -10304,9 +10304,9 @@ ozon,ozone,3.03,2.59,3.13,NN
 özsu,sap,2.6,2.46,2.89,NN
 özü,depth,3.4,2.68,3.12,NN
 özümleme,representation,2.93,2.68,3.4,NN
-özümlemek,assimilate,2.82,2.58,3.08,VB
-özümsemek,assimilate,2.82,2.58,3.08,VB
-özür dilemek,apologize,2.97,2.26,2.61,VB
+özümle^mek,assimilate,2.82,2.58,3.08,VB
+özümse^mek,assimilate,2.82,2.58,3.08,VB
+özür dile>mek,apologize,2.97,2.26,2.61,VB
 özür dileyen,apologetic,3.83,2.5,3,NN
 özürlü,handicapped,2.02,2.48,2.23,ADJ
 özüt,extract,3.08,2.23,3.59,NN
@@ -10326,7 +10326,7 @@ pak,clean,4.05,2.29,3.56,ADJ
 paket,pack,3.28,2.55,3.53,NN
 paketini açmak,unwrap,3.24,2.65,3.68,VB
 paketleme,packaging,3.08,2.15,3.18,NN
-paklamak,refine,3.09,2.3,4.1,VB
+pakla>mak,refine,3.09,2.3,4.1,VB
 pakt,covenant,3.11,2.5,3.18,NN
 pala,machete,2.57,3.59,2.85,NN
 palamut^,pointy,2.63,2.78,3.02,NN
@@ -10383,14 +10383,14 @@ parça,piece,3.12,2.29,3.06,NN
 parçacık,particle,3.12,2.87,2.8,NN
 parçacıklar,smithereens,2.58,3.07,3.07,NN
 parçalama,compartment,3.18,2.29,2.95,NN
-parçalamak,crumble,2.63,2.5,2.57,VB
+parçala>mak,crumble,2.63,2.5,2.57,VB
 parçalanamaz,indivisible,3.19,2.55,2.98,ADJ
 parçalanmış,plateau,3.42,2.34,3.32,ADJ
 parçalayıcılar,choppers,2.9,3.03,2.93,NN
 pardon,pardon,3.25,1.9,3,UH
 parfüm,perfume,3.79,2.64,3.36,NN
 parfümlü,perfumed,3.7,2.88,3.63,ADJ
-parıldamak,burn,2.37,3.2,2.45,VB
+parılda>mak,burn,2.37,3.2,2.45,VB
 parıltı,shimmer,3.98,3.19,3.26,NN
 parıltılı,luxurious,4.29,2.87,3.81,ADJ
 park,park,4,1.85,3.28,NN
@@ -10402,7 +10402,7 @@ parlak fik<ir,brainstorm,3.79,2.65,3.78,NN
 parlak^,brilliant,4.25,3.48,4.08,ADJ
 parlaklık^,shine,4.14,3.1,3.48,NN
 parlama,flare,3.2,2.93,3.42,NN
-parlamak,burn,2.37,3.2,2.45,VB
+parla>mak,burn,2.37,3.2,2.45,VB
 parlamalar,flares,2.79,3.09,3,NN
 parlamenter,deputy,3.15,2.53,3.26,NN
 parlamento,parliament,2.95,1.91,2.54,NN
@@ -10446,7 +10446,7 @@ patika,pathway,3.53,1.89,3.62,NN
 patırtı,ado,2.91,2.17,2.74,NN
 patlak^,goggle,3,2.1,3.58,ADJ
 patlama,explosion,2.09,3.68,2.31,NN
-patlamak,explode,2.69,3.16,1.98,VB
+patla>mak,explode,2.69,3.16,1.98,VB
 patlamış mısır,popcorn,4.13,3.12,3.2,NN
 patlatıcı,detonator,2.65,3.2,3.15,NN
 patlatılmak,embark,3.45,2.65,3.7,VB
@@ -10466,7 +10466,7 @@ paydaş,shareholder,2.74,1.98,2.97,NN
 paye,tier,2.98,2.37,3.32,NN
 paye vermek,dignify,3.34,2.62,3.39,VB
 paylama,earful,2.64,2.6,2.87,NN
-paylamak,scold,1.89,2.6,2.8,VB
+payla>mak,scold,1.89,2.6,2.8,VB
 paylaşmak,partake,3.4,2.65,3.9,VB
 pazar,market,3.61,2.28,3.39,NN
 pazarlama,marketing,2.92,2.88,3.05,NN
@@ -10475,7 +10475,7 @@ pazarlık yapmak,bargaining,3.19,2.57,3.69,VB
 pazarlık^,bargain,4.32,3.24,3.56,NN
 pazı,meringue,3.79,2.52,3.08,NN
 peçe,veil,3.21,2.42,2.97,NN
-peçelemek,conceal,2.48,2.37,3.53,VB
+peçele>mek,conceal,2.48,2.37,3.53,VB
 peçete,napkin,3.32,2.05,3.11,NN
 ped,pad,3.07,2.48,3.23,NN
 pedal,pedal,3.08,2.45,3.53,NN
@@ -10485,7 +10485,7 @@ pediatrik,pediatric,3.38,2.39,3.19,ADJ
 pedikür,pedicure,3.57,2.39,3.53,NN
 pedofil,pedophile,1.13,3.03,2.19,NN
 pehlivan,wrestler,2.63,2.66,3.19,NN
-pehpehlemek,flatter,3.55,2.81,3.5,VB
+pehpehle>mek,flatter,3.55,2.81,3.5,VB
 pejmürde,tacky,2.34,2.53,2.79,ADJ
 pek çok^,oodles,3.37,3.05,3.18,ADJ
 pekan,pecan,3.82,2.26,3.03,NN
@@ -10511,7 +10511,7 @@ Pepsi,Pepsi,3.65,2.79,3.16,NN
 peptid,peptide,2.87,2,2.85,NN
 perakende,retail,3,2.31,3.56,ADJ
 perçinleme,riveting,3.48,2.94,3.24,NN
-perçinlemek,clinch,2.93,2.5,3.05,VB
+perçinle>mek,clinch,2.93,2.5,3.05,VB
 perde,curtain,3.18,2.31,3.65,NN
 perdeler,curtains,3.22,1.82,3.4,NN
 performans,performance,3.6,3.31,3.98,NN
@@ -10539,7 +10539,7 @@ pervane,propeller,2.98,2.27,2.96,NN
 pervasız,reckless,2.05,3.09,2.7,ADJ
 peş,hind,2.85,1.86,2.71,NN
 peşin,spotlight,3.37,2.98,3.46,ADJ
-peşini bırakmamak,adhere,3.09,2.26,2.45,VB
+peşini bırakma>mak,adhere,3.09,2.26,2.45,VB
 pespaye,menial,2.4,2.43,3.16,ADJ
 pespayelik^,sleaze,1.98,2.56,2.41,NN
 pestenkerani,absurd,2.73,2.51,3.03,ADJ
@@ -10589,11 +10589,12 @@ pişik^,rash,2.08,2.41,2,NN
 pisipisi,pussy,2.74,3.65,2.92,NN
 piskopos,bishop,2.77,2.39,2.91,NN
 piskoposluk bölgesi,diocese,3.03,2.5,2.77,NN
-pislemek,contaminate,2.27,3.34,2.63,VB
+pisle>mek,contaminate,2.27,3.34,2.63,VB
 pislet^mek,contaminate,2.27,3.34,2.63,VB
 pislik^,scum,1.56,3.1,2.94,NN
 pişman,regretful,2.05,2.78,2.55,ADJ
 pişmanlık^,regret,2.21,2.95,3.32,NN
+pişman olmak,regret,2.21,2.95,3.32,VB
 pişmiş,ceramics,3.11,1.93,3.5,ADJ
 pissu borusu,drainpipe,2.76,1.96,2.86,NN
 pist,runway,2.87,2.67,2.97,NN
@@ -10648,7 +10649,7 @@ podösüet,suede,3.18,1.88,3.36,NN
 podyum,catwalk,3.33,2.76,3.48,NN
 pogo,pogo,3.2,2.47,2.98,NN
 pogrom,genocide,1.31,3.42,1.75,NN
-pohpohlamak,flatter,3.55,2.81,3.5,VB
+pohpohla^mak,flatter,3.55,2.81,3.5,VB
 poker,poker,3.4,3.03,3.34,NN
 polat,steel,2.98,2.43,3.34,NN
 polemiğe girmek,joust,2.95,3.31,3.06,VB
@@ -10735,6 +10736,7 @@ profesyonel,pro,3.68,2.41,3.66,ADJ
 profesyonelce olmayan,unprofessional,1.86,2.86,2.32,ADJ
 profesyonellik^,professionalism,3.58,2.37,3.81,NN
 profil,profile,3.47,1.8,3.16,NN
+kesit,profile,3.47,1.8,3.16,NN
 profil ölçer,profiler,2.72,2.72,2.89,NN
 prognoz,prognosis,2.42,2.84,3.07,NN
 program,program,3.25,2.45,3.77,NN
@@ -10876,7 +10878,7 @@ rasizm,racism,1.24,3.44,2.73,NN
 rasıt^,observer,3,2.75,3.54,NN
 rast gelmek,coincide,3.14,2.44,3.13,VB
 rastgele,haphazard,2.14,2.84,2.35,ADV
-rastlamak,coincide,3.14,2.44,3.13,VB
+rastla>mak,coincide,3.14,2.44,3.13,VB
 rastlantısal,accidental,2.23,2.5,2.21,ADJ
 rastlaşmak,see,3.64,2.45,3.5,VB
 rasyo,proportion,3.1,2.37,3.34,NN
@@ -10982,7 +10984,7 @@ rezene,fennel,3.18,2.3,3.65,NN
 rezerv,reserve,3.57,2.58,3.28,NN
 rezervasyon,reservation,3,2.62,3,NN
 rezervuar,reservoir,3.19,2.11,3,NN
-rezil,flagrant,2.5,2.96,2.82,ADJ
+rezil,vile,1.61,3.24,2.42,ADJ
 rezillik^,infamy,2.68,3.03,2.83,NN
 rezistans,resistance,2.37,3.12,2.46,NN
 rezonans,resonance,3.45,2.73,3.22,NN
@@ -11106,7 +11108,7 @@ saçılmak,scatter,2.45,2.76,2.61,VB
 saçma,absurd,2.73,2.51,3.03,NN
 saçma sapan,cockamamie,2.57,2.52,2.78,ADJ
 saçmak,pour,3.08,2.14,3.18,VB
-saçmalamak,drool,2.14,1.85,2.68,VB
+saçmala>mak,drool,2.14,1.85,2.68,VB
 saçmalık^,bullshit,1.67,4,2,NN
 sadaka,charity,3.93,2.11,3.54,NN
 sadakat,allegiance,3.4,3.09,4.03,NN
@@ -11151,7 +11153,7 @@ sağır,deaf,2.1,2.64,1.93,ADJ
 sağır eden,deafening,2.36,2.78,2.32,ADJ
 sağlak,righty,3.17,2.31,3.28,ADJ
 sağlam,sturdy,3.6,2.14,3.81,ADJ
-sağlamak,provide,3.84,2.88,3.48,VB
+sağla>mak,provide,3.84,2.88,3.48,VB
 sağlamlaştırma,arbitration,2.55,2.71,2.6,NN
 sağlamlaştırmak,consolidate,2.9,2.53,2.87,VB
 sağlamlık^,fortitude,3.63,2.8,3.88,NN
@@ -11217,7 +11219,7 @@ sakat,cripple,1.74,2.53,1.81,ADJ
 sakat et^mek,maim,2.07,2.78,2.5,VB
 sakatlama,mutilation,1.64,3.19,1.87,NN
 sakatlama suçu,mayhem,2.3,3.48,2.45,NN
-sakatlamak,mutilate,1.5,2.98,1.96,VB
+sakatla>mak,mutilate,1.5,2.98,1.96,VB
 sakatlık^,disability,1.98,2.45,2.85,NN
 sakin,tranquil,4.06,1.81,3.47,ADJ
 sakinleşmek,unwind,3.45,2.31,3.28,VB
@@ -11238,7 +11240,7 @@ sakızlı,gummy,3.15,2.5,3.02,ADJ
 şaklaban,buffoon,2.48,3.35,2.5,ADJ
 şaklabanlık^,flattery,3.37,3.05,3.46,NN
 saklama,safekeeping,3.74,1.98,3.65,NN
-saklamak,stash,3.12,2.82,3.39,VB
+sakla>mak,stash,3.12,2.82,3.39,VB
 saklanma yeri,hideaway,3.38,2.29,3.33,NN
 saklanmak,lurk,2.24,2.72,3,VB
 saklayarak,clandestine,3.34,2.48,2.67,ADJ
@@ -11266,7 +11268,7 @@ saldırıcı,blaster,2.95,3,3.19,NN
 saldırış,heady,3,2.26,3.14,NN
 saldırmak,pounce,2.84,3.61,3.26,VB
 şalgam,turnip,2.82,2.16,3.54,NN
-salgılamak,do,3.21,2.34,3.68,VB
+salgıla>mak,do,3.21,2.34,3.68,VB
 salgın,epidemic,1.53,3.59,1.79,ADJ
 salip^,crucifix,2.55,2.6,2.9,NN
 salık^,news,2.98,2.81,2.74,NN
@@ -11274,7 +11276,7 @@ salıncak^,swing,3.98,2.55,3.58,NN
 salıverme,dropout,2.17,2.85,2.48,NN
 salıvermek,unhand,2.56,2.39,2.84,VB
 salkımsöğüt^,weeping willow,3.77,2.35,3.15,NN
-sallamak,shake,2.8,3.1,3.69,VB
+salla>mak,shake,2.8,3.1,3.69,VB
 sallanma,sway,3.13,2.34,3.58,NN
 sallanmak,waver,3.09,2.42,3.17,VB
 salmak,unleash,2.8,3.07,3.34,VB
@@ -11340,7 +11342,6 @@ sanılmak,come,3.32,2.29,3.47,VB
 sanırım,daresay,3.18,2.38,2.94,ADV
 sanki,supposed,3.21,2.24,3.12,ADV
 şanlı,glorious,3.95,2.84,3.85,ADJ
-sanmak,know,3.91,2.12,3.39,VB
 sanrı,hallucination,2.48,3.48,2.18,NN
 sanrısal,delusional,2.15,3.4,2.41,ADJ
 şans,luck,3.87,2.79,3.53,NN
@@ -11351,7 +11352,7 @@ sansasyonel,sensational,4.11,3.35,3.69,ADJ
 şanssız,unlucky,1.85,2.81,2.58,ADJ
 şanssızlık^,misfortune,1.7,2.62,1.96,NN
 sansür,censorship,2.22,2.63,2.13,NN
-sansürlemek,censor,2.55,2.73,2.58,VB
+sansürle^mek,censor,2.55,2.73,2.58,VB
 şantaj,blackmail,1.8,3.22,2.49,NN
 şantajcı,blackmailer,1.53,3.06,1.89,NN
 şantöz,artiste,3.67,2,3.18,NN
@@ -11370,7 +11371,7 @@ sapıtmış,haywire,2.78,2.65,1.94,ADJ
 sapkın,perverted,2.13,3.95,2.48,ADJ
 şaplak^,spanking,2,3.49,2.81,NN
 saplama,stud,2.95,3.07,3.03,NN
-saplamak,flunk,1.48,2.36,2.62,VB
+sapla>mak,flunk,1.48,2.36,2.62,VB
 saplanmak,enter,3.55,2.65,3.9,VB
 saplantı,obsession,2.69,3.32,2.58,NN
 saplantılı,obsessed,2.93,2.73,3.38,ADJ
@@ -11413,7 +11414,7 @@ sarışın kadın,blonde,3.5,3.38,3.28,NN
 şark,east,3.67,1.75,3.09,NN
 sarkac^,pendulum,3.09,1.89,2.57,NN
 şarkı,song,4.3,2.8,3.98,NN
-şarkı söylemek,sing,4.25,2.55,3.84,VB
+şarkı söyle^mek,sing,4.25,2.55,3.84,VB
 şarkı sözleri,lyrics,3.71,2.98,3.4,NN
 şarkıcı,singer,3.95,2.93,3.4,NN
 sarkık^,saggy,1.81,2.02,2.97,ADJ
@@ -11492,7 +11493,7 @@ savlet,lunge,2.64,2.87,3.55,NN
 savmak,circumvent,3,2.5,3.21,VB
 savruk^,careless,2.27,2.64,2.31,ADJ
 savrukluk^,carelessness,2.38,2.48,2.26,NN
-savsaklamak,circumvent,3,2.5,3.21,VB
+savsakla>mak,circumvent,3,2.5,3.21,VB
 savsaklanmak,waver,3.09,2.42,3.17,VB
 savunma,plea,2.68,2.82,2.97,NN
 savunma oyuncusu,defender,3.03,2.38,2.95,NN
@@ -11626,7 +11627,7 @@ sel yatağı,gullet,2.68,3.13,2.73,NN
 selam,salute,3.61,2.69,3.7,NN
 selam vermek,greet,3.63,2.43,3.77,VB
 selamet,deliverance,3.37,2.48,3.53,NN
-selamlamak,greet,3.63,2.43,3.77,VB
+selamla>mak,greet,3.63,2.43,3.77,VB
 selek^,generous,4.22,3.35,3.91,ADJ
 selektif,elective,3.19,2.27,3.68,ADJ
 selenyum,selenium,2.93,1.86,2.75,NN
@@ -11713,7 +11714,7 @@ seretan,crab,3.41,2.57,2.76,NN
 sergen,showcase,3.65,2.36,2.7,ADJ
 sergerde,ringleader,2.55,3.1,3.28,NN
 sergi,exhibition,3.27,3.19,3.2,NN
-sergilemek,exhibit,3.39,3.24,3.61,VB
+sergile>mek,exhibit,3.39,3.24,3.61,VB
 sergüzeşt,adventure,4.2,3.68,3.68,NN
 seri,serial,2.23,2.67,3.43,ADJ
 şeri,sherry,3.48,2.33,3.13,ADJ
@@ -11755,7 +11756,7 @@ seslem,syllable,2.98,1.75,3.35,NN
 seslenmek,invoke,3.03,2.93,3.27,VB
 sesli,famed,3.17,2.45,2.86,ADJ
 sesli mesaj,voicemail,2.78,2.42,3.23,NN
-sesli yemek^,munch,3.66,2.31,3.57,VB
+sesli ye>mek,munch,3.66,2.31,3.57,VB
 sessini kısmak,mute,2.48,1.73,2.59,VB
 sessiz,quiet,3.74,1.48,3.4,ADJ
 sessizlik^,silence,3.13,2.24,3.63,NN
@@ -11801,7 +11802,6 @@ seyran,roam,2.95,2.6,3.71,NN
 seyran et^mek,navigate,3.03,2.59,3.36,VB
 seyrek^,rare,3.53,3.05,3.04,ADJ
 seyreklik^,rarity,3.74,2.53,3.09,NN
-seyret^mek,monitor,3.03,2.43,3.41,VB
 seyrüsefer,traffic,1.59,3.13,3.29,NN
 şeytan,devil,2.06,3.2,2.42,NN
 şeytan çıkarma,exorcism,2.08,3.48,2.36,NN
@@ -11849,7 +11849,7 @@ sigara tiryakisi,smoker,2.3,2.4,2.95,NN
 siğil,wart,1.84,1.9,2.75,NN
 sigma,sigma,2.92,2.12,3.13,NN
 sigorta,insurance,2.38,2.4,3.42,NN
-sigortalamak,insure,3.34,2.38,3.36,VB
+sigortala>mak,insure,3.34,2.38,3.36,VB
 sih<ir,glamour,3.5,3.03,3.55,NN
 sihirbaz,wizard,3.76,2.55,2.84,NN
 sihirbazlık^,sorcery,3.07,2.67,2.93,NN
@@ -11883,7 +11883,7 @@ silgeç,wiper,2.63,1.81,3.29,NN
 silgi,eraser,3.32,2.29,3.95,NN
 sili,chaste,3.41,2.25,2.62,ADJ
 silikon,silicon,3.05,2.53,3.6,NN
-silikonlamak,silicone,2.63,2.22,3.12,VB
+silikonla^mak,silicone,2.63,2.22,3.12,VB
 sililik^,chastity,2.5,2.76,3.31,NN
 şilin,shilling,3.18,2.38,3.16,NN
 silindir,cylinder,3.23,2.07,2.79,NN
@@ -11905,7 +11905,7 @@ simetrik^,symmetrical,3.38,2.12,3.03,ADJ
 simge,token,3.32,2.05,3.15,NN
 simgecilik^,symbolism,3.81,2.26,3.15,NN
 simgeleme,representation,2.93,2.68,3.4,NN
-simgelemek,symbolize,3.38,2.71,3.65,VB
+simgele>mek,symbolize,3.38,2.71,3.65,VB
 simgesel,symbolic,3.74,2.37,3.28,ADJ
 simit^,bagel,3.66,2.3,3.09,NN
 simsar,broker,2.58,2.39,3.19,NN
@@ -11929,7 +11929,7 @@ sinematik^,cinematic,3.53,2.68,3.48,ADJ
 sinematografi,cinematography,3.22,2.5,3.52,NN
 sinerji,synergy,3.21,2.65,3.2,NN
 sinik,cynic,2.23,2.84,2.91,ADJ
-sinir,neural,3.53,2.1,2.82,NN
+sinirsel,neural,3.53,2.1,2.82,ADJ
 sinir boşalması,unglued,2.55,2.56,2.48,NN
 sinir bozucu,frustrating,1.79,3.24,2.36,NN
 sinir olmak,annoy,1.75,3.02,2.82,VB
@@ -11937,7 +11937,8 @@ sinirce,neurosis,2.08,2.65,2.07,NN
 sinirini bozmak,faze,2.91,2.46,3.23,VB
 sinirlendirmek,annoy,1.75,3.02,2.82,VB
 sinirlenmek,annoy,1.75,3.02,2.82,VB
-sinirlenmek,annoy,1.75,3.02,2.82,VB
+sinir et^mek,annoy,1.75,3.02,2.82,VB
+kızmak,annoy,1.75,3.02,2.82,VB
 sinirlenmiş,annoyed,1.9,3.15,2.54,ADJ
 sinirleri bozuk^,overwrought,2.26,2.78,2.56,ADJ
 sinirli,irritable,1.93,3.69,2.62,ADJ
@@ -11982,7 +11983,7 @@ sisli,foggy,2.83,2.34,2.61,ADJ
 şişlik^,broach,2.74,2.15,2.81,NN
 şişman,obese,1.66,2.48,2.61,ADJ
 şişmanca,chunky,2.55,2.21,2.57,NN
-şişmanlamak,fatten,2.45,2.2,2.83,VB
+şişmanla>mak,fatten,2.45,2.2,2.83,VB
 şişmanlık^,obesity,1.91,2.82,2.78,NN
 şişme,inflatable,2.9,1.9,3.28,NN
 sismik^,seismic,2.73,2.66,2.39,ADJ
@@ -12021,7 +12022,7 @@ sıcaklıkölçer,degree,3.32,2.55,3,NN
 sıçan,rat,2.11,3.45,2.18,NN
 sıçandişi,antique,3.75,2.5,3.4,NN
 sıçrama,splash,3.77,2.9,3.48,NN
-sıçramak,splatter,2.79,3.19,2.77,VB
+sıçra>mak,splatter,2.79,3.19,2.77,VB
 sıfat,adjective,3.48,2.32,3.56,NN
 sıfır,zilch,2.45,2.53,2.63,NN
 sığ,shallow,2.43,2,3.48,ADJ
@@ -12053,7 +12054,7 @@ sıkıcı iş,chore,2.45,2.9,3.04,NN
 sıkıcı tip,cornball,3.28,2.09,3.05,NN
 sıkılgan,bashful,3.28,2.68,2.87,ADJ
 sıkılganlık^,shyness,2.72,2,3.45,NN
-sıkılmak,worry,1.55,3.67,2.09,NN
+sıkılmak,worry,1.55,3.67,2.09,VB
 sıkılmaz,shameless,2.45,2.59,2.79,ADJ
 sıkıntı,hardship,1.9,3.05,2.31,NN
 sıkıntı vermek,harass,1.98,3.55,2.29,VB
@@ -12082,7 +12083,7 @@ sınıflandırma,classification,2.89,2.23,3.37,NN
 sınıflandırmak,classify,3.3,2.63,3.68,VB
 sınır,frontier,3.77,2.48,2.66,NN
 sınırdışı,deportation,2.29,2.71,2.52,NN
-sınırlamak,assess,3.42,2.23,3.11,VB
+sınırla>mak,assess,3.42,2.23,3.11,VB
 sınırlandırılmış,localized,3.03,1.7,3.43,ADJ
 sınırlanmak,remain,3.34,2.1,3.79,VB
 sınırlanmış,depend,3,2.73,3.61,ADJ
@@ -12093,7 +12094,7 @@ sıra,row,3.24,2.2,3.53,NN
 sıradan,mediocre,2.72,2,2.58,ADJ
 sıradanlık^,mediocrity,2.36,2.28,2.34,NN
 sıralama,ranking,3.21,2.43,3.61,NN
-sıralamak,count,3.45,1.65,3.09,VB
+sırala>mak,count,3.45,1.65,3.09,VB
 sıralı,ranking,3.21,2.43,3.61,ADJ
 sırça,glass,3.24,2.07,3.21,NN
 sırdaş,confidant,4.08,2.63,3.91,NN
@@ -12125,7 +12126,7 @@ sızdırılmış,infiltration,2.35,2.89,2.67,ADJ
 sızdırmak,leak,2.5,3.22,2.79,VB
 sızı,prick,1.91,2.63,2.79,NN
 sızıntı,leakage,2.26,3.12,2.34,NN
-sızlamak,tingle,3.62,3.12,3.26,VB
+sızla>mak,tingle,3.62,3.12,3.26,VB
 sızlanma,whimper,2.45,2.65,2.86,NN
 sızlanmak,whine,1.91,2.31,2.87,VB
 sızlatan,stinging,2.29,3.74,2.74,ADJ
@@ -12192,7 +12193,7 @@ solaryum,solarium,3.55,3.1,3.39,NN
 solduran,withering,2.35,2.69,2.52,ADJ
 soldurmak,fetch,3.16,2.53,3.3,VB
 solgun,yellow,3.55,2.42,3.68,NN
-sollamak,overtake,2.48,2.68,3.2,VB
+solla^mak,overtake,2.48,2.68,3.2,VB
 solma,discoloration,2.41,2.53,2.89,NN
 solmak,wither,1.98,2.15,2.41,VB
 solmamış,youthful,3.95,3.34,3.5,ADJ
@@ -12221,7 +12222,6 @@ somurtkan,surly,2.45,2.4,2.98,ADJ
 somut,tangible,3.32,2.59,3.78,ADJ
 son,expiration,2.23,2.65,2.36,ADJ
 son dakika haberi,newsflash,3.13,2.82,2.76,NN
-son derece,utmost,3.91,2.05,3.3,ADJ
 son teslim tarihi,deadline,2.1,3.37,2.77,NN
 sona ermek,expire,2.08,2.5,2.4,VB
 sonar,sonar,3.16,2.56,2.91,NN
@@ -12253,7 +12253,7 @@ sörfçü,surfer,3.24,3.19,3.37,NN
 sorgu,interrogation,1.61,3.21,1.96,NN
 sorgu yargıcı,coroner,2,2.31,2.14,NN
 sorguç,crest,2.95,2.2,3.53,NN
-sorgulamak,interrogate,1.88,2.9,2.82,VB
+sorgula>mak,interrogate,1.88,2.9,2.82,VB
 sorgulayıcı,careful,3.66,1.98,3.42,ADJ
 sormaca,poll,2.82,2.57,3.2,NN
 sormak,ask,3.48,2.24,3.65,VB
@@ -12296,7 +12296,7 @@ soygun,robbery,1.88,3.66,1.84,NN
 soyguncu,mugger,1.45,3.34,1.99,NN
 soykırım,genocide,1.31,3.42,1.75,NN
 söyleme,confession,3.24,2.8,3.09,NN
-söylemek,say,3.46,2.72,3.94,VB
+söyle^mek,say,3.46,2.72,3.94,VB
 söylence,legend,3.93,3.07,3.89,NN
 söylenip durmak,nag,1.65,2.86,2.48,VB
 söylenmek,snarl,1.73,3.43,2.83,VB
@@ -12325,7 +12325,7 @@ sözleşme,contract,3.05,2.48,3.92,NN
 sözlü,viva,3.21,2.6,2.97,ADJ
 sözlük^,dictionary,3.53,1.96,3.44,NN
 sözünden dönmek,backtrack,2.63,2.08,3.15,VB
-sözünü tutmamak,welsh,2.77,2.5,2.95,VB
+sözünü tutma>mak,welsh,2.77,2.5,2.95,VB
 spa,spa,4.19,2.38,3.68,NN
 spagetti,spaghetti,3.96,2.52,3.46,NN
 spam,spam,2.05,2.42,2.48,NN
@@ -12381,7 +12381,7 @@ steakhouse,steakhouse,3.97,2.48,3.24,NN
 steno,shorthand,2.95,2.72,3.23,NN
 stenograf,stenographer,2.98,2.41,2.98,NN
 stenografi,shorthand,2.95,2.72,3.23,NN
-stereo,stereo,4.05,2.52,3.91,ABR
+stereo,stereo,4.05,2.52,3.91,ADJ
 stereotip,stereotype,2.17,2.63,2.41,NN
 steril,sterile,2.79,2.74,2.98,ADJ
 sterilize et^mek,sterilize,3.3,2.62,3.82,VB
@@ -12392,7 +12392,7 @@ stil,style,3.91,2.8,4.24,NN
 stilist,stylist,3.5,2.16,3.28,ADJ
 stoacı,stoic,2.74,2.15,3.52,ADJ
 stok^,stock,3.25,2.25,2.81,NN
-stoklamak,stockpile,3.27,2.78,3.25,VB
+stokla^mak,stockpile,3.27,2.78,3.25,VB
 stopaj,withholding,2.06,2.57,2.85,NN
 stoper,cutter,2.53,2.68,3.44,NN
 strateji,strategy,3.48,2.58,3.84,NN
@@ -12429,7 +12429,7 @@ suç ortağı,accomplice,2.8,2.75,3.1,NN
 suç ortaklığı,complicity,2.73,2.3,3.28,NN
 suçiçeği,chickenpox,1.88,2.9,2.06,NN
 suçlama,blame,1.97,2.91,2.17,NN
-suçlamak,accuse,1.84,3.16,2.5,VB
+suçla^mak,accuse,1.84,3.16,2.5,VB
 suçlayıcı,incriminating,2,3.14,2.25,NN
 suçlu,culprit,1.95,3.27,2.41,NN
 suçluluk^,guilt,1.65,2.74,2.68,NN
@@ -12452,7 +12452,7 @@ sükûti,speechless,2.77,2.23,2.73,ADJ
 sülale,ancestry,3.65,2.36,2.58,NN
 sulama,irrigation,2.41,2.83,3.53,NN
 sulama can,watering can,3.56,2,3.54,NN
-sulamak,irrigate,3.12,2.39,3.3,VB
+sula^mak,irrigate,3.12,2.39,3.3,VB
 sulanmış,wet,3.32,3,3.56,ADJ
 şule,flame,3.45,3.8,2.82,NN
 sülfat,sulfate,2.82,2.34,2.96,NN
@@ -12530,7 +12530,7 @@ sürtünme,friction,2.5,3.03,2.62,NN
 sürü,herd,3.34,2.17,3,NN
 sürücü,drive,3.75,2.6,3.34,NN
 sürükleme,dispatch,2.95,2.28,3.16,NN
-sürüklemek,drag,2.34,2.91,3.26,VB
+sürükle^mek,drag,2.34,2.91,3.26,VB
 sürüklenme,drift,3.05,2.16,2.79,NN
 sürükleyici,dynamo,3.61,3.09,3.41,ADJ
 sürüm,emission,2.55,2.34,2.84,NN
@@ -12546,7 +12546,7 @@ süsen,sesame,3.23,2.48,3.46,NN
 suşi,sushi,3.63,3.42,3.41,NN
 suskun,speechless,2.77,2.23,2.73,ADJ
 süsleme,ornament,3.82,2.16,3.2,NN
-süslemek,decorate,3.63,2.67,3.98,VB
+süsle^mek,decorate,3.63,2.67,3.98,VB
 süsleyici,decorative,4.26,2.88,3.73,ADJ
 susmak,amputate,1.55,3.22,2,VB
 süspansiyon,suspension,2.68,2.79,3.23,NN
@@ -12629,7 +12629,7 @@ taflan,sassafras,3.24,2.34,3.24,NN
 tafsilatlı,elaborate,3.69,2.62,3.53,ADJ
 tahakkuk^,realization,3.71,2.34,3.34,NN
 tahakküm,edition,3.15,2.4,2.91,NN
-tahammül et^mek,retire,3.7,1.96,3.36,VB
+tahammül et^mek,bear,3.17,2.75,2.3,VB
 tahammülfersa,intolerable,2.07,3.21,2.58,ADJ
 taharri,exploration,3.86,3,3.18,NN
 tahassür,aspiration,3.63,3,3.47,NN
@@ -12687,7 +12687,7 @@ takdis et^mek,bless,4,2.79,3.63,VB
 takibat,prosecution,2.19,2.78,1.94,NN
 takip^,pursuit,2.9,3.34,3.23,NN
 takipçi,follower,2.93,2.2,2.79,NN
-takı,jewelry,4,2.19,3.6,NN
+mücevher,jewelry,4,2.19,3.6,NN
 takılganlık^,prank,2.9,3.18,2.87,NN
 takılı,unplugged,2.65,2.13,2.98,ADJ
 takılmış,unplugged,2.65,2.13,2.98,ADJ
@@ -12733,7 +12733,6 @@ talimat,instruction,3.11,1.81,3.33,NN
 talimatname,ordinance,2.88,2.48,2.84,NN
 talip^,pretender,2.3,3.28,2.89,ADJ
 talk pudrası,talcum,3.23,2.53,2.86,NN
-tam,whole,3.43,2.24,3.62,ADJ
 tam gelmek,be,3.59,2.22,3.25,VB
 tamah,greed,1.74,2.73,2.5,NN
 tamahkârlık^,greed,1.74,2.73,2.5,NN
@@ -12741,7 +12740,7 @@ tamamen,wipe,2.79,2.27,3.22,ADV
 tamamiyet,entirety,3.48,2.05,3.57,NN
 tamamı,entire,3.34,1.93,3.03,NN
 tamamlama,completion,4.19,2.62,4.37,NN
-tamamlamak,bind,2.91,2.77,2.62,VB
+tamamla>mak,bind,2.91,2.77,2.62,VB
 tamamlanmak,be,3.59,2.22,3.25,VB
 tamamlanmamış,stubby,2.75,2.57,3.15,ADJ
 tamamlayan,complement,3.85,3.45,3.89,ADJ
@@ -12764,8 +12763,8 @@ tanılama,diagnosis,2.81,2.5,2.28,NN
 tanım,definition,3.32,2.07,3.34,NN
 tanıma,recognition,3.84,2.73,4,NN
 tanımak,recognize,3.57,2.6,4.06,VB
-tanımamak,disown,1.65,2.77,2.32,VB
-tanımlamak,describe,3.45,1.98,3.28,VB
+tanıma>mak,disown,1.65,2.77,2.32,VB
+tanımla>mak,describe,3.45,1.98,3.28,VB
 tanımlanamayan,unidentified,2.76,2.95,2.31,ADJ
 tanımlayıcı,descriptive,3.37,2.23,3.74,ADJ
 tanınabilir,recognizable,3.66,2.8,3.75,ADJ
@@ -12802,9 +12801,9 @@ tarafsız,impartial,3.11,2.45,3,ADJ
 tarafsızlık^,objectivity,3.32,2.55,4.02,NN
 taraftar,beneficiary,3.6,2.73,3.75,NN
 tarak^,comb,3.33,1.67,3.84,NN
-taraklamak,scan,3.24,2.55,3.32,VB
+tarakla>mak,scan,3.24,2.55,3.32,VB
 tarama,screening,2.89,2.57,3.6,NN
-taramak,scan,3.24,2.55,3.32,VB
+tara>mak,scan,3.24,2.55,3.32,VB
 tarantula,tarantula,2.19,3.88,2.52,NN
 tarassut et^mek,observe,3.15,2.63,3.46,VB
 tarassut^,waffle,3.88,2.75,3.65,NN
@@ -12854,7 +12853,7 @@ tasar çizimci,designer,3.29,3,3.22,NN
 tasarı,thought,3.88,2.58,3.58,NN
 tasarım,styling,3.35,2.36,3.71,NN
 tasarımcı,designer,3.29,3,3.22,NN
-tasarlamak,devise,2.73,2.74,3.08,VB
+tasarla>mak,devise,2.73,2.74,3.08,VB
 tasarruf,savings,4.34,1.93,3.93,NN
 tasarruf et^mek,boost,3.77,2.85,3.63,VB
 tasasız,painless,4.2,2.55,3.36,ADJ
@@ -12881,8 +12880,8 @@ taşıt,tool,3.04,2.46,3.49,NN
 taşıyıcı,carrier,3.1,1.98,3.05,NN
 taşkın,excessive,2.69,2.37,2.52,ADJ
 taslak^,draught,2.45,2.16,2.68,NN
-taslamak,sell,3.17,2.6,3.44,VB
-taşlamak,criticize,1.71,3.14,2.85,VB
+tasla>mak,sell,3.17,2.6,3.44,VB
+taşla>mak,criticize,1.71,3.14,2.85,VB
 taşlaşmış,petrified,2.19,3.09,2.29,ADJ
 taşlı,stony,2.77,2.55,2.98,ADJ
 taşlık^,gizzard,2.43,2.43,3.03,NN
@@ -12938,7 +12937,7 @@ tazammun,implication,2.89,2.36,2.91,NN
 tazammun et^mek,contain,3,2,3.34,VB
 taze,fresh,3.84,1.68,3.64,ADJ
 taze fasulye,green bean,3.11,2.26,3.33,NN
-tazelemek,freshen,3.78,2.84,4.13,VB
+tazele>mek,freshen,3.78,2.84,4.13,VB
 tazeleyici,freshener,3.36,2.59,3.6,ADJ
 tazelik^,freshness,4.22,2.55,3.65,NN
 tazı,greyhound,3.48,2.45,3.13,NN
@@ -12966,7 +12965,6 @@ tecil,postponement,2.5,2.68,3.19,NN
 tecil et^mek,adjourn,3.25,2.08,3.38,VB
 tecrit et^mek,isolate,2.68,2.8,2.69,VB
 tecrit^,insulation,3.19,2.36,3.28,NN
-tecrübe,essay,2.95,2.5,3.28,NN
 tecrübe et^mek,try,3.32,2.5,3.47,VB
 tecrübesiz,inexperienced,2.25,2.34,2.32,ADJ
 tecrübi,empirical,2.84,2.57,3.15,ADJ
@@ -13063,11 +13061,11 @@ tekrar evlenmek,remarry,3.26,2.79,3.35,VB
 tekrar ifade et^mek,rephrase,3,1.83,3.55,VB
 tekrar kontrol,recheck,2.98,2.98,3.19,NN
 tekrar oynatmak,rerun,2.82,2.24,2.87,VB
-tekrar planlamak,reschedule,2.36,1.98,2.9,VB
-tekrar programlamak,reprogram,3.26,2.36,3.5,VB
+tekrar planla>mak,reschedule,2.36,1.98,2.9,VB
+tekrar programla>mak,reprogram,3.26,2.36,3.5,VB
 tekrar ziyaret et^mek,revisit,3.41,2.45,3.42,VB
 tekrarlama,encore,3.95,2.55,3.26,NN
-tekrarlamak,reiterate,2.95,2.31,3.6,VB
+tekrarla>mak,reiterate,2.95,2.31,3.6,VB
 tekrarlanma,repeat,2.82,2.35,3.61,NN
 tekrarlayan,repetitive,2.53,2.46,2.95,ADJ
 teksif et^mek,concentrate,3.73,3.06,3.84,VB
@@ -13126,7 +13124,7 @@ teminat,assurance,3.48,1.91,3.54,NN
 temiz,clean,4.05,2.29,3.56,ADJ
 temize çıkarmak,exonerate,3.22,2.42,3.41,VB
 temizleme,cleanup,2.93,2.02,3.8,NN
-temizlemek,cleanse,3.83,2.77,3.71,VB
+temizle>mek,cleanse,3.83,2.77,3.71,VB
 temizleyici,cleansing,3.93,2.75,3.64,NN
 temizlik^,cleanliness,4.11,2.53,3.98,NN
 temizlikçi,cleanser,3.7,2.31,3.62,NN
@@ -13353,7 +13351,7 @@ titrek kavak^,aspen,3.79,2.56,3.25,NN
 titrek^,shaky,2.08,2.67,2.4,ADJ
 titrem,ton,3,2.28,3.04,NN
 titreme,tremor,2.63,2.86,2.3,NN
-titremek,vibrate,3.15,3.26,3.18,VB
+titre>mek,vibrate,3.15,3.26,3.18,VB
 titreşen yıldız,pulsar,3.16,2.86,2.88,NN
 titreşim,vibration,3.27,3.18,3.22,NN
 titreyen,shaky,2.08,2.67,2.4,ADJ
@@ -13366,7 +13364,7 @@ tıbbi,medicinal,3.23,3.44,3.08,ADJ
 tığ,biz,2.85,2.71,3.14,NN
 tık,click,3.35,1.91,3.26,NN
 tıkac^,gag,2.72,2.3,2.41,NN
-tıkamak,obstruct,2.31,2.65,2.85,VB
+tıka>mak,obstruct,2.31,2.65,2.85,VB
 tıkanabilir,lockup,2.1,2.56,2.82,ADJ
 tıkanıklık^,congestion,2.13,2.62,2.2,NN
 tıkırtı,clicker,3.16,2.31,3.48,NN
@@ -13384,7 +13382,7 @@ tıraş makinesi,shaver,3.2,2.61,3.22,NN
 tırıs,trot,3.32,3.05,3.33,NN
 tırkaz,bedpan,1.87,3.03,2.5,NN
 tırmalama,irritation,2.19,3.25,2.68,NN
-tırmalamak,scrabble,3.57,2.26,3.78,VB
+tırmala>mak,scrabble,3.57,2.26,3.78,VB
 tırmalanma,irritation,2.19,3.25,2.68,NN
 tırmanan,escalating,2.88,2.75,3.29,ADJ
 tırmanıcı,parrot,3.9,2.83,2.63,NN
@@ -13393,7 +13391,7 @@ tırmanmak,mount,3.19,2.55,3.32,VB
 tırmık^,rake,2.88,2.61,3.12,NN
 tırnak işareti koymak,unquote,3.11,2,2.81,VB
 tırnak^,fingernail,3.29,2.25,2.87,NN
-tırnaklamak,scrabble,3.57,2.26,3.78,VB
+tırnakla>mak,scrabble,3.57,2.26,3.78,VB
 tırtık^,notch,3.16,1.98,2.9,NN
 tırtıl,grub,2.58,2.73,2.94,NN
 tırtırkçı,pickpocket,1.68,3.5,2.3,NN
@@ -13404,7 +13402,7 @@ toka,clasp,3.1,2.26,3.24,NN
 tokalaşma,handshake,3.61,2.66,3.75,NN
 tokat^,slap,1.98,2.8,2.89,NN
 tokatçı,cheater,1.98,3.48,2.55,NN
-tokatlamak,swipe,2.74,2.34,3,VB
+tokatla>mak,swipe,2.74,2.34,3,VB
 tokmak^,gavel,2.65,1.86,2.61,NN
 tokmakçı,gigolo,2.7,2.66,3.16,NN
 toksik,toxic,1.68,3.15,2.57,ADJ
@@ -13441,7 +13439,7 @@ topçuluk^,gunnery,2.45,2.71,2.87,NN
 tophane,armory,3.13,2.74,3.37,NN
 toplam,sum,3.36,2.05,3.44,NN
 toplama,summation,2.93,2.58,3.1,NN
-toplamak,collect,3.45,2.07,3.24,VB
+topla>mak,collect,3.45,2.07,3.24,VB
 toplanma,muster,2.84,2.33,3.21,NN
 toplanmak,convene,3,2.53,3.5,VB
 toplanmış,collective,3.1,1.93,3.2,ADJ
@@ -13589,14 +13587,14 @@ türbin,turbine,2.83,3.24,3.36,NN
 turbo,turbo,3.48,3.31,3.61,ADJ
 türbülans,turbulence,1.98,3.73,1.84,NN
 türe,justice,3.9,3.2,3.66,NN
-türemek,come,3.32,2.29,3.47,VB
+türe^mek,come,3.32,2.29,3.47,VB
 türet^mek,derive,2.86,1.95,3.48,VB
 türev,derivative,2.85,2.36,2.8,NN
 turgay,lark,3.1,2.26,2.98,NN
 turist,tourist,3.36,2.29,3.03,ADJ
 turizm,tourism,3.18,2.53,3.33,NN
 türkü,ballad,3.67,2.3,3.66,NN
-türkü söylemek,invoke,3.03,2.93,3.27,VB
+türkü söyle^mek,invoke,3.03,2.93,3.27,VB
 turkuaz,turquoise,3.75,2.75,3.16,ADJ
 türkücü,reader,3.76,2.73,3.98,NN
 türlü,assortment,3.32,2.44,3.4,ADJ
@@ -13634,7 +13632,7 @@ tutturulmuş,unplugged,2.65,2.13,2.98,ADJ
 tutu,fathead,2.24,3,2.66,NN
 tutuk^,inmate,1.84,2.87,2,ADJ
 tutuklama,arrest,1.67,3.93,2.06,NN
-tutuklamak,apprehend,2.57,3.07,2.74,VB
+tutukla^mak,apprehend,2.57,3.07,2.74,VB
 tutuklu,inmate,1.84,2.87,2,ADJ
 tutulma,eclipse,3.88,3.06,3.4,NN
 tutulmak,acquire,3.25,2.93,4,VB
@@ -13665,14 +13663,13 @@ tüzel,corporate,2.95,2.87,3.03,ADJ
 tuzlu,salted,3.26,2.52,3.16,ADJ
 tuzlu su,saltwater,2.86,2.29,2.63,NN
 tüzük^,charter,3.28,2.42,3.37,NN
-tv,tv,3.53,2.62,3.12,ABR
-TV,TV,3.21,2.65,3.62,ABR
+tv,tv,3.53,2.62,3.12,NN
+TV,TV,3.21,2.65,3.62,NN
 üç aylık dönem,trimester,3.06,2.91,3.14,NN
 üç aylık^,quarterly,2.98,2.1,3.06,NN
 üç dişli mızrak^,trident,3.19,2.68,2.88,NN
 üç kat,triplicate,2.8,2.58,3.19,ADJ
 üç tekerlekli bisiklet,tricycle,3.57,2.31,3.6,NN
-üc^,three,3.22,2.19,3.23,NN
 uçak bombası,blockbuster,3.34,3.18,3.38,NN
 uçak gemisi,aircraft carrier,3.13,2.82,3.43,NN
 uçak gövdesi,fuselage,2.75,2.03,3.02,NN
@@ -13711,7 +13708,7 @@ ufuk çizgisi,skyline,3.59,2.7,3.18,NN
 üfürükçü,healer,4.19,2.48,3.07,NN
 üfürükçülük et^mek,read,3.87,2.35,3.56,VB
 uğrak^,haunt,2.53,2.94,2.7,ADJ
-uğramak,undergo,2.45,2.44,2.84,VB
+uğra^mak,undergo,2.45,2.44,2.84,VB
 uğraş,profession,3.26,2.17,3.74,NN
 uğraşı,hobby,3.84,2.03,3.91,NN
 uğraşma,battle,2.26,3.63,3.32,NN
@@ -13731,7 +13728,7 @@ uhuvvet,brotherhood,3.71,3.07,3.79,NN
 ulak^,herald,2.95,2.43,3.23,NN
 ulam,category,3.03,1.84,3.24,NN
 ulama,ligature,2.53,2.56,2.71,NN
-ulamak,add,3.62,2.5,3.9,VB
+ula^mak,add,3.62,2.5,3.9,VB
 ulaşılabilir,accessible,3.84,2.1,3.79,ADJ
 ulaşılamayan,unreachable,2,2.2,2.25,ADJ
 ulaşılamaz,unattainable,1.88,2.74,2.56,ADJ
@@ -13836,7 +13833,7 @@ ustalaşmak,excel,3.48,2.93,3.81,VB
 ustalık^,craftsmanship,3.95,2.76,3.65,NN
 ustalıkla,masterful,3.86,2.69,3.89,ADJ
 üste,upward,3.41,2.72,3.25,NN
-üstelemek,coerce,2.16,3.23,3.44,VB
+üstele>mek,coerce,2.16,3.23,3.44,VB
 üstesinden gelmek,overcome,3.91,3.38,3.66,VB
 üstlenme,commitment,3.67,2.63,3.5,NN
 üstlenmek,undertake,2.61,2.61,3.11,VB
@@ -13882,7 +13879,7 @@ uyarılgan,excitable,3.34,3.22,3.78,ADJ
 uyarılmış,aroused,3.48,4.15,3.29,ADJ
 uyarım,stimulation,3.07,2.86,3.15,NN
 uyarlama,adaptation,3.41,2.28,3.52,NN
-uyarlamak,adapt,3.42,2.45,3.38,VB
+uyarla>mak,adapt,3.42,2.45,3.38,VB
 uyarmak,warn,2.95,2.83,3.14,VB
 uydu,satellite,3.28,3.09,2.77,NN
 uydurma,fabrication,2.5,2.56,3.4,ADJ
@@ -13893,7 +13890,7 @@ uygar,civilized,3.74,2.12,3.76,ADJ
 uygarlaşmamış,uncivilized,2.4,2.98,2.56,ADJ
 uygarlık^,civilization,3.6,2.35,3.5,NN
 uygulama,practice,3.36,1.75,3.56,NN
-uygulamak,exert,3.24,2.82,3.5,VB
+uygula^mak,exert,3.24,2.82,3.5,VB
 uygulamalı,practical,3.32,2.25,3.52,ADJ
 uygulanan,prevailing,3.05,2.68,3.33,ADJ
 uygulayıcı,enforcer,2.41,2.6,3.18,NN
@@ -13918,12 +13915,12 @@ uyluk^,femur,2.78,2.03,3.13,NN
 uyma,compliance,3.09,1.93,2.2,NN
 uymak,comply,2.63,1.84,2.85,VB
 uymama,misfit,2.6,3.05,2.76,NN
-uymamak,disobey,2.1,3.18,2.67,VB
+uyma>mak,disobey,2.1,3.18,2.67,VB
 uymayan,inappropriate,2.35,2.98,2.68,ADJ
 uymazlık^,impropriety,2.42,2.14,2.34,NN
 uysal,docile,3.38,1.74,3.23,ADJ
 uyuklama,slumber,3.62,1.87,3.04,NN
-uyuklamak,doze,3.48,2.19,3.33,VB
+uyukla^mak,doze,3.48,2.19,3.33,VB
 uyum,rapport,3.63,2.37,3.31,NN
 uyuma,bearings,3.22,2.15,3.16,NN
 uyumak,muse,3.65,2.88,3.56,VB
@@ -13934,7 +13931,7 @@ uyumsuz,incompatible,2.1,2.31,2.23,ADJ
 uyuşma,accord,3.69,1.93,3.32,NN
 uyuşmazlık^,disagreement,1.93,2.46,3.06,NN
 uyuşmuş,numb,2.4,1.75,2.52,ADJ
-uyuşturucu,opiate,3.18,3.03,3.06,NN
+uyku ilacı,opiate,3.18,3.03,3.06,NN
 uyuşturucu bağımlısı,junky,2.03,2.65,2.93,NN
 uyuşturucu ticareti,drug dealing,1.91,2.85,2.36,NN
 uyuşuk^,sloth,2.53,1.95,2.5,ADJ
@@ -13951,7 +13948,7 @@ uzaklaşmış,estranged,2.34,2.48,2.74,ADJ
 uzaklaştırmak,deport,2.07,2.42,2.37,VB
 uzaklık^,openness,3.76,2.69,3.43,NN
 uzakyazıcı,teletype,3.1,2.43,3.11,NN
-uzamak,alight,3.34,2.43,3.44,VB
+uza^mak,alight,3.34,2.43,3.44,VB
 uzanmış,reclining,3.84,1.69,3.25,ADJ
 uzantı,appendage,2.62,2.68,3.16,NN
 uzatma,extension,3,2.58,3.54,NN
@@ -14144,8 +14141,7 @@ verimlilik^,productivity,3.78,3.05,3.79,NN
 verimsiz,inefficient,2.53,2.48,3.3,ADJ
 verimsizlik^,infertility,2,2.9,1.81,NN
 veritabanı,database,2.88,2.17,3.56,NN
-vermek,give,4.37,2.79,3.36,VB
-vermemek,amputate,1.55,3.22,2,VB
+vermek,supply,3.06,2.14,3.12,VB
 vermut,vermouth,2.98,2.64,3.18,NN
 vernik^,varnish,2.95,2.22,3.23,NN
 versiyon,version,3.15,2.22,3.24,NN
@@ -14214,7 +14210,7 @@ vukuf,comprehension,3.62,2.17,3.55,NN
 vurac^,racket,2.48,2.67,2.73,NN
 vurdumduymaz,impervious,3.11,2.68,2.79,ADJ
 vurgu,emphasis,3.13,2.55,3,NN
-vurgulamak,highlight,3.79,2.4,3.63,VB
+vurgula^mak,highlight,3.79,2.4,3.63,VB
 vurgun,haul,2.98,2.09,3.3,NN
 vurguncu,dodger,2.85,2.48,3.58,NN
 vurgunculuk^,spec,2.75,2.44,3.06,NN
@@ -14242,7 +14238,7 @@ yabani at,mustang,3.66,3.57,3.5,NN
 yabankazı,barnacle,3.14,2.26,2.34,NN
 yabanlık^,personality,3.57,2.75,3.86,NN
 Yabanmersini,blueberry,4.06,2.12,3.35,NN
-yabansı,freakish,2.36,3.06,2.93,VB
+yabansı,freakish,2.36,3.06,2.93,ADJ
 yabansılık^,weirdness,2.91,2.78,3.19,NN
 yadigâr,commemorative,3.42,2.65,3.2,NN
 yadımlama,blight,2.07,2.62,2.46,NN
@@ -14258,7 +14254,7 @@ yağılık^,hostility,1.98,3.87,2.85,NN
 yağışlı,rainy,3.28,2.67,2.72,ADJ
 yağışsızlık^,drought,1.9,2.28,1.98,NN
 yağız,brunette,3.68,2.58,3.18,ADJ
-yağlamak,lube,3.05,2.59,3.29,VB
+yağla>mak,lube,3.05,2.59,3.29,VB
 yağlanmış,greased,3.12,2.82,3.32,ADJ
 yağlayıcı madde,lubricant,3.16,3.19,3.26,NN
 yağlı,fatty,1.69,2.18,2.25,ADJ
@@ -14279,7 +14275,7 @@ yak,yak,2.66,2.42,2.81,NN
 yaka,collar,2.98,2.17,2.82,NN
 yakacak,fuel,2.55,2.48,3.61,NN
 yakacak odun,firewood,3.55,2.79,3.48,NN
-yakalamak,nab,2.33,2.64,2.92,VB
+yakala>mak,nab,2.33,2.64,2.92,VB
 yakalanmak,acquire,3.25,2.93,4,VB
 yakalanmış,stricken,1.9,2.8,2.13,ADJ
 yakalayan,catcher,3.2,2.13,2.9,NN
@@ -14292,7 +14288,6 @@ yakınını kaybetmiş,bereaved,2.33,3.12,2.73,ADJ
 yakınlaştırma,zoom,3.43,3.34,3.45,NN
 yakınlık^,closeness,3.93,2.45,3.74,NN
 yakınma,gripe,2.21,2.62,3,NN
-yakınmak,cry,2.11,3.23,1.78,VB
 yakışık^,compatibility,3.75,3.16,3.25,NN
 yakışıklı,handsome,4.08,2.71,3.61,ADJ
 yakışıksız,sour,2.48,2.98,2.67,ADJ
@@ -14315,12 +14310,12 @@ yakmak,pour,3.08,2.14,3.18,VB
 yakut,ruby,3.9,2.53,3.5,NN
 yalak^,trough,2.6,2.42,2.81,NN
 yalakalık^,flattery,3.37,3.05,3.46,NN
-yalamak,lick,3.69,3.6,3.49,VB
+yala>mak,lick,3.69,3.6,3.49,VB
 yalan,lie,1.7,2.91,2.86,ADJ
 yalan makinesi,polygraph,2.48,2.66,2.94,NN
 yalan yere yemin,perjury,1.98,2.84,2.68,NN
 yalancı,liar,1.71,3.8,2.87,NN
-yalanlamak,contradict,2.29,2.63,2.92,VB
+yalanla>mak,contradict,2.29,2.63,2.92,VB
 yalavaç,prophet,3.16,2.03,2.84,NN
 yalaz,flame,3.45,3.8,2.82,NN
 yaldız,veneer,3.21,2.61,3.07,NN
@@ -14377,9 +14372,9 @@ yanılmak,err,2.29,2.34,2.91,VB
 yanılmaz,infallible,3.43,2.4,3.15,ADJ
 yanılsama,illusion,3.08,2.75,2.37,NN
 yanıltıcı,misleading,2.07,2.74,2.35,ADJ
-yanıltmak,amaze,4.12,3,3.42,VB
+yanıltmak,confuse,2.06,2.64,2.57,VB
 yanıt,response,3.48,2.28,3.53,NN
-yanıtlamak,respond,3.36,2.05,3.5,VB
+yanıtla>mak,respond,3.36,2.05,3.5,VB
 yanıtsız,unanswered,2.05,2.36,2.4,ADJ
 yankesici,pickpocket,1.68,3.5,2.3,NN
 yankı,echo,3.1,2.31,2.8,NN
@@ -14387,14 +14382,14 @@ yankılanan,resounding,3.35,2.67,3.24,ADJ
 yankılanım,acoustic,4.05,2.5,3.4,NN
 yanlış,incorrect,2.05,2.31,2.81,ADJ
 yanlış anlama,misunderstanding,1.93,2.76,2.42,NN
-yanlış anlamak,misunderstand,2.53,3.05,2.25,VB
+yanlış anla>mak,misunderstand,2.53,3.05,2.25,VB
 yanlış anlaşılmaz,unmistakable,3.55,2.67,3.43,ADJ
 yanlış hesap^,miscalculation,2.11,2.86,2.98,NN
 yanlış kanı,misconception,2.33,2.23,2.67,NN
 yanlış koymak,misplace,2.08,2.92,2.57,VB
 yanlış yerleştirmek,misplace,2.08,2.92,2.57,VB
 yanlış yönlendirme,misdirection,2.35,2.39,2.21,NN
-yanlış yorumlamak,misread,2.3,2.4,2.17,VB
+yanlış yorumla^mak,misread,2.3,2.4,2.17,VB
 yanlışsız,honest,4.58,2.5,3.85,ADJ
 yanma,combustion,2.72,3.63,2.57,NN
 yanmak,burn,2.37,3.2,2.45,VB
@@ -14409,7 +14404,7 @@ yansız,neutral,3.25,2.23,3.41,ADJ
 yansızlık^,objectivity,3.32,2.55,4.02,NN
 yanyana,abreast,2.81,2.81,3.1,ADV
 yapabilmek,able,3.82,2.19,3.59,VB
-yapamamak,remain,3.34,2.1,3.79,VB
+yapama>mak,remain,3.34,2.1,3.79,VB
 yapan,doer,3.32,2.69,3.98,NN
 yapay,artificial,2.43,2.59,2.78,ADJ
 yapay doku,artifact,3.6,2.98,3.37,NN
@@ -14439,18 +14434,18 @@ yara,sore,1.9,2.53,2.46,NN
 yara izi,scar,2.36,3.78,2.55,NN
 yaradılış,vascular,2.45,2.78,2.94,NN
 yaradılıştan,congenital,2.56,2.57,2.29,ADJ
-yaralamak,injure,2.37,3.45,2.61,VB
+yarala>mak,injure,2.37,3.45,2.61,VB
 yaralanmaz,invulnerable,3.53,2.43,3.18,ADJ
 yaralar,wounds,1.98,2.5,2.1,NN
 yaralayıcı,hurtful,2.05,3.21,2.15,ADJ
-yaramak,avail,3.21,2.39,3.5,VB
+yara>mak,avail,3.21,2.39,3.5,VB
 yaramaz,naughty,3.52,3.98,3.38,ADJ
 yaramazlık^,mischief,2.89,3.39,2.99,NN
 yaramazlık et^mek,misbehave,2.4,2.64,2.83,VB
 yaramazlık yapmak,misbehave,2.4,2.64,2.83,VB
 yarar,benefit,3.94,2.27,3.63,NN
 yararcı,pragmatic,2.79,2.19,3.23,ADJ
-yararlanamamak,abduct,1.71,3.45,1.88,VB
+yararlanama>mak,abduct,1.71,3.45,1.88,VB
 yararlanma,usage,3.05,1.75,3.52,NN
 yararlanmak,capitalize,3.48,2.46,3.56,VB
 yararlı,helpful,4.22,2.44,3.9,ADJ
@@ -14467,6 +14462,7 @@ yaratık^,creature,3.53,2.89,2.91,NN
 yaratılış,creation,3.93,3.18,3.69,NN
 yaratma,folk,3.59,1.73,3.5,NN
 yaratmak,create,4.43,3.63,4,VB
+yenilik getirmek,create,4.43,3.63,4,VB
 yarayan,benefit,3.94,2.27,3.63,ADJ
 yarda,yard,3.35,2.34,3.42,NN
 yardakçı,stooge,2.15,2.38,2.28,NN
@@ -14527,12 +14523,12 @@ yasa dışı,subterranean,2.88,3.05,2.94,NN
 yasadışı,illegal,1.77,3.28,2.86,ADJ
 yasadışı örgüt üyesi,vigilante,2.88,3.09,3.52,NN
 yasak^,prohibition,1.92,2.52,2.57,NN
-yasaklamak,forbid,1.91,2.93,2.74,VB
+yasakla>mak,forbid,1.91,2.93,2.74,VB
 yasal,legit,3.93,2.9,3.39,ADJ
 yaşam,life,3.84,3.3,3.45,NN
 yaşam tarzı,lifestyle,3.48,3.26,3.7,NN
 yasama organı,legislature,2.28,2.11,2.74,NN
-yaşamak,live,4.48,2.86,3.75,VB
+yaşa>mak,live,4.48,2.86,3.75,VB
 yaşamış olmak,be,3.59,2.22,3.25,VB
 yaşantı,life,3.84,3.3,3.45,NN
 yasasız,lawless,2.05,2.59,2.47,ADJ
@@ -14542,7 +14538,7 @@ yaşayabilir,viable,3.5,2.6,3.68,ADJ
 yaşayan,brisk,3.43,3.15,3.56,ADJ
 yasemin,jasmine,3.87,2.35,3.38,NN
 yaşıt,fellow,3.64,2.03,3.5,NN
-yaslamak,prop,3.08,2.08,3,VB
+yasla>mak,prop,3.08,2.08,3,VB
 yaşlanma,aging,2,2.4,2.03,NN
 yaslanmak,repose,3,1.74,3.34,VB
 yaşlanmak,grow,3.64,1.8,3.25,VB
@@ -14603,13 +14599,13 @@ yayılmak,ramble,2.66,3,3.45,VB
 yayılmış,churn,2.92,2.64,2.68,ADJ
 yayımcı,publisher,3.03,2.2,3.27,NN
 yayımcılık^,publishing,3.07,1.98,3.21,NN
-yayımlamak,displace,1.95,2.4,2.83,VB
+yayımla>mak,displace,1.95,2.4,2.83,VB
 yayımlanmak,emerge,3.38,2.87,3.84,VB
 yayın,publication,3.24,1.9,2.82,NN
 yayıncı,publisher,3.03,2.2,3.27,NN
 yayıncılık^,publishing,3.07,1.98,3.21,NN
 yayınevi,catalog,3.48,1.67,3.38,NN
-yayınlamak,publish,3.46,2.34,3.72,VB
+yayınla>mak,publish,3.46,2.34,3.72,VB
 yayla,plateau,3.42,2.34,3.32,NN
 yaylak^,pasture,3.58,2.07,3.38,NN
 yaylı tüfek^,crossbow,2.96,3.19,3.48,NN
@@ -14652,7 +14648,7 @@ yegâne,single,3.2,2.43,2.92,ADJ
 yeğen,nephew,3.88,2.67,3.47,NN
 yeğinlik^,severity,2.4,3.24,3.11,NN
 yeğleme,preference,3.58,2.62,4.14,NN
-yeğlemek,opt,2.93,1.72,3.66,VB
+yeğle>mek,opt,2.93,1.72,3.66,VB
 yeğni,lightweight,3.45,2.03,3.18,ADJ
 yekûn,sum,3.36,2.05,3.44,ADJ
 yele,mane,3.16,2.59,3.29,NN
@@ -14661,7 +14657,6 @@ yelken,sail,3.92,2.37,3.69,NN
 yelkenli,sailboat,3.91,1.75,3.53,ADJ
 yellenme,fart,2.53,2.87,2.35,NN
 yelpaze,diversity,3.57,2.11,2.86,ADJ
-yem,bait,2.5,2.25,3.48,NN
 yemek borusu,esophagus,2.75,2.38,3.02,NN
 yemek kitabı,cookbook,3.73,2.23,3.48,NN
 yemek kutusu,lunchbox,3.82,2.6,3.56,NN
@@ -14694,14 +14689,14 @@ yeni yetme,teenager,2.79,2.62,2.65,NN
 yeniden,reconnect,3.69,2.53,3.54,ADV
 yeniden açmak,reopen,3.38,2.57,3.34,VB
 yeniden atama,reassignment,2.68,2.13,2.53,NN
-yeniden atamak,reassign,2.88,2.34,2.97,VB
-yeniden ayarlamak,reconfigure,2.93,2.26,3.2,VB
+yeniden ata>mak,reassign,2.88,2.34,2.97,VB
+yeniden ayarla>mak,reconfigure,2.93,2.26,3.2,VB
 yeniden başlatmak,reboot,3.19,3.05,3.36,VB
-yeniden boyamak,repaint,2.81,2.18,3.59,VB
+yeniden boya^mak,repaint,2.81,2.18,3.59,VB
 yeniden doğmuş,reborn,3.3,2.95,3.15,ADJ
 yeniden doğuş,rebirth,3.65,2.76,3.4,NN
 yeniden düşünmek,rethink,3.17,2.27,3.44,VB
-yeniden düzenlemek,reorganize,3.34,2.58,3.61,VB
+yeniden düzenle>mek,reorganize,3.34,2.58,3.61,VB
 yeniden evlenmek,remarry,3.26,2.79,3.35,VB
 yeniden giriş,reentry,2.84,2.29,3.89,NN
 yeniden görüşmek,renegotiate,3.45,2.35,3.21,VB
@@ -14709,13 +14704,13 @@ yeniden inşa et^mek,rebuild,3.69,2.72,3.15,VB
 yeniden kazanmak,regain,3.63,2.03,3.54,VB
 yeniden kurmak,reconstruct,3.35,2.48,3.54,VB
 yeniden okumak,reread,3.09,2.34,3.2,VB
-yeniden planlamak,reschedule,2.36,1.98,2.9,VB
-yeniden programlamak,reprogram,3.26,2.36,3.5,VB
+yeniden planla>mak,reschedule,2.36,1.98,2.9,VB
+yeniden programla>mak,reprogram,3.26,2.36,3.5,VB
 yeniden sahneleme,reenactment,3.23,2.57,3.35,NN
 yeniden seçilme,reelection,3.18,2.66,3.3,NN
 yeniden şekillendirmek,rewire,3.34,2.37,2.95,VB
-yeniden tasarlamak,redesign,3.38,2.77,3.47,VB
-yeniden toplamak,regroup,2.85,2.55,3.64,VB
+yeniden tasarla>mak,redesign,3.38,2.77,3.47,VB
+yeniden topla>mak,regroup,2.85,2.55,3.64,VB
 yeniden yapmak,remake,2.77,2.08,3.42,VB
 yeniden yargılama,retrial,2.48,3.03,2.83,NN
 yeniden yazmak,rewrite,2.6,2.39,3.38,VB
@@ -14723,7 +14718,7 @@ yeniden yönlendirmek,reroute,2.39,2,2.5,VB
 yenik düşmek,lose,2.3,3.22,2.7,VB
 yenilebilir,edible,3.84,3.08,3.73,ADJ
 yenileme,refresh,3.81,1.89,3.5,NN
-yenilemek,renew,3.5,2.57,3.72,VB
+yenile>mek,renew,3.5,2.57,3.72,VB
 yenilenme,regeneration,3.5,3,3.68,NN
 yenilgi,defeat,2.37,2.57,2.44,NN
 yenilgiye uğramış,vanquished,2.59,3.26,2.77,ADJ
@@ -14819,7 +14814,7 @@ yiğit^,valiant,3.61,2.95,3.59,ADJ
 yiğitçe,manly,3.55,3.32,3.74,ADV
 yiğitlik^,bravery,4.19,3.42,3.79,NN
 yine,guinea,3.25,2.24,3,ADV
-yinelemek,reiterate,2.95,2.31,3.6,VB
+yinele>mek,reiterate,2.95,2.31,3.6,VB
 yinelenen,recurring,2.71,2.22,2.87,ADJ
 yirmi,twenty,3.63,2.34,3.07,NN
 yitik^,bereavement,2.1,2.73,2.49,ADJ
@@ -14840,8 +14835,7 @@ yıkayıcı,washer,3.08,1.95,3.5,NN
 yıkı,ruin,1.66,3.2,3.08,ADJ
 yıkıcı,devastating,1.55,3.25,2.48,ADJ
 yıkık^,rundown,2.4,2.28,2.23,ADJ
-yıkılma,collapse,2.19,3.57,2.37,NN
-yıkılmak,alight,3.34,2.43,3.44,VB
+yıkılmak,collapse,2.19,3.57,2.37,VB
 yıkılmaz,foolproof,3.41,2.68,3.5,ADJ
 yıkım,blight,2.07,2.62,2.46,NN
 yıkıntı,wreckage,2.19,3.36,2.45,NN
@@ -14894,7 +14888,7 @@ yok olmak,retire,3.7,1.96,3.36,VB
 yok^,unavailable,2.26,2.43,2.34,ADJ
 yoket^mek,annihilate,2.08,3.72,2.81,VB
 yoklama,check,3.78,2.19,2.84,NN
-yoklamak,seek,3.63,2.45,3.58,VB
+yokla^mak,seek,3.63,2.45,3.58,VB
 yokluk^,absence,2.43,2.65,2.62,NN
 yoksul,impoverished,1.72,2.82,2.15,ADJ
 yoksulluk^,poverty,1.5,3.15,2.08,NN
@@ -14910,6 +14904,7 @@ yol çukuru,pothole,2.27,2.9,2.67,NN
 yol kenarı,roadside,2.83,2.53,3.53,NN
 yol vermek,yield,3.1,2.43,3.03,VB
 yola çıkmak,move,2.98,2.62,3.06,VB
+hareket et^mek,move,2.98,2.62,3.06,VB
 yolak^,pathway,3.53,1.89,3.62,NN
 yolcu,passenger,2.78,2.41,2.5,NN
 yolcu et^mek,send,3.59,2.22,3.47,VB
@@ -14917,7 +14912,7 @@ yolcu gemisi,cruise ship,4.03,2.71,2.83,NN
 yolculuk^,journey,3.83,2.95,3.89,NN
 yoldaş,comrade,4.15,2.63,3.34,NN
 yoldaşlık^,companionship,4.45,3.03,3.5,NN
-yollamak,chuck,3.03,2.48,3.02,VB
+yolla^mak,chuck,3.03,2.48,3.02,VB
 yolmak,pluck,2.45,2.58,3.37,VB
 yolsuzluk^,malpractice,1.87,3.13,2.65,NN
 yomsuz,ominous,2.48,3.29,2.74,ADJ
@@ -14957,7 +14952,7 @@ yorulmaz,tireless,2.98,2.71,3.55,ADJ
 yorum,comment,3.33,2.28,3.48,NN
 yorumcu,commentator,3.06,2.55,3.09,NN
 yorumlama,interpretation,3.3,2.61,3.22,NN
-yorumlamak,gloss,3.5,2.91,3.26,VB
+yorumla^mak,gloss,3.5,2.91,3.26,VB
 yorumlu,interpretive,3.08,1.95,3.65,ADJ
 yörünge,orbit,3.48,2.63,3.03,NN
 yosun,seaweed,2.76,2.45,3.07,NN
@@ -14978,7 +14973,7 @@ yukarıya,upward,3.41,2.72,3.25,ADJ
 yükçü,bearer,2.98,2.85,3.34,NN
 yüklem,news,2.98,2.81,2.74,NN
 yükleme,imposition,2.18,2.38,2.44,NN
-yüklemek,upload,3.8,2.3,3.92,VB
+yükle^mek,upload,3.8,2.3,3.92,VB
 yüklenmek,carry,3.34,2.24,2.97,VB
 yükleyici,loader,2.74,1.98,3.67,NN
 yüklü,burdened,2.14,2.55,2.33,ADJ
@@ -15007,7 +15002,7 @@ yumruk kavgası,fistfight,2.5,3.62,2.72,NN
 yumruk oyuncusu,boxer,3.11,2.57,3.32,NN
 yumruk oyunu,boxing,2.74,3.37,3.32,NN
 yumruk^,fist,1.98,2.93,2.98,NN
-yumruklamak,batter,3.12,2.43,3.5,VB
+yumrukla^mak,batter,3.12,2.43,3.5,VB
 yumrulu,lumpy,2.38,2.47,2.56,ADJ
 yumurta,egg,3.48,2.14,3.37,NN
 yumurta kabuğu,eggshell,3.1,2.09,2.67,NN
@@ -15015,11 +15010,11 @@ yumurta likörü,eggnog,3.5,2.64,3.13,NN
 yumurta sarısı,yolk,3.16,2.03,3.34,NN
 yumurtalık^,ovary,3.12,2.34,3.07,NN
 yumurtamsı,oval,3.07,2.25,3.27,ADJ
-yumurtlamak,spawn,2.93,2.5,3.31,VB
+yumurtla^mak,spawn,2.93,2.5,3.31,VB
 yumuşak başlı,docile,3.38,1.74,3.23,ADJ
 yumuşak^,soft,4.07,2.02,3.55,ADJ
 yumuşaklık^,softness,3.88,3.03,3.46,NN
-yumuşamak,unwind,3.45,2.31,3.28,VB
+yumuşa^mak,unwind,3.45,2.31,3.28,VB
 yumuşatıcı,softener,3.57,1.68,3.2,NN
 yumuşatmak,soften,3.79,1.98,3.6,VB
 yumuşatmalık^,damper,2.65,2.3,2.78,NN
@@ -15125,7 +15120,7 @@ zebra,zebra,3.74,2.45,3.13,NN
 zec<ir,coercion,2.25,2.67,3.06,NN
 zeh<ir,poison,1.58,3.51,2.19,NN
 zehirleme,poisoning,1.64,3.68,2.37,NN
-zehirlemek,tuck,2.95,2.2,3.11,VB
+zehirle>mek,tuck,2.95,2.2,3.11,VB
 zehirli,poisonous,1.76,3.34,2.5,ADJ
 zeka,wit,4.13,2.86,3.58,NN
 zekâ,savvy,3.7,2.62,3.72,NN
@@ -15148,7 +15143,7 @@ zevc^,hubby,3.31,2.66,3.15,NN
 zevce,squaw,2.86,3.25,2.91,NN
 zevk,enjoyment,4.69,3.24,3.78,NN
 zevk almak,enjoy,4.34,3,4.14,VB
-zevkini okşamak,wrap,3.29,2.43,3.16,VB
+zevkini okşa^mak,wrap,3.29,2.43,3.16,VB
 zevkli,pleasurable,4.38,3.67,3.88,ADJ
 zevksiz,tawdry,2.45,2.18,2.19,ADJ
 zevzek^,loudmouth,2.12,3.11,2.7,ADJ
@@ -15188,7 +15183,7 @@ zımni,content,3.85,2.09,3.46,NN
 zımpara,sander,3.2,2.15,3.23,NN
 zımpara taşı,grindstone,2.57,2.85,3.21,NN
 zıpkın,gaff,2.45,2.45,2.7,NN
-zıplamak,prance,3.5,3.03,3.55,VB
+zıpla>mak,prance,3.5,3.03,3.55,VB
 zırdeli,certifiable,3.08,2.84,2.86,ADJ
 zırh,armor,3.55,2.15,3.65,NN
 zırhlı,armored,3.34,2.26,3.35,ADJ
@@ -15206,11 +15201,10 @@ zor,difficult,2.39,2.73,2.39,ADJ
 zor kullanmak,coerce,2.16,3.23,3.44,VB
 zorba,bully,1.84,3.43,2.09,ADJ
 zorlama,duress,1.91,2.73,2.09,NN
-zorlamak,coerce,2.16,3.23,3.44,VB
+zorla^mak,coerce,2.16,3.23,3.44,VB
 zorlanmak,sweat,2.69,3.05,2.85,NN
 zorlaştırmak,complicate,2.15,2.98,2.76,VB
-zorlayan,compelling,3.5,3.07,3.5,ADJ
-zorlayıcı,compelling,3.5,3.07,3.5,ADJ
+ilgi uyandıran,compelling,3.5,3.07,3.5,ADJ
 zorlu,difficult,2.39,2.73,2.39,ADJ
 zorluk^,difficulty,1.79,2.61,2.82,NN
 zorunlu,mandatory,2.45,2.45,2.27,ADJ
@@ -15221,7 +15215,7 @@ züğürt^,ailing,1.98,2.76,2.58,ADJ
 zührevi,venereal,1.98,2.79,2.57,ADJ
 zulmeden,cruel,1.87,3.04,2.89,ADJ
 zulmet^mek,hack,2.48,3.24,2.54,VB
-zulüm,cruelty,1.69,3.45,1.82,NN
+zul<üm,cruelty,1.69,3.45,1.82,NN
 zümrüt^,emerald,4.15,3.17,3.66,NN
 züppe,snob,1.77,2.84,2.91,ADJ
 zürafa,giraffe,3.76,1.96,3.14,NN

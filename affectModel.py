@@ -10,7 +10,6 @@
 #    |   model and sentiment analysis in Turkish language.      |
 #    |                                                          |
 #    |   Author: Eda Aydin Oktay                                |
-#    |   Last updated on Nov/30/2015                            |
 #     \_______________________________ooo______________________/
 #                        /           \
 #                       /:.:.:.:.:.:.:\
@@ -33,6 +32,9 @@ IntensifierTable = os.path.join(DIR_A, 'IntensifierTa.txt')
 InterjectionTable = os.path.join(DIR_A,'interjectionTaE.txt')
 EmoticonTable = os.path.join(DIR_A,'EmoticonT.txt')
 Stopwords = os.path.join(DIR_A,'stopwords.csv')
+PersonNames= os.path.join(DIR_A,'personN.csv')
+
+
 
 #get input in truecase
 def get_input(filename):
@@ -117,6 +119,7 @@ def negate_sizsuz(testing,affdic):
  
 
 #generate words from marked dictionary with vowel harmony/consonant change
+# note: only changes on stem are marked
 def vowel_harmony(affdic, markeddic):
     for word in markeddic:
             convert=''
@@ -132,6 +135,18 @@ def vowel_harmony(affdic, markeddic):
        
             if word[-2:] == "g^":
                 convert=word[:-2]+'ğ'
+                
+            if word[-2:] == "a^":
+                convert=word[:-2]+'u'
+                
+            if word[-2:] == "a>":
+                convert=word[:-2]+'ı'  
+                
+            if word[-2:] == "e>":
+                convert=word[:-2]+'i'
+                
+            if word[-2:] == "e^":
+                convert=word[:-2]+'ü' 
                 
             if word[-2:] == "c^":
             
@@ -167,39 +182,43 @@ def vowel_harmony(affdic, markeddic):
                             
 #check the presence of any negation          
 def check_negation(affect,sentence,affdic):  
+       
        nene=False
        phrases=[phrase for phrase in affect]
        affcopy=copy.deepcopy(affect)
        inputsen=' '.join(sentence)
        if sentence.count("ne") >=2:
           nene=True #notr overall affect 
-       if ''.join(sentence).count("değil") >=2:           
-               nene=True     
-       if "değil mi" in sentence:       
-               nene=True
+#       if ''.join(sentence).count("değil") >=2:           
+#               nene=True     
+
        if nene != True:       
-           degil="değil"
            for seg in affcopy:           
                if "değil" in seg: 
                   degil=seg
-                  if len(sentence)!=1:                           
-                        preword=sentence[sentence.index(degil)-1] #word that "değil" negates
-                        for ph in phrases:
-                            if preword in ph:
-                                connected=copy.deepcopy(ph)
-                        newword= connected+" "+"değil"
-                        affect[newword]=[3,3,3,'NAN']
-                        affect[newword][0]= 6-affcopy[connected][0] # update valence
-                        affect[newword][1]= 6-affcopy[connected][1] # update arousal
-                        affect[newword][2]= 6-affcopy[connected][2] # update dominance
-                        if preword == "yok":
-                            affect[newword][3]='NAN' #neutrilize "yok degil"
-                        else:   
-                            affect[newword][3]='JPH' #ADJ phrase
-                        if connected in affect:
-                           del affect[connected]
-                        if seg in affect:
-                           del affect[seg]
+                  if len(sentence)!=1:  
+                     nextword="dummy" 
+                     if len(sentence)>=sentence.index(degil)+2:
+                         
+                        nextword=sentence[sentence.index(degil)+1]
+                     if nextword != "mi":  #exclude "degil mi" 
+                            preword=sentence[sentence.index(degil)-1] #word that "değil" negates
+                            for ph in phrases:
+                                if preword in ph:
+                                    connected=copy.deepcopy(ph)
+                            newword= connected+" "+"değil"
+                            affect[newword]=[3,3,3,'NAN']
+                            affect[newword][0]= 6-affcopy[connected][0] # update valence
+                            affect[newword][1]= 6-affcopy[connected][1] # update arousal
+                            affect[newword][2]= 6-affcopy[connected][2] # update dominance
+                            if preword == "yok":
+                                affect[newword][3]='NAN' #neutrilize "yok degil"
+                            else:   
+                                affect[newword][3]='JPH' #ADJ phrase
+                            if connected in affect:
+                               del affect[connected]
+                            if seg in affect:
+                               del affect[seg]
   
            
            yok="yok"
@@ -225,7 +244,7 @@ def check_negation(affect,sentence,affdic):
 
 
            affcopy=copy.deepcopy(affect)
-           neg=["miyor", "mıyor", "muyor", "müyor","mayacak", "meyecek","meyeceğiz","mayacağız","mayın","meyin"]                                           
+           neg=["miyor", "mıyor", "muyor", "müyor","mayacak", "meyecek","meyeceğiz","mayacağız","mayacağınız ","meyeceğiniz ","meyeceğim","mayacağım","mayın","meyin"]                                           
            for seg in affcopy:    
               for morp in neg:
                  if morp in seg: 
@@ -233,7 +252,7 @@ def check_negation(affect,sentence,affdic):
                       affect[seg][1]= 6- affect[seg][1]   # update arousal
                       affect[seg][2]= 6- affect[seg][2]   # update dominance
                                
-           neg=["madı", "medi", "memiş", "mamış","memeli","mamalı","madan","meden"]                          
+           neg=["madı", "medi", "memiş", "mamış","memeli","mamalı","madan","meden","mese","masa","memesi","maması"]                          
            for seg in affcopy:    
               for morp in neg:
                  if seg not in affdic:
@@ -242,18 +261,22 @@ def check_negation(affect,sentence,affdic):
                       affect[seg][1]= 6- affect[seg][1]   # update arousal
                       affect[seg][2]= 6- affect[seg][2]   # update dominance                       
                       
-           neg=["masın", "mesin","mem","mam","mez","maz","mayız","meyiz"]                          
+           neg=["masın", "mesin","mem","mam","mez","mazdı","mezdi","mazsa","mezse","mazdınız","mezdiniz","mazdım","mezdim","mazmış","mezmiş","maz","mayız","meyiz","memek","mamak","meyen","mayan"]                          
            for seg in affcopy:
               seg2 = seg.translate(None, ',?!.')
               for morp in neg:                
                  if seg2 not in affdic:
                     if morp == seg2[-len(morp):]: #check only last suffix
-                      print morp  
+#                    if morp in seg2:    
                       affect[seg][0]= 6- affect[seg][0]  # update valence
                       affect[seg][1]= 6- affect[seg][1]   # update arousal
                       affect[seg][2]= 6- affect[seg][2]   # update dominance                       
-                     
+            
+
+
        return affect, nene
+
+
 
 
 
@@ -265,38 +288,43 @@ def check_intensifiers(affect,sentence):
     affcopy=copy.deepcopy(affect)
     phrases=[phrase for phrase in affcopy]
     
+
+    
     for seg in affcopy:
-        for inten in intlist:
-            if inten[0] == seg:                
+        for inten in intlist:         
+            if inten[0] == seg:                  
                 if sentence[-1]!=seg:
+                   
                     nextword=sentence[sentence.index(seg)+1] #word that modifier is connected
+                    connected=copy.deepcopy(nextword)
                     for ph in phrases:
                         if nextword in ph:
                             connected=copy.deepcopy(ph)
-                            
-                    newword= inten[0] +" "+connected   
-                    if affcopy[connected][0]>3.0: #positive polarity
-                        affect[newword]=[3,3,3,'NAN']
-                        affect[newword][0]= affcopy[connected][0]+float(inten[1]) # update valence
-                        affect[newword][1]= affcopy[connected][1]+float(inten[3]) # update arousal
-                        affect[newword][2]= affcopy[connected][2]+float(inten[5]) # update dominance
-                        affect[newword][3]='JPH' #ADJ phrase
-                        if connected in affect:
-                          if inten[0] in affect:
-                             if inten[0] != connected:
-                                map(affect.pop, [connected,inten[0]])
-                                
-                       
-                    if affcopy[connected][0]<3.0: #negative polarity
-                        affect[newword]=[3,3,3,'NAN']
-                        affect[newword][0]= affcopy[connected][0]+float(inten[2]) # update valence
-                        affect[newword][1]= affcopy[connected][1]+float(inten[4]) # update arousal
-                        affect[newword][2]= affcopy[connected][2]+float(inten[6]) # update dominance                    
-                        affect[newword][3]='JPH' #ADJ phrase
-                        if connected in affect:
-                          if inten[0] in affect:
-                              if inten[0] != connected:
-                                 map(affect.pop, [connected,inten[0]])
+                    if connected in affcopy:      #eklendi  
+                      if affcopy[connected][3] != 'NAN':                        
+                        newword= inten[0] +" "+connected   
+                        if affcopy[connected][0]>3.0: #positive polarity
+                            affect[newword]=[3,3,3,'NAN']
+                            affect[newword][0]= affcopy[connected][0]+float(inten[1]) # update valence
+                            affect[newword][1]= affcopy[connected][1]+float(inten[3]) # update arousal
+                            affect[newword][2]= affcopy[connected][2]+float(inten[5]) # update dominance
+                            affect[newword][3]='JPH' #ADJ phrase
+                            if connected in affect:
+                              if inten[0] in affect:
+                                 if inten[0] != connected:
+                                    map(affect.pop, [connected,inten[0]])
+                                    
+                           
+                        if affcopy[connected][0]<3.0: #negative polarity
+                            affect[newword]=[3,3,3,'NAN']
+                            affect[newword][0]= affcopy[connected][0]+float(inten[2]) # update valence
+                            affect[newword][1]= affcopy[connected][1]+float(inten[4]) # update arousal
+                            affect[newword][2]= affcopy[connected][2]+float(inten[6]) # update dominance                    
+                            affect[newword][3]='JPH' #ADJ phrase
+                            if connected in affect:
+                              if inten[0] in affect:
+                                  if inten[0] != connected:
+                                     map(affect.pop, [connected,inten[0]])
 
     return affect
            
@@ -355,18 +383,17 @@ def check_interjections(affect, polarity, valence, arousal, dominance):
 
 
 
-
     return valence, arousal, dominance
                        
 
-#discard initial compound sentence for movie reviews sentiment analysis
-# e.g. oyuncular iyi ama kalitesiz bir film.
+#discard initial compound sentence in sentiment analysis
 def check_conjuction(sentence):
     sen= ' '.join(sentence)
     supdated=sentence
     conj=["ama","rağmen","fakat","oysa", "lakin", "yinede","dışında"]
     for co in conj:
         if co in sentence:
+          if supdated[-len(co):] !=co:
             supdated=sen.split(co,1)[1]
             if len(supdated) > 1:
                supdated=supdated.split()                     
@@ -385,18 +412,39 @@ def check_emoticon(sentence):
             if emo[0] in word:
                 emotion.append(emo[1])
     return emotion
+    
 
-
-
+#check proper names of persons
+def check_personNames(affect):
+    personN=get_to_list(PersonNames)    
+    affcopy=copy.deepcopy(affect)
+    for unit in affcopy:
+      for name in personN:         
+         if unit==personN:               
+            affect[unit]=[3,3,3,'NAN']    
+    return affect
+    
+#stopwords neutralize stopwords
 def check_stopwords(affect):
     stopWordList=get_to_list(Stopwords)
     affcopy=copy.deepcopy(affect)
     for unit in affcopy:
       if unit in stopWordList:          
-         affect[unit]=[3,3,3,'NAN']
-    
+         affect[unit]=[3,3,3,'NAN']    
     return affect
 
+
+
+#remove redundant features
+def feature_reduction(affect,filename):
+    featurelist=get_to_list(filename)
+    affcopy=copy.deepcopy(affect)
+    for unit in affcopy:
+      if unit in featurelist:   
+         for fea in featurelist:
+           if unit == fea:
+              affect[unit]=[3,3,3,'NAN']    
+    return affect
 
 
 # remove repetitive letters of a word "seelaaaaam"
@@ -425,15 +473,12 @@ def remove_mekmak(normwords,mekmak):
             if item[0][-3:]== ('mek'):
                 item[0]=item[0][:-3]
             if item[0][-3:]== ('mak'):
-                item[0]=item[0][:-3]        
-      
-              
-                
+                item[0]=item[0][:-3]
                 
     return normwords
 
        
- # generate trigrams, bigrams or unigrams
+# generate trigrams, bigrams or unigrams
 def ngrams(tokens, min_n, max_n):
     n_tokens = len(tokens)
     ph=[]
@@ -465,10 +510,12 @@ def check_affect(affect,testing,affdic):
                                      aros=affdic[item][1]
                                      domi=affdic[item][2]
                                      pos=affdic[item][3]
-                                     overlap_max=overlap                                     
+                                     overlap_max=overlap   
+#                                     ww=item
                 if vale != 0:
                     segment=[vale,aros,domi,pos]
                     affect[tri]=segment
+#                    affect[ww]=segment
                     for word in i:     
                         if word in testing:
                            testing.remove(word)
@@ -483,7 +530,7 @@ def check_affect(affect,testing,affdic):
                 vale=0
                 aros=0
                 domi=0
-                pos=0                
+                pos=0              
                 for item in affdic:                    
                       if item.count(' ')==1:  #only check bigrams
                          if  item in phrase:                               
@@ -493,7 +540,8 @@ def check_affect(affect,testing,affdic):
                                      aros=affdic[item][1]
                                      domi=affdic[item][2]
                                      pos=affdic[item][3]
-                                     overlap_max=overlap                                     
+                                     overlap_max=overlap 
+
                 if vale != 0:
                     segment=[vale,aros,domi,pos]
                     affect[phrase]=segment
@@ -522,10 +570,11 @@ def check_affect(affect,testing,affdic):
                                  domi=affdic[item][2]
                                  pos=affdic[item][3]
                                  overlap_max=overlap
-                                 print item
+
             if vale != 0:
                 segment=[vale,aros,domi,pos]
                 affect[word]=segment
+
                 
             else:
                 segment=[3.0,3.0,3.0,"NAN"]
@@ -537,12 +586,40 @@ def check_affect(affect,testing,affdic):
 #check positive or negative polary of input sentence
 def check_polarity(affect):
     polarity=1
-    for seg in affect:
-        if affect[seg][0]<3:
+    v=[]
+    for seg in affect:                
+        if affect[seg][3] !='NAN':
+                    v.append(affect[seg][0])                   
+    if len(v)!=0:
+        valAve=sum(v)/len(v)    
+        if valAve<3:
             polarity=-1
-        if affect[seg][0]>=3:   
+        if valAve>=3:   
             polarity=1
+   
     return polarity
+    
+
+#check positive, negative or neutral class of input sentence
+def check_polarity_3(affect):
+    polarity=1
+    v=[]
+    for seg in affect:                
+        v.append(affect[seg][0])      
+                    
+    if len(v)!=0:
+        valAve=sum(v)/len(v)    
+
+        if valAve<=2.95:
+            polarity=-1
+        if valAve>=3.05:   
+            polarity=1
+        if valAve<3.05 and valAve>2.95:
+            polarity=0         
+
+    return polarity    
+    
+    
 
     
 #update VAD with repetititition and upper case annotation scores 
@@ -624,12 +701,311 @@ def overall_average(affect,sentence,nene,emotion):
                     val.append(affect[seg][0])
                     aro.append(affect[seg][1])
                     dom.append(affect[seg][2])
+                    
             if len(val)!=0:
+                
                 valence=sum(val)/len(val)
                 arousal=sum(aro)/len(aro)
                 dominance=sum(dom)/len(dom)        
           
     return valence, arousal, dominance
+    
+    
+ #calculate the overall affective score of sentence by averaging repetitive words too
+ # no pos information is considered   
+def overall_average_all(affect,sentence,nene,emotion):  
+    valence=3.0
+    arousal=3.0
+    dominance=3.0
+    val=[]
+    aro=[]
+    dom=[]
+    emotion=map(float,emotion)
+    
+    if nene==False:
+        if len(emotion)!=0:
+            average=sum(emotion)/len(emotion)
+            valence=average
+            arousal=average
+            dominance=average
+            
+        else:
+            for seg in affect:                
+                if affect[seg][3] !='NAN':
+                   if seg in sentence:
+                      cnt=sentence.count(seg) 
+                   else:
+                      cnt=1
+                   for i in range(0,cnt):
+                        val.append(affect[seg][0])
+                        aro.append(affect[seg][1])
+                        dom.append(affect[seg][2])
+                    
+            if len(val)!=0:
+                
+                valence=sum(val)/len(val)
+                arousal=sum(aro)/len(aro)
+                dominance=sum(dom)/len(dom)        
+          
+    return valence, arousal, dominance
+    
+#calculate the overall affective score of sentence by averaging repetitive words too
+def overall_average_all_pos(affect,sentence,nene,emotion):  
+    affcopy=copy.deepcopy(affect)
+    phrases=[phrase for phrase in affcopy]
+    valence=3.0
+    arousal=3.0
+    dominance=3.0
+    val=[]
+    aro=[]
+    dom=[]
+    emotion=map(float,emotion)
+    
+    if nene==False:
+        if len(emotion)!=0:
+            average=sum(emotion)/len(emotion)
+            valence=average
+            arousal=average
+            dominance=average
+            
+        else:
+            #neuralize NN with NN+VB structure
+            for seg in affcopy: 
+                if affect[seg][3]=="NN":                  
+                   lastwordofunit=seg.split()[-1]            
+                   for words in sentence:
+                          if lastwordofunit in words:
+                              lastunit=copy.deepcopy(words)
+                           
+                              
+                   unitindex=sentence.index(lastunit)
+                   if len(sentence)>=unitindex+2:
+                      nextword=sentence[unitindex+1]    
+                      nextunit="dummy"
+                      for ph in phrases:
+                          if nextword in ph:
+                              nextunit=copy.deepcopy(ph)
+                      if nextunit!="dummy":
+                          posnext=affcopy[nextunit][3]
+                          if posnext=="VB":
+                             affect[seg][3]='NAN'
+        
+           
+            for seg in affect:  
+                if affect[seg][3] !='NAN':
+                   if affect[seg][0] > 3 or affect[seg][0] < 2.99: #movierev. notral range
+                       if seg in sentence:
+                          cnt=sentence.count(seg) 
+                       else:
+                          cnt=1
+                       for i in range(0,cnt):
+                            val.append(affect[seg][0])
+                            aro.append(affect[seg][1])
+                            dom.append(affect[seg][2])
+                    
+            if len(val)!=0:
+                
+                valence=sum(val)/len(val)
+                arousal=sum(aro)/len(aro)
+                dominance=sum(dom)/len(dom)        
+          
+    return valence, arousal, dominance   
+ 
+#specific to tweets   
+#calculate the overall affective score    
+def overall_average_all_pos_tweet(affect,sentence,nene,emotion):  
+    affcopy=copy.deepcopy(affect)
+    phrases=[phrase for phrase in affcopy]
+#    inputsen=' '.join(sentence)
+    valence=3.0
+    arousal=3.0
+    dominance=3.0
+    val=[]
+    aro=[]
+    dom=[]
+    emotion=map(float,emotion)
+    
+    if nene==False:
+        if len(emotion)!=0:
+            average=sum(emotion)/len(emotion)
+            valence=average
+            arousal=average
+            dominance=average
+            
+        else:
+            #neuralize NN with NN+VB structure
+            for seg in affcopy: 
+                if affect[seg][3]=="NN":
+                  
+                   lastwordofunit=seg.split()[-1] 
+           
+                   for words in sentence:
+                          if lastwordofunit in words:
+                              lastunit=copy.deepcopy(words)
+                           
+                              
+                   unitindex=sentence.index(lastunit)
+                   if len(sentence)>=unitindex+2:
+                      nextword=sentence[unitindex+1]    
+                      nextunit="dummy"
+                      for ph in phrases:
+                          if nextword in ph:
+                              nextunit=copy.deepcopy(ph)
+                      if nextunit!="dummy":
+                          posnext=affcopy[nextunit][3]
+                          if posnext=="VB":
+                             affect[seg][3]='NAN'
+                             
+            #neutralize word before "mi"
+            for seg in affcopy: 
+                 if seg =="mi" or seg =="mı":     
+                    preword=sentence[sentence.index(seg)-1] #word that "mi" connected
+                    for ph in phrases:
+                        if preword in ph:
+                            connected=copy.deepcopy(ph) 
+
+                            affect[connected][3]='NAN'
+                             
+                             
+           #neutralize NN with NN+ADJ structure
+            for seg in affcopy: 
+                if affect[seg][3]=="NN":                  
+                   lastwordofunit=seg.split()[-1] 
+                   for words in sentence:
+                          if lastwordofunit in words:
+                              lastunit=copy.deepcopy(words)
+                                                        
+                   unitindex=sentence.index(lastunit)
+                   if len(sentence)>=unitindex+2:
+                      nextword=sentence[unitindex+1]    
+                      nextunit="dummy"
+                      for ph in phrases:
+                          if nextword in ph:
+                              nextunit=copy.deepcopy(ph)
+                      if nextunit!="dummy":
+                          posnext=affcopy[nextunit][3]
+                          if posnext=="ADJ" or posnext=="JPH" :
+                             affect[seg][3]='NAN'             
+               
+           
+            for seg in affect:  
+                if affect[seg][3] !='NAN':
+                    if affect[seg][0] > 3.5 or affect[seg][0] < 2.95:
+                       if seg in sentence:
+                          cnt=sentence.count(seg) 
+                       else:
+                          cnt=1
+                       for i in range(0,cnt):
+                            val.append(affect[seg][0])
+                            aro.append(affect[seg][1])
+                            dom.append(affect[seg][2])
+                        
+            if len(val)!=0:
+                
+                valence=sum(val)/len(val)
+                arousal=sum(aro)/len(aro)
+                dominance=sum(dom)/len(dom)        
+          
+    return valence, arousal, dominance    
+    
+
+
+def overall_average_all_pos_reh(affect,sentence,nene,emotion):  
+    affcopy=copy.deepcopy(affect)
+    phrases=[phrase for phrase in affcopy]
+#    inputsen=' '.join(sentence)
+    valence=3.0
+    arousal=3.0
+    dominance=3.0
+    val=[]
+    aro=[]
+    dom=[]
+    emotion=map(float,emotion)
+    
+    if nene==False:
+        if len(emotion)!=0:
+            average=sum(emotion)/len(emotion)
+            valence=average
+            arousal=average
+            dominance=average
+            
+        else:
+            #neuralize NN with NN+VB structure
+            for seg in affcopy: 
+                if affect[seg][3]=="NN":
+                  
+                   lastwordofunit=seg.split()[-1] 
+           
+                   for words in sentence:
+                          if lastwordofunit in words:
+                              lastunit=copy.deepcopy(words)
+                           
+                              
+                   unitindex=sentence.index(lastunit)
+                   if len(sentence)>=unitindex+2:
+                      nextword=sentence[unitindex+1]    
+                      nextunit="dummy"
+                      for ph in phrases:
+                          if nextword in ph:
+                              nextunit=copy.deepcopy(ph)
+                      if nextunit!="dummy":
+                          posnext=affcopy[nextunit][3]
+                          if posnext=="VB":
+                             affect[seg][3]='NAN'
+        
+            for seg in affcopy: 
+                 if seg =="mi" or seg =="mı":     
+                    preword=sentence[sentence.index(seg)-1] #word that "mi" connected
+                    for ph in phrases:
+                        if preword in ph:
+                            connected=copy.deepcopy(ph) 
+
+                            affect[connected][3]='NAN'
+                             
+                             
+           #neutralize NN with NN+ADJ structure
+            for seg in affcopy: 
+                if affect[seg][3]=="NN":                  
+                   lastwordofunit=seg.split()[-1] 
+                   for words in sentence:
+                          if lastwordofunit in words:
+                              lastunit=copy.deepcopy(words)
+                                                        
+                   unitindex=sentence.index(lastunit)
+                   if len(sentence)>=unitindex+2:
+                      nextword=sentence[unitindex+1]    
+                      nextunit="dummy"
+                      for ph in phrases:
+                          if nextword in ph:
+                              nextunit=copy.deepcopy(ph)
+                      if nextunit!="dummy":
+                          posnext=affcopy[nextunit][3]
+                          if posnext=="ADJ" or posnext=="JPH" :
+                             affect[seg][3]='NAN'             
+             
+           
+            for seg in affect:  
+                if affect[seg][3] !='NAN':
+                    if affect[seg][0] > 3.85 or affect[seg][0] < 2.95:
+                       if seg in sentence:
+                          cnt=sentence.count(seg) 
+                       else:
+                          cnt=1
+                       for i in range(0,cnt):
+                            val.append(affect[seg][0])
+                            aro.append(affect[seg][1])
+                            dom.append(affect[seg][2])
+                    
+            if len(val)!=0:
+                
+                valence=sum(val)/len(val)
+                arousal=sum(aro)/len(aro)
+                dominance=sum(dom)/len(dom)        
+          
+    return valence, arousal, dominance    
+    
+    
+    
     
     
 #calculate the overall affective score of sentence by minmax method

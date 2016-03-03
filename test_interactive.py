@@ -28,32 +28,34 @@ affdic=vowel_harmony(affdic, markeddic)
     
 while 1:   
 
-        inputtext = raw_input('Please enter text to see affective prediction: \n')   
-        inputtext=re.sub(r'\:([a-zA-Z])', r': \1', inputtext) #insert space after ":"
+        inputtext = raw_input('Please enter text to see affective prediction: \n')
         inputtext=re.sub(r'\.([a-zA-Z])', r'. \1', inputtext)   #insert space after "."
-        testing=inputtext.split()                    
+        testing=inputtext.split()
+        testing=test.split()
+        for i in range(0,len(testing)):
+            if testing[i] not in personN:
+                testing[i]=testing[i].lower()
+
         affdic=negate_sizsuz(testing,affdic)                 
         affect={}       
         repp = arousal_reps(testing)  
         upp = upper_case(testing) #check the letter case
-        testing=[word.lower()  for word in testing]
-       
+#        testing=[word.lower()  for word in testing]
         sentence=testing[:]
-    
         testing=correction15000(dicc,testing)
         testing=remove_reps(testing,onlywords)
         sen_cleaned=testing[:]              
         emotion=check_emoticon(sentence)           
         affect=check_affect(affect,testing,affdic)
         affect=check_stopwords(affect)
+        affect=check_personNames(affect)
         affect=check_intensifiers(affect,sen_cleaned)
         affect,nene =check_negation(affect,sen_cleaned,affdic)
-        polarity=check_polarity(affect)          
-        valence,arousal,dominance=overall_average(affect,sen_cleaned,nene,emotion)
-        
-        valence,arousal,dominance= check_interjections(affect, polarity,valence,arousal,dominance)      
-        valence,arousal,dominance= other_features(valence, arousal, dominance,repp,upp, polarity)        
-        valence,arousal,dominance= put_limit(valence, arousal, dominance)
+        polarity=check_polarity(affect)
+        polarity3=check_polarity_3(affect)
+        valence,arousal,dominance=overall_average_all_pos_tweet(affect,sen_cleaned,nene,emotion)
+        valence,arousal,dominance= check_interjections(affect, polarity3,valence,arousal,dominance)
+        valence,arousal,dominance= other_features(valence, arousal, dominance,repp,upp, polarity3)
         
 
         
