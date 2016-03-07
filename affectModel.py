@@ -793,7 +793,7 @@ def overall_average_all_pos(affect,sentence,nene,emotion):
            
             for seg in affect:  
                 if affect[seg][3] !='NAN':
-                   if affect[seg][0] > 3 or affect[seg][0] < 2.99: #movierev. notral range
+                   if affect[seg][0] > 3 or affect[seg][0] < 2.99: #movierev. neutral range
                        if seg in sentence:
                           cnt=sentence.count(seg) 
                        else:
@@ -986,7 +986,7 @@ def overall_average_all_pos_reh(affect,sentence,nene,emotion):
            
             for seg in affect:  
                 if affect[seg][3] !='NAN':
-                    if affect[seg][0] > 3.85 or affect[seg][0] < 2.95:
+                    if affect[seg][0] > 3.5 or affect[seg][0] < 2.95:
                        if seg in sentence:
                           cnt=sentence.count(seg) 
                        else:
