@@ -24,7 +24,8 @@ markedwords=remove_mekmak(markedwords,mekmak)
 affdic={item[0]:[float(item[2]),float(item[3]),float(item[4]),item[5]] for item in normwords}
 markeddic={item[0]:[float(item[2]),float(item[3]),float(item[4]),item[5]] for item in markedwords}        
 affdic=vowel_harmony(affdic, markeddic)
-personN=get_to_list(PersonNames)    
+personN=get_to_list(PersonNames)
+    
     
 while 1:   
 
