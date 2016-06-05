@@ -4,13 +4,13 @@
 #                           / .===. \
 #                          / / a a \ \
 #                         / ( \___/ ) \
-#      ________________ooo\__\_____/__/________________________
-#     /                                                        \
-#    |     Tools for a lexicon-rule based affective analysis    |
-#    |   model and sentiment analysis in Turkish language.      |
-#    |                                                          |
-#    |   Author: Eda Aydin Oktay                                |
-#     \_______________________________ooo______________________/
+#       _______________ooo\__\_____/__/__________________
+#      /                                                 \
+#     |     Tools for a lexicon-rule based affect and     |
+#     |   sentiment analysis in Turkish language.         |
+#     |                                                   |
+#     |    Author: Eda Aydin Oktay                        |
+#      \_______________________________ooo_______________/
 #                        /           \
 #                       /:.:.:.:.:.:.:\
 #                           |  |  |
